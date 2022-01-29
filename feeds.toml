@@ -4,4 +4,13 @@ url = "https://www.stangastaden.se/sokledigt/bostad?actionId=&oboTyper%5B%5D=A3&
 entrySelector = ".search-list-item"
 titleSelector = "a .list-item-header"
 linkSelector = "a"
+contentSelector = [".search-display-info", ".search-right-colum"]
 waitUntil = "networkidle"
+
+[happyride]
+title = "Happyride annonser"
+url = "https://happyride.se/annonser/list.php?search=trek+hope+xx1&category=&county=&creator=&type=1"
+entrySelector = ".sales-table tr"
+filters = ["Kategori"]
+titleSelector = ".col-2"
+linkSelector = ".col-1"
