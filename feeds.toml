@@ -4,3 +4,4 @@ url = "https://www.stangastaden.se/sokledigt/bostad?actionId=&oboTyper%5B%5D=A3&
 entrySelector = ".search-list-item"
 titleSelector = "a .list-item-header"
 linkSelector = "a"
+waitUntil = "load"
