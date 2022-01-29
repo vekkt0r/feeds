@@ -2,322 +2,776 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vekkt0r.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-29T15:53:41.010Z</updated>
+    <updated>2022-01-29T16:00:22.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Nygatan 52 A, 
                                 Innerstaden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6f6472783762766c4f73786f35584330674f4f6431614d736c575571494148584a4a2f62747353545548773d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6f6472783762766c4f73786f35584330674f4f6431614d736c575571494148584a4a2f62747353545548773d"/>
-        <updated>2022-01-29T15:53:33.328Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=735433644278774f75664b7030733472315a5a7a6b336e59334e495449334f7662436f71496d7658796a553d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=735433644278774f75664b7030733472315a5a7a6b336e59334e495449334f7662436f71496d7658796a553d"/>
+        <updated>2022-01-29T16:00:15.424Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
+" title=" Hiss
+">
+        
+        <em class="Egenskap Egenskap-1003"></em>
+        <span> Hiss
+</span></div>
+    
+        
+            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
+" title=" Balkong
+">
+        
+        <em class="Egenskap Egenskap-1007"></em>
+        <span> Balkong
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Nygatan 52 A, 
+                                Innerstaden
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                4 RUM KÖK, 
                             100.3 kvm, 
-                            våning 3  Central fyra med balkong.
+                            våning 3
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=J1bRkxATxpRtBLWeKZl1Wg..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=J1bRkxATxpRtBLWeKZl1Wg..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    Central fyra med balkong.
 Lägenheten har två sovrum. I anslutning till vardagsrummet finns ett allrum.
 Kök med diskmaskin.
 Badrummet renoverades för bara ett par år sedan med kakel/klinker. Här är det dusch. Det finns även en gästwc.
 På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                
-                                
-                                    
-                                        Nygatan 52 A
-                                        Innerstaden
-                                        10 854 kr
-                                        4 RUM KÖK
-                                        100.3 m2
-                                        2022-03-01
-                                        1531 poäng
-                                    
-                                
-                                
-                                    
-                                        Just nu 1531 poäng
-                                        Hyra 10 854 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Nygatan 52 A</span>
+                                        <span class="omrade">Innerstaden</span>
+                                        <span class="hyra">10&nbsp;854 kr</span>
+                                        <span class="typ">4 RUM KÖK</span>
+                                        <span class="yta">100.3 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-03-01</span>
+                                        <span class="poang">1531 poäng</span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 18 personer. <strong>Just nu krävs  1531 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1531 poäng</span>
+                                        <span>Hyra 10&nbsp;854 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rekrytgatan 8, 
                                 T1 (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=746b37456154495674754b4364695066614a6e466b4336464a5a66554c32496e3744385036636f6732416b3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=746b37456154495674754b4364695066614a6e466b4336464a5a66554c32496e3744385036636f6732416b3d"/>
-        <updated>2022-01-29T15:53:33.329Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d4a557668344c36416436775137616335673230756f7862634c384652375a674b55496643636a766d67413d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d4a557668344c36416436775137616335673230756f7862634c384652375a674b55496643636a766d67413d"/>
+        <updated>2022-01-29T16:00:15.425Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
+" title=" Hiss
+">
+        
+        <em class="Egenskap Egenskap-1003"></em>
+        <span> Hiss
+</span></div>
+    
+        
+            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
+" title=" Balkong
+">
+        
+        <em class="Egenskap Egenskap-1007"></em>
+        <span> Balkong
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Rekrytgatan 8, 
+                                T1
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                3 RUM KÖK, 
                             77.5 kvm, 
-                            våning 2  I populära T1 finns denna trea med balkong i söderläge.
+                            våning 2
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=X3G3f10LtO9NMV3GYiVSWw..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=X3G3f10LtO9NMV3GYiVSWw..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    I populära T1 finns denna trea med balkong i söderläge.
 Badrum med badkar och en kombinerad tvättmaskin/torktumlare.
 I köket är det luckor i ek. Diskmaskin finns. 
 Till inflyttningen har det lagts nya golv.
 Tapeterna/färgen i hallen, köket och båda sovrummen är från 2021. I vardagsrummet blir det nytapetserat/målat. Nyproduktion pågår i området (Ebbepark). På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder.
-                                
-                                
-                                    
-                                        Rekrytgatan 8
-                                        T1
-                                        8 829 kr
-                                        3 RUM KÖK
-                                        77.5 m2
-                                        2022-02-16
-                                        1952 poäng
-                                    
-                                
-                                
-                                    
-                                        Just nu 1952 poäng
-                                        Hyra 8 829 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Rekrytgatan 8</span>
+                                        <span class="omrade">T1</span>
+                                        <span class="hyra">8&nbsp;829 kr</span>
+                                        <span class="typ">3 RUM KÖK</span>
+                                        <span class="yta">77.5 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-02-16</span>
+                                        <span class="poang">1952 poäng</span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 17 personer. <strong>Just nu krävs  1952 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1952 poäng</span>
+                                        <span>Hyra 8&nbsp;829 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vårdkasvägen 2 B, 
                                 Majelden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6f556a57716e51453363344e2f78624a6d6d6d655652496b68416766343779733744365a6e6f4e31302b413d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6f556a57716e51453363344e2f78624a6d6d6d655652496b68416766343779733744365a6e6f4e31302b413d"/>
-        <updated>2022-01-29T15:53:33.330Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=42545a507a415941575951697671645a703164336c5a4853727554507967532f346151765130545267526f3d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=42545a507a415941575951697671645a703164336c5a4853727554507967532f346151765130545267526f3d"/>
+        <updated>2022-01-29T16:00:15.426Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
+" title=" Balkong
+">
+        
+        <em class="Egenskap Egenskap-1007"></em>
+        <span> Balkong
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Vårdkasvägen 2 B, 
+                                Majelden
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                3 RUM KÖK, 
                             79.8 kvm, 
-                            våning 1  Mitten av mars är du välkommen att flytta in i en trea i Majelden. Efter inflyttning kommer det att bytas golv i ena sovrummet och vardagsrumsgolvet kommer att slipas. Du som ny hyresgäst kan även passa på att ta kostnadsfri omtapetsering i dessa rum om man skulle önska det.  I vardagsrummet finns en eldningsbar öppenspis och balkong når du från både vardagsrum och kök. Bra förvaring i båda sovrummet och fönster åt olika väderstreck. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                
-                                
-                                    
-                                        Vårdkasvägen 2 B
-                                        Majelden
-                                        7 765 kr
-                                        3 RUM KÖK
-                                        79.8 m2
-                                        2022-03-16
-                                        11 poäng
-                                    
-                                
-                                
-                                    
-                                        Just nu 11 poäng
-                                        Hyra 7 765 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                            våning 1
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=vNe00GuC-AOEUFmbfSSBLw..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=vNe00GuC-AOEUFmbfSSBLw..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    Mitten av mars är du välkommen att flytta in i en trea i Majelden. Efter inflyttning kommer det att bytas golv i ena sovrummet och vardagsrumsgolvet kommer att slipas. Du som ny hyresgäst kan även passa på att ta kostnadsfri omtapetsering i dessa rum om man skulle önska det.  I vardagsrummet finns en eldningsbar öppenspis och balkong når du från både vardagsrum och kök. Bra förvaring i båda sovrummet och fönster åt olika väderstreck. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Vårdkasvägen 2 B</span>
+                                        <span class="omrade">Majelden</span>
+                                        <span class="hyra">7&nbsp;765 kr</span>
+                                        <span class="typ">3 RUM KÖK</span>
+                                        <span class="yta">79.8 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-03-16</span>
+                                        <span class="poang">11 poäng</span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 5 personer. <strong>Just nu krävs  11 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 11 poäng</span>
+                                        <span>Hyra 7&nbsp;765 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[O G Svenssons Väg 11 A, 
                                 Ljungsbro (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=777572676238674c2b6f67304d39502b536d726634467376695a6a322b4a505552364537686a3359476a513d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=777572676238674c2b6f67304d39502b536d726634467376695a6a322b4a505552364537686a3359476a513d"/>
-        <updated>2022-01-29T15:53:33.332Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=66576341523376426c727962724877772f564c7658507457304b6a5762527651585757724e5949615272413d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=66576341523376426c727962724877772f564c7658507457304b6a5762527651585757724e5949615272413d"/>
+        <updated>2022-01-29T16:00:15.427Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-4003" rel="tooltip" data-placement="top" data-title=" Trädgård/Uteplats
+" title=" Trädgård/Uteplats
+">
+        
+        <em class="Egenskap Egenskap-4003"></em>
+        <span> Trädgård/Uteplats
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">O G Svenssons Väg 11 A, 
+                                Ljungsbro
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                4 RUM KÖK, 
                             96 kvm, 
-                            våning 1  Passa på att söka denna välplanerade markplanslägenhet om fyra rum och kök med uteplats i populära Ljungsbro. Endast dusch. Värdesätter du bekvämlighet i vardagen så är detta en lägenhet för dig. Lägenheten är nämligen utrustad med disk-, tvättmaskin, torktumlare samt fullstor kyl och frys. Det finns goda förvaringsmöjligheter med flertal garderober samt tillhörande källarförråd. Perfekt lägenhet för dig med trädgårdsintresse. Du som hyresgäst ansvarar själv för skötsel av din uteplats. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                
-                                
-                                    
-                                        O G Svenssons Väg 11 A
-                                        Ljungsbro
-                                        8 442 kr
-                                        4 RUM KÖK
-                                        96 m2
-                                        2022-05-01
-                                        3529 poäng
-                                    
-                                
-                                
-                                    
-                                        Just nu 3529 poäng
-                                        Hyra 8 442 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                            våning 1
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=zgaJBWFgoQznHGnjzXStfQ..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=zgaJBWFgoQznHGnjzXStfQ..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    Passa på att söka denna välplanerade markplanslägenhet om fyra rum och kök med uteplats i populära Ljungsbro. Endast dusch. Värdesätter du bekvämlighet i vardagen så är detta en lägenhet för dig. Lägenheten är nämligen utrustad med disk-, tvättmaskin, torktumlare samt fullstor kyl och frys. Det finns goda förvaringsmöjligheter med flertal garderober samt tillhörande källarförråd. Perfekt lägenhet för dig med trädgårdsintresse. Du som hyresgäst ansvarar själv för skötsel av din uteplats. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">O G Svenssons Väg 11 A</span>
+                                        <span class="omrade">Ljungsbro</span>
+                                        <span class="hyra">8&nbsp;442 kr</span>
+                                        <span class="typ">4 RUM KÖK</span>
+                                        <span class="yta">96 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-05-01</span>
+                                        <span class="poang">3529 poäng</span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 32 personer. <strong>Just nu krävs  3529 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 3529 poäng</span>
+                                        <span>Hyra 8&nbsp;442 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wahlbecksgatan 6 , 
                                 Östra Valla, Ebbepark Lugnet (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=79315039517078364a4579722f6e757a7244575164516d5248676278465744614c3131553277636e7763633d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=79315039517078364a4579722f6e757a7244575164516d5248676278465744614c3131553277636e7763633d"/>
-        <updated>2022-01-29T15:53:33.334Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=56576b5879424e4178344d5865346d3941537a47664b6e543074573057456e38652b744350786f7169766f3d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=56576b5879424e4178344d5865346d3941537a47664b6e543074573057456e38652b744350786f7169766f3d"/>
+        <updated>2022-01-29T16:00:15.428Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
+" title=" Hiss
+">
+        
+        <em class="Egenskap Egenskap-1003"></em>
+        <span> Hiss
+</span></div>
+    
+        
+            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
+" title=" Balkong
+">
+        
+        <em class="Egenskap Egenskap-1007"></em>
+        <span> Balkong
+</span></div>
+    
+        
+            <div class="PropertyItem Egenskap-3136" rel="tooltip" data-placement="top" data-title=" Inglasad balkong/Uterum
+" title=" Inglasad balkong/Uterum
+">
+        
+        <em class="Egenskap Egenskap-3136"></em>
+        <span> Inglasad balkong/Uterum
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Wahlbecksgatan 6 , 
+                                Östra Valla, Ebbepark Lugnet
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                3 RUM KÖK, 
                             75 kvm, 
-                            våning 5  Mycket fin hyreslägenhet om 3 rum och kök med inglasad balkong i Linköpings nyaste och moderna stadsdel. Lägenheten genomsyras av hög kvalitet och moderna designval av inredningsarkitekten Lukasz Krupinski på ÅWL arkitekter. Genomgående parkettgolv i ljus ask förutom i hallen där det är klinkergolv. I köket finner du induktionshäll med varmluftsugn, diskmaskin, mikrovågsugn,  kyl och frys. Helkaklat badrum, duschplats med duschväggar samt tvättmaskin och torktumlare. Lägenhetsförråd finns i källare. Läs mer om projektet, Ebbepark Lugnet på vår hemsida där du även kan se husen i 3D i vår bostadsväljare. På grund av  rådande omständigheter är visning ej möjlig, vid ett eventuellt erbjudande kommer du att få se lägenheten via bilder. Här finns möjlighet till tidigare inflyttning i samråd med nuvarande hyresgäst och AB Stångåstaden.
-                                
-                                
-                                    
-                                        Wahlbecksgatan 6 
-                                        Östra Valla, Ebbepark Lugnet
-                                        11 898 kr
-                                        3 RUM KÖK
-                                        75 m2
-                                        2022-05-01
-                                        
-                                    
-                                
-                                
-                                    
-                                        Just nu 
-                                        Hyra 11 898 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                            våning 5
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=T_7dH7xRcq70m_Sn5Sp4AA..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=T_7dH7xRcq70m_Sn5Sp4AA..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    Mycket fin hyreslägenhet om 3 rum och kök med inglasad balkong i Linköpings nyaste och moderna stadsdel. Lägenheten genomsyras av hög kvalitet och moderna designval av inredningsarkitekten Lukasz Krupinski på ÅWL arkitekter. Genomgående parkettgolv i ljus ask förutom i hallen där det är klinkergolv. I köket finner du induktionshäll med varmluftsugn, diskmaskin, mikrovågsugn,  kyl och frys. Helkaklat badrum, duschplats med duschväggar samt tvättmaskin och torktumlare. Lägenhetsförråd finns i källare. Läs mer om projektet, Ebbepark Lugnet på vår hemsida där du även kan se husen i 3D i vår bostadsväljare. På grund av  rådande omständigheter är visning ej möjlig, vid ett eventuellt erbjudande kommer du att få se lägenheten via bilder. Här finns möjlighet till tidigare inflyttning i samråd med nuvarande hyresgäst och AB Stångåstaden.
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Wahlbecksgatan 6 </span>
+                                        <span class="omrade">Östra Valla, Ebbepark Lugnet</span>
+                                        <span class="hyra">11&nbsp;898 kr</span>
+                                        <span class="typ">3 RUM KÖK</span>
+                                        <span class="yta">75 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-05-01</span>
+                                        <span class="poang"></span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Detta objekt har intresseanmälts av 1 personer." data-original-title="" title="">Just nu </span>
+                                        <span>Hyra 11&nbsp;898 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rydsvägen 392 A, 
                                 Ryd (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4c70554452646b6b3846536e364b5576557871614a795343377976366b555254316d654e4a4671345041383d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4c70554452646b6b3846536e364b5576557871614a795343377976366b555254316d654e4a4671345041383d"/>
-        <updated>2022-01-29T15:53:33.335Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=556e752b6441534255644d5858764264693673706f4c6b5432687851724c782f7a3553446939375a664c513d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=556e752b6441534255644d5858764264693673706f4c6b5432687851724c782f7a3553446939375a664c513d"/>
+        <updated>2022-01-29T16:00:15.428Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
+" title=" Balkong
+">
+        
+        <em class="Egenskap Egenskap-1007"></em>
+        <span> Balkong
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Rydsvägen 392 A, 
+                                Ryd
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                3 RUM KÖK, 
                             80 kvm, 
-                            våning 2  TILLFÄLLIGT AVTAL. Tillfälligt avtal innebär att avtalet är tillfälligt fram tills den kommande renoveringen startar. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Preliminär renoveringsstart: Årsskiftet 2022/2023, därefter kan du inte bo kvar i lägenheten längre. 
+                            våning 2
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=nhPFLCDzieYHHCvL0J3cHw..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=nhPFLCDzieYHHCvL0J3cHw..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    TILLFÄLLIGT AVTAL. Tillfälligt avtal innebär att avtalet är tillfälligt fram tills den kommande renoveringen startar. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Preliminär renoveringsstart: Årsskiftet 2022/2023, därefter kan du inte bo kvar i lägenheten längre. 
 I mars kan du flytta in i denna trevliga lägenhet i Ryd. Helkaklat badrum med tvätt- och torktumlare. Diskmaskin finns installerad. Laminat i båda sovrummen, ljusrutigt golv i köket. Generellt är väggarna i lägenheten ljusa. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
 
-                                
-                                
-                                    
-                                        Rydsvägen 392 A
-                                        Ryd
-                                        7 188 kr
-                                        3 RUM KÖK
-                                        80 m2
-                                        2022-03-01
-                                        
-                                    
-                                
-                                
-                                    
-                                        Just nu 
-                                        Hyra 7 188 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Rydsvägen 392 A</span>
+                                        <span class="omrade">Ryd</span>
+                                        <span class="hyra">7&nbsp;188 kr</span>
+                                        <span class="typ">3 RUM KÖK</span>
+                                        <span class="yta">80 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-03-01</span>
+                                        <span class="poang"></span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Detta objekt har intresseanmälts av 2 personer." data-original-title="" title="">Just nu </span>
+                                        <span>Hyra 7&nbsp;188 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Djurgårdsgatan 91, 
                                 Eskadern (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6c546a736b456b544e4e7679374d34563458314e66317872552b2f357a47564d66424e66674f656357594d3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6c546a736b456b544e4e7679374d34563458314e66317872552b2f357a47564d66424e66674f656357594d3d"/>
-        <updated>2022-01-29T15:53:33.336Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=3245744878617154424d56796c63374f425452397870616e2b3964674e4e61414971475254715649716b733d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=3245744878617154424d56796c63374f425452397870616e2b3964674e4e61414971475254715649716b733d"/>
+        <updated>2022-01-29T16:00:15.429Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
+" title=" Hiss
+">
+        
+        <em class="Egenskap Egenskap-1003"></em>
+        <span> Hiss
+</span></div>
+    
+        
+            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
+" title=" Balkong
+">
+        
+        <em class="Egenskap Egenskap-1007"></em>
+        <span> Balkong
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Djurgårdsgatan 91, 
+                                Eskadern
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                3 RUM KÖK, 
                             74.1 kvm, 
-                            våning 1  På första våningen finns den här fina trean med balkong.
+                            våning 1
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=B1YisU3Xvszr_J-nXB3qlQ..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=B1YisU3Xvszr_J-nXB3qlQ..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    På första våningen finns den här fina trean med balkong.
 Lägenheten stamrenoverades under 2017.
 I det helkaklade badrummet är det dusch.
 Kök med stor kyl- och frys.
 På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att vias via bilder.
-                                
-                                
-                                    
-                                        Djurgårdsgatan 91
-                                        Eskadern
-                                        7 742 kr
-                                        3 RUM KÖK
-                                        74.1 m2
-                                        2022-03-01
-                                        2259 poäng
-                                    
-                                
-                                
-                                    
-                                        Just nu 2259 poäng
-                                        Hyra 7 742 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Djurgårdsgatan 91</span>
+                                        <span class="omrade">Eskadern</span>
+                                        <span class="hyra">7&nbsp;742 kr</span>
+                                        <span class="typ">3 RUM KÖK</span>
+                                        <span class="yta">74.1 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-03-01</span>
+                                        <span class="poang">2259 poäng</span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 34 personer. <strong>Just nu krävs  2259 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 2259 poäng</span>
+                                        <span>Hyra 7&nbsp;742 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vädursgatan 2 D, 
                                 Majelden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6e6c375a4554304d4758434676316a6f776a4b30682b387542627953336d7363424f675970636837446c6f3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6e6c375a4554304d4758434676316a6f776a4b30682b387542627953336d7363424f675970636837446c6f3d"/>
-        <updated>2022-01-29T15:53:33.337Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=434e4531484c715470564f5166763765464478517742394a4c5a6b4e7950316934713876662b47784544633d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=434e4531484c715470564f5166763765464478517742394a4c5a6b4e7950316934713876662b47784544633d"/>
+        <updated>2022-01-29T16:00:15.432Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
+" title=" Balkong
+">
+        
+        <em class="Egenskap Egenskap-1007"></em>
+        <span> Balkong
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Vädursgatan 2 D, 
+                                Majelden
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                3 RUM KÖK, 
                             80.3 kvm, 
-                            våning 1  Välkommen att söka denna trevliga trea i Majelden. Köket är utrustat med diskmaskin samt spis med varmluftsugn. Lägenheten ligger på första våningen och har balkong samt en eldningsbar öppen spis. Du som ny hyresgäst har möjlighet till fri omtapetsering i hall, vardagsrum och ena sovrummet, efter inflyttning. Här finns möjlighet till tidigare inflyttning efter överenskommelse mellan den avflyttande hyresgästen och AB Stångåstaden. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                
-                                
-                                    
-                                        Vädursgatan 2 D
-                                        Majelden
-                                        7 955 kr
-                                        3 RUM KÖK
-                                        80.3 m2
-                                        2022-04-01
-                                        1505 poäng
-                                    
-                                
-                                
-                                    
-                                        Just nu 1505 poäng
-                                        Hyra 7 955 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                            våning 1
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=_dpz1IjDvacdker1bQtzRg..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=_dpz1IjDvacdker1bQtzRg..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    Välkommen att söka denna trevliga trea i Majelden. Köket är utrustat med diskmaskin samt spis med varmluftsugn. Lägenheten ligger på första våningen och har balkong samt en eldningsbar öppen spis. Du som ny hyresgäst har möjlighet till fri omtapetsering i hall, vardagsrum och ena sovrummet, efter inflyttning. Här finns möjlighet till tidigare inflyttning efter överenskommelse mellan den avflyttande hyresgästen och AB Stångåstaden. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Vädursgatan 2 D</span>
+                                        <span class="omrade">Majelden</span>
+                                        <span class="hyra">7&nbsp;955 kr</span>
+                                        <span class="typ">3 RUM KÖK</span>
+                                        <span class="yta">80.3 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-04-01</span>
+                                        <span class="poang">1505 poäng</span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 17 personer. <strong>Just nu krävs  1505 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1505 poäng</span>
+                                        <span>Hyra 7&nbsp;955 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Prästbolsgatan 15, 
                                 Östra Berga (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=3832716c3374613265335a79676e526e3446495538624f512f476e334451784164476b69647a666e5a50493d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=3832716c3374613265335a79676e526e3446495538624f512f476e334451784164476b69647a666e5a50493d"/>
-        <updated>2022-01-29T15:53:33.338Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=3173683476496b324655683335714f4f3138702f7a6b316d6e2b32356870376b4c7630736f766a79314f383d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=3173683476496b324655683335714f4f3138702f7a6b316d6e2b32356870376b4c7630736f766a79314f383d"/>
+        <updated>2022-01-29T16:00:15.434Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
+" title=" Hiss
+">
+        
+        <em class="Egenskap Egenskap-1003"></em>
+        <span> Hiss
+</span></div>
+    
+        
+            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
+" title=" Balkong
+">
+        
+        <em class="Egenskap Egenskap-1007"></em>
+        <span> Balkong
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Prästbolsgatan 15, 
+                                Östra Berga
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                3 RUM KÖK, 
                             64.8 kvm, 
-                            våning 7  Högst upp i huset finns denna trea med en härlig utsikt.
+                            våning 7
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=AeiMgajLjpkLNcsGl70_ew..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=AeiMgajLjpkLNcsGl70_ew..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    Högst upp i huset finns denna trea med en härlig utsikt.
 Från vardagsrummet når du balkongen.
 Köket stamrenoverades för några år sedan och är utrustat med diskmaskin.
 Badrum med badkar och tvättmaskin.
 Det finns möjlighet till tidigare inflyttning efter samråd med nuvarande hyresgäst och AB Stångåstaden.
 På grund av rådande omständigheter är det ej möjligt med visning. Vid ett eventuellt erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                
-                                
-                                    
-                                        Prästbolsgatan 15
-                                        Östra Berga
-                                        6 878 kr
-                                        3 RUM KÖK
-                                        64.8 m2
-                                        2022-04-01
-                                        1087 poäng
-                                    
-                                
-                                
-                                    
-                                        Just nu 1087 poäng
-                                        Hyra 6 878 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Prästbolsgatan 15</span>
+                                        <span class="omrade">Östra Berga</span>
+                                        <span class="hyra">6&nbsp;878 kr</span>
+                                        <span class="typ">3 RUM KÖK</span>
+                                        <span class="yta">64.8 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-04-01</span>
+                                        <span class="poang">1087 poäng</span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 14 personer. <strong>Just nu krävs  1087 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1087 poäng</span>
+                                        <span>Hyra 6&nbsp;878 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skattegården 39 B, 
                                 Ullevi (Skattegården) (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=646e34725963332f6e615061795235783566557841644b5363756e3943426e466a7a59312f7444764269633d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=646e34725963332f6e615061795235783566557841644b5363756e3943426e466a7a59312f7444764269633d"/>
-        <updated>2022-01-29T15:53:33.340Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=584a6a444633366170696430374c48686e4e75366c5575447a494c4930562f493578735a753769494e77383d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=584a6a444633366170696430374c48686e4e75366c5575447a494c4930562f493578735a753769494e77383d"/>
+        <updated>2022-01-29T16:00:15.435Z</updated>
+        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
+                                
+
+
+
+
+
+    <div class="ObjektEgenskaper">
+    
+        
+            <div class="PropertyItem Egenskap-3136" rel="tooltip" data-placement="top" data-title=" Inglasad balkong/Uterum
+" title=" Inglasad balkong/Uterum
+">
+        
+        <em class="Egenskap Egenskap-3136"></em>
+        <span> Inglasad balkong/Uterum
+</span></div>
+    
+</div>
+
+
+                            </div>
+
+                            <span class="search-display-address hidden-phone">
+                                <span class="list-item-header">Skattegården 39 B, 
+                                Ullevi (Skattegården)
+                                </span>
+                            </span>
+                            <span class="search-display-info hidden-phone">
+                                3 RUM KÖK, 
                             79.5 kvm, 
-                            våning 2  Lägenhet för dig som kan flytta in redan 16 februari. Standard med diskmaskin och tvättmaskin. Inglasad balkong. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                
-                                
-                                    
-                                        Skattegården 39 B
-                                        Ullevi (Skattegården)
-                                        6 716 kr
-                                        3 RUM KÖK
-                                        79.5 m2
-                                        2022-02-16
-                                        1295 poäng
-                                    
-                                
-                                
-                                    
-                                        Just nu 1295 poäng
-                                        Hyra 6 716 kr
-                                    
-                                    
-                                        Gå till objekt]]></content>
+                            våning 2
+                            </span>
+                            <span class="search-left-column">
+                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=_MMsk4i8HiGu_w65pnjPuA..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=_MMsk4i8HiGu_w65pnjPuA..&amp;height=350&amp;width=528"> 
+                            </span>
+                            <span class="search-right-column">
+                                <span class="search-object-text hidden-phone">
+                                    Lägenhet för dig som kan flytta in redan 16 februari. Standard med diskmaskin och tvättmaskin. Inglasad balkong. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
+                                </span>
+                                <span class="search-anchor-wrap">
+                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
+                                        <span class="adress">Skattegården 39 B</span>
+                                        <span class="omrade">Ullevi (Skattegården)</span>
+                                        <span class="hyra">6&nbsp;716 kr</span>
+                                        <span class="typ">3 RUM KÖK</span>
+                                        <span class="yta">79.5 m<sup>2</sup></span>
+                                        <span class="inflyttningDatum">2022-02-16</span>
+                                        <span class="poang">1295 poäng</span>
+                                    </span>
+                                </span>
+                                <span class="search-go-to-wrapper clearfix">
+                                    <span class="search-current-status hidden-phone">
+                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 20 personer. <strong>Just nu krävs  1295 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1295 poäng</span>
+                                        <span>Hyra 6&nbsp;716 kr</span>
+                                    </span>
+                                    <span class="search-go-to-object hidden-phone">
+                                        Gå till objekt 
+                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
+                                    </span>
+                                </span>
+                            </span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek speedconcept (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.275Z</updated>
+        <updated>2022-01-29T16:00:22.195Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-speedconcept.178069/">
@@ -329,18 +783,18 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-speedconcept.178069/">Trek speedconcept </a></h4> Säljes i Uppsala<span class="visible-xs-inline">, 9 min</span><span class="visible-xs">38 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-speedconcept.178069/">Trek speedconcept </a></h4> Säljes i Uppsala<span class="visible-xs-inline">, 16 min</span><span class="visible-xs">38 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>38 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>9 min</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>16 min</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Slash 8 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.276Z</updated>
+        <updated>2022-01-29T16:00:22.201Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-slash-8.178067/">
@@ -352,18 +806,18 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-slash-8.178067/">Trek Slash 8</a></h4> Säljes i Jönköping<span class="visible-xs-inline">, 14 min</span><span class="visible-xs">10 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-slash-8.178067/">Trek Slash 8</a></h4> Säljes i Jönköping<span class="visible-xs-inline">, 20 min</span><span class="visible-xs">10 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Ramar</td>
 				<td class="col-4 hidden-xs"><nobr>10 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>14 min</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>20 min</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.066Z</updated>
+        <updated>2022-01-29T16:00:21.934Z</updated>
         <content type="html"><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
@@ -373,7 +827,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Lapierre XR 729 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.283Z</updated>
+        <updated>2022-01-29T16:00:22.204Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/lapierre-xr-729.178057/">
@@ -396,7 +850,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Hope Quick Release (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.284Z</updated>
+        <updated>2022-01-29T16:00:22.207Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-quick-release.178056/">
@@ -419,7 +873,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Hope X2 bytes mot fetare broms (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.286Z</updated>
+        <updated>2022-01-29T16:00:22.208Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-x2-bytes-mot-fetare-broms.178026/">
@@ -442,7 +896,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[SRAM X01 XG-1195 Kassett 11-delad, 10-42 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.287Z</updated>
+        <updated>2022-01-29T16:00:22.222Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-x01-xg-1195-kassett-11-delad-10-42.177999/">
@@ -465,7 +919,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[TREK Domane SL6 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.288Z</updated>
+        <updated>2022-01-29T16:00:22.223Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-domane-sl6.177992/">
@@ -488,7 +942,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Orbea Oiz M-Ltd size M 2020 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.288Z</updated>
+        <updated>2022-01-29T16:00:22.225Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/orbea-oiz-m-ltd-size-m-2020.165828/">
@@ -500,18 +954,18 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/orbea-oiz-m-ltd-size-m-2020.165828/">Orbea Oiz M-Ltd size M 2020</a></h4> Säljes i Jönköping<span class="visible-xs-inline">, 22 timmar</span><span class="visible-xs">39 999:-</span>
+				<td class="col-2"><h4><a href="/annonser/orbea-oiz-m-ltd-size-m-2020.165828/">Orbea Oiz M-Ltd size M 2020</a></h4> Säljes i Jönköping<span class="visible-xs-inline">, 23 timmar</span><span class="visible-xs">39 999:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>39 999:-</nobr></td>
-				<td class="hidden-xs"><nobr>22 timmar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>23 timmar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Roscoe 24" 2019 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.290Z</updated>
+        <updated>2022-01-29T16:00:22.226Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-roscoe-24-2019.177984/">
@@ -534,7 +988,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Canyon lux cf 9.9 pro team 2017 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.299Z</updated>
+        <updated>2022-01-29T16:00:22.231Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/canyon-lux-cf-9-9-pro-team-2017.177980/">
@@ -557,7 +1011,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Trek Slash 2021 M/L (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.300Z</updated>
+        <updated>2022-01-29T16:00:22.232Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-slash-2021-m-l.173963/">
@@ -580,7 +1034,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Trek crossrip ltd L (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.301Z</updated>
+        <updated>2022-01-29T16:00:22.233Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-crossrip-ltd-l.177949/">
@@ -603,7 +1057,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Trek Zektor 3 Skivbromsar Hybrid/Pendling (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.301Z</updated>
+        <updated>2022-01-29T16:00:22.234Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-zektor-3-skivbromsar-hybrid-pendling.170080/">
@@ -626,7 +1080,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Trek Fuel EX 8 XT -20 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.302Z</updated>
+        <updated>2022-01-29T16:00:22.235Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-fuel-ex-8-xt-20.177944/">
@@ -649,7 +1103,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Trek Madone SLR 9 2019 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.303Z</updated>
+        <updated>2022-01-29T16:00:22.238Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-madone-slr-9-2019.177903/">
@@ -672,7 +1126,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Trek Xcaliber 9 XT,  2018/2019. (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.304Z</updated>
+        <updated>2022-01-29T16:00:22.239Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-xcaliber-9-xt-2018-2019.177899/">
@@ -695,7 +1149,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Hope AM/FR 50mm styrstam, Orange (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.305Z</updated>
+        <updated>2022-01-29T16:00:22.241Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-am-fr-50mm-styrstam-orange.177896/">
@@ -718,7 +1172,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Mondraker Foxy RR (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.305Z</updated>
+        <updated>2022-01-29T16:00:22.241Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/mondraker-foxy-rr.171768/">
@@ -741,7 +1195,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Rockshox Super Deluxe Ultimate (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.306Z</updated>
+        <updated>2022-01-29T16:00:22.242Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/rockshox-super-deluxe-ultimate.172905/">
@@ -764,7 +1218,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Hope Hub241 12mm adapter bakhjul (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.307Z</updated>
+        <updated>2022-01-29T16:00:22.243Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-hub241-12mm-adapter-bakhjul.149645/">
@@ -787,7 +1241,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Ibis Ripmo V1 Carbon (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.308Z</updated>
+        <updated>2022-01-29T16:00:22.244Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/ibis-ripmo-v1-carbon.177864/">
@@ -810,7 +1264,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Specialized Epic S-works (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.309Z</updated>
+        <updated>2022-01-29T16:00:22.244Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/specialized-epic-s-works.176423/">
@@ -833,7 +1287,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Bontrager C30 sadel från 2000, i läder med stål räls (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.310Z</updated>
+        <updated>2022-01-29T16:00:22.245Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/bontrager-c30-sadel-fran-2000-i-lader-med-stal-rals.177856/">
@@ -856,7 +1310,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[2021 Commencal Supreme DH 29/27 (L) (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.311Z</updated>
+        <updated>2022-01-29T16:00:22.257Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/2021-commencal-supreme-dh-29-27-l.177828/">
@@ -879,7 +1333,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Ns Movement dirtjumper (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.311Z</updated>
+        <updated>2022-01-29T16:00:22.258Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/ns-movement-dirtjumper.177827/">
@@ -902,7 +1356,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Trek Madone 9.9 54cm (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.312Z</updated>
+        <updated>2022-01-29T16:00:22.258Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-madone-9-9-54cm.177823/">
@@ -925,7 +1379,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Scott Spark 900 RC Team Issue AXS 2020 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.313Z</updated>
+        <updated>2022-01-29T16:00:22.259Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/scott-spark-900-rc-team-issue-axs-2020.177805/">
@@ -948,7 +1402,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[TREK Top Fuel 9.7 (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.313Z</updated>
+        <updated>2022-01-29T16:00:22.260Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-top-fuel-9-7.177802/">
@@ -971,7 +1425,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[Scott Spark RC 900 World Cup M (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.314Z</updated>
+        <updated>2022-01-29T16:00:22.260Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/scott-spark-rc-900-world-cup-m.173986/">
@@ -994,7 +1448,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
         <title type="html"><![CDATA[GT Sanction 2018 "Peak edition" (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-29T15:53:40.316Z</updated>
+        <updated>2022-01-29T16:00:22.260Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
 					<a href="/annonser/gt-sanction-2018-peak-edition.173969/">
