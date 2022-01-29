@@ -10,9 +10,9 @@ waitUntil = "networkidle"
 
 [happyride]
 title = "Happyride annonser"
-url = "https://happyride.se/annonser/list.php?search=trek+hope+xx1&category=&county=&creator=&type=1"
+url = ["https://happyride.se/annonser/list.php?search=trek+mondraker&category=1&county=&creator=&type=1", "https://happyride.se/annonser/list.php?search=trek+mondraker&category=2&county=&creator=&type=1", "https://happyride.se/annonser/list.php?search=xx1+hope+etap+aliante+power2max&category=3&county=&creator=&type=1&year=0&price_from=&price_to="]
 entrySelector = ".sales-table tr"
 filters = ["Kategori"]
 titleSelector = ".col-2 h4"
-linkSelector = ".col-1"
+linkSelector = ".col-1 a"
 waitUntil = "load"
