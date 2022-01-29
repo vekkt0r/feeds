@@ -4,7 +4,7 @@ url = "https://www.stangastaden.se/sokledigt/bostad?actionId=&oboTyper%5B%5D=A3&
 entrySelector = ".search-list-item"
 titleSelector = "a .list-item-header"
 linkSelector = "a"
-contentSelector = [".search-display-info", ".search-right-colum"]
+contentSelector = [".search-display-info", ".search-left-column", ".search-right-column"]
 waitUntil = "networkidle"
 
 [happyride]
@@ -14,3 +14,4 @@ entrySelector = ".sales-table tr"
 filters = ["Kategori"]
 titleSelector = ".col-2"
 linkSelector = ".col-1"
+waitUntil = "load"
