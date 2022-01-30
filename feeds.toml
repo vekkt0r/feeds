@@ -4,7 +4,8 @@ url = "https://www.stangastaden.se/sokledigt/bostad?actionId=&oboTyper%5B%5D=A3&
 entrySelector = ".search-list-item"
 titleSelector = "a .list-item-header"
 linkSelector = "a"
-contentSelector = [".search-display-info", ".search-left-column", ".search-object-text"]
+contentSelector = [".search-left-column", ".search-object-text"]
+imageSelector = ".search-display-info img"
 #contentSelector = ".search-list-item-anchor"
 waitUntil = "networkidle"
 
