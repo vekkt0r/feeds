@@ -2,770 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stangastaden.se/sokledigt/bostad?actionId=&amp;oboTyper%5B%5D=A3&amp;oboTyper%5B%5D=A4&amp;oboTyper%5B%5D=A5&amp;oboTyper%5B%5D=A6&amp;oboTyper%5B%5D=A7&amp;ytaMin=50&amp;ytaMax=300&amp;hyraMax=25000</id>
     <title>Stångåstaden Lägenheter</title>
-    <updated>2022-01-30T17:40:03.443Z</updated>
+    <updated>2022-01-30T23:05:47.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stangastaden.se/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/favicon/favicon-192x192.png</icon>
     <entry>
         <title type="html"><![CDATA[Nygatan 52 A, 
                                 Innerstaden]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=71715674784f502f495043554d346c495a67487337794e514d5a586e414755505433672b7a3571336b714d3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=71715674784f502f495043554d346c495a67487337794e514d5a586e414755505433672b7a3571336b714d3d"/>
-        <updated>2022-01-30T17:39:46.210Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
-" title=" Hiss
-">
-        
-        <em class="Egenskap Egenskap-1003"></em>
-        <span> Hiss
-</span></div>
-    
-        
-            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
-" title=" Balkong
-">
-        
-        <em class="Egenskap Egenskap-1007"></em>
-        <span> Balkong
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Nygatan 52 A, 
-                                Innerstaden
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                4 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6674483943597239624a525a754d6566614a636b334a4e3757777038725359637a3778524e3661384e76633d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6674483943597239624a525a754d6566614a636b334a4e3757777038725359637a3778524e3661384e76633d"/>
+        <updated>2022-01-30T23:05:28.801Z</updated>
+        <content type="html"><![CDATA[4 RUM KÖK, 
                             100.3 kvm, 
-                            våning 3
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=S1S7ANDU7LcIJ-NRKXgOhQ..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=S1S7ANDU7LcIJ-NRKXgOhQ..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    Central fyra med balkong.
+                            våning 3  Central fyra med balkong.
 Lägenheten har två sovrum. I anslutning till vardagsrummet finns ett allrum.
 Kök med diskmaskin.
 Badrummet renoverades för bara ett par år sedan med kakel/klinker. Här är det dusch. Det finns även en gästwc.
-På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Nygatan 52 A</span>
-                                        <span class="omrade">Innerstaden</span>
-                                        <span class="hyra">10&nbsp;854 kr</span>
-                                        <span class="typ">4 RUM KÖK</span>
-                                        <span class="yta">100.3 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-03-01</span>
-                                        <span class="poang">1953 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 25 personer. <strong>Just nu krävs  1953 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1953 poäng</span>
-                                        <span>Hyra 10&nbsp;854 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rekrytgatan 8, 
                                 T1]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6d774774387a743045513750466331554e6838434164495034667857456e494c65493344465242496576303d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6d774774387a743045513750466331554e6838434164495034667857456e494c65493344465242496576303d"/>
-        <updated>2022-01-30T17:39:46.210Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
-" title=" Hiss
-">
-        
-        <em class="Egenskap Egenskap-1003"></em>
-        <span> Hiss
-</span></div>
-    
-        
-            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
-" title=" Balkong
-">
-        
-        <em class="Egenskap Egenskap-1007"></em>
-        <span> Balkong
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Rekrytgatan 8, 
-                                T1
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=2f6b4c442b346e4b6d537449345173724e376e4f3257413133344451463275305335746a4b7670695a75453d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=2f6b4c442b346e4b6d537449345173724e376e4f3257413133344451463275305335746a4b7670695a75453d"/>
+        <updated>2022-01-30T23:05:28.802Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
                             77.5 kvm, 
-                            våning 2
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=jcRLuot4CsQyLvrSZcRNzw..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=jcRLuot4CsQyLvrSZcRNzw..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    I populära T1 finns denna trea med balkong i söderläge.
+                            våning 2  I populära T1 finns denna trea med balkong i söderläge.
 Badrum med badkar och en kombinerad tvättmaskin/torktumlare.
 I köket är det luckor i ek. Diskmaskin finns. 
 Till inflyttningen har det lagts nya golv.
-Tapeterna/färgen i hallen, köket och båda sovrummen är från 2021. I vardagsrummet blir det nytapetserat/målat. Nyproduktion pågår i området (Ebbepark). På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Rekrytgatan 8</span>
-                                        <span class="omrade">T1</span>
-                                        <span class="hyra">8&nbsp;829 kr</span>
-                                        <span class="typ">3 RUM KÖK</span>
-                                        <span class="yta">77.5 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-02-16</span>
-                                        <span class="poang">2313 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 24 personer. <strong>Just nu krävs  2313 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 2313 poäng</span>
-                                        <span>Hyra 8&nbsp;829 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+Tapeterna/färgen i hallen, köket och båda sovrummen är från 2021. I vardagsrummet blir det nytapetserat/målat. Nyproduktion pågår i området (Ebbepark). På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vårdkasvägen 2 B, 
                                 Majelden]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=7431475873693345516c6a6176646e5a36585057756b59666752376e437666486b5669324a6665444e61773d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=7431475873693345516c6a6176646e5a36585057756b59666752376e437666486b5669324a6665444e61773d"/>
-        <updated>2022-01-30T17:39:46.211Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
-" title=" Balkong
-">
-        
-        <em class="Egenskap Egenskap-1007"></em>
-        <span> Balkong
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Vårdkasvägen 2 B, 
-                                Majelden
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6438326f4b385a6e4d33485a6449352f746863754b5676783952766662326b325042334b584753716a4c383d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6438326f4b385a6e4d33485a6449352f746863754b5676783952766662326b325042334b584753716a4c383d"/>
+        <updated>2022-01-30T23:05:28.803Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
                             79.8 kvm, 
-                            våning 1
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=liFHdYf5C19QcEUKFlXhzQ..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=liFHdYf5C19QcEUKFlXhzQ..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    Mitten av mars är du välkommen att flytta in i en trea i Majelden. Efter inflyttning kommer det att bytas golv i ena sovrummet och vardagsrumsgolvet kommer att slipas. Du som ny hyresgäst kan även passa på att ta kostnadsfri omtapetsering i dessa rum om man skulle önska det.  I vardagsrummet finns en eldningsbar öppenspis och balkong når du från både vardagsrum och kök. Bra förvaring i båda sovrummet och fönster åt olika väderstreck. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Vårdkasvägen 2 B</span>
-                                        <span class="omrade">Majelden</span>
-                                        <span class="hyra">7&nbsp;765 kr</span>
-                                        <span class="typ">3 RUM KÖK</span>
-                                        <span class="yta">79.8 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-03-16</span>
-                                        <span class="poang">1227 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 12 personer. <strong>Just nu krävs  1227 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1227 poäng</span>
-                                        <span>Hyra 7&nbsp;765 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+                            våning 1  Mitten av mars är du välkommen att flytta in i en trea i Majelden. Efter inflyttning kommer det att bytas golv i ena sovrummet och vardagsrumsgolvet kommer att slipas. Du som ny hyresgäst kan även passa på att ta kostnadsfri omtapetsering i dessa rum om man skulle önska det.  I vardagsrummet finns en eldningsbar öppenspis och balkong når du från både vardagsrum och kök. Bra förvaring i båda sovrummet och fönster åt olika väderstreck. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[O G Svenssons Väg 11 A, 
                                 Ljungsbro]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=7349636a445135703733504d35647765792f354c3453334e6e3362586f4757314e3261566a5a684d4c35413d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=7349636a445135703733504d35647765792f354c3453334e6e3362586f4757314e3261566a5a684d4c35413d"/>
-        <updated>2022-01-30T17:39:46.211Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-4003" rel="tooltip" data-placement="top" data-title=" Trädgård/Uteplats
-" title=" Trädgård/Uteplats
-">
-        
-        <em class="Egenskap Egenskap-4003"></em>
-        <span> Trädgård/Uteplats
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">O G Svenssons Väg 11 A, 
-                                Ljungsbro
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                4 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=48656e73726e38564d3561672f692f4f35305762535a48786842586e7051333358582b56374465644262593d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=48656e73726e38564d3561672f692f4f35305762535a48786842586e7051333358582b56374465644262593d"/>
+        <updated>2022-01-30T23:05:28.806Z</updated>
+        <content type="html"><![CDATA[4 RUM KÖK, 
                             96 kvm, 
-                            våning 1
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=WJ0mFoYcR8yrR_R2XfiXiw..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=WJ0mFoYcR8yrR_R2XfiXiw..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    Passa på att söka denna välplanerade markplanslägenhet om fyra rum och kök med uteplats i populära Ljungsbro. Endast dusch. Värdesätter du bekvämlighet i vardagen så är detta en lägenhet för dig. Lägenheten är nämligen utrustad med disk-, tvättmaskin, torktumlare samt fullstor kyl och frys. Det finns goda förvaringsmöjligheter med flertal garderober samt tillhörande källarförråd. Perfekt lägenhet för dig med trädgårdsintresse. Du som hyresgäst ansvarar själv för skötsel av din uteplats. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">O G Svenssons Väg 11 A</span>
-                                        <span class="omrade">Ljungsbro</span>
-                                        <span class="hyra">8&nbsp;442 kr</span>
-                                        <span class="typ">4 RUM KÖK</span>
-                                        <span class="yta">96 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-05-01</span>
-                                        <span class="poang">3530 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 51 personer. <strong>Just nu krävs  3530 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 3530 poäng</span>
-                                        <span>Hyra 8&nbsp;442 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+                            våning 1  Passa på att söka denna välplanerade markplanslägenhet om fyra rum och kök med uteplats i populära Ljungsbro. Endast dusch. Värdesätter du bekvämlighet i vardagen så är detta en lägenhet för dig. Lägenheten är nämligen utrustad med disk-, tvättmaskin, torktumlare samt fullstor kyl och frys. Det finns goda förvaringsmöjligheter med flertal garderober samt tillhörande källarförråd. Perfekt lägenhet för dig med trädgårdsintresse. Du som hyresgäst ansvarar själv för skötsel av din uteplats. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wahlbecksgatan 6 , 
                                 Östra Valla, Ebbepark Lugnet]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=5a51436e4e6c4e6e48336f556e504b6c74336d4847536c4a4f7234503641695033575a6e327764563170453d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=5a51436e4e6c4e6e48336f556e504b6c74336d4847536c4a4f7234503641695033575a6e327764563170453d"/>
-        <updated>2022-01-30T17:39:46.212Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
-" title=" Hiss
-">
-        
-        <em class="Egenskap Egenskap-1003"></em>
-        <span> Hiss
-</span></div>
-    
-        
-            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
-" title=" Balkong
-">
-        
-        <em class="Egenskap Egenskap-1007"></em>
-        <span> Balkong
-</span></div>
-    
-        
-            <div class="PropertyItem Egenskap-3136" rel="tooltip" data-placement="top" data-title=" Inglasad balkong/Uterum
-" title=" Inglasad balkong/Uterum
-">
-        
-        <em class="Egenskap Egenskap-3136"></em>
-        <span> Inglasad balkong/Uterum
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Wahlbecksgatan 6 , 
-                                Östra Valla, Ebbepark Lugnet
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=714f32444755333856616d56446a626f475673377353797464736b2b664353746f4e4d70626743575333513d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=714f32444755333856616d56446a626f475673377353797464736b2b664353746f4e4d70626743575333513d"/>
+        <updated>2022-01-30T23:05:28.814Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
                             75 kvm, 
-                            våning 5
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=y-A4lsj2Ew_QNFBrqa0MdQ..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=y-A4lsj2Ew_QNFBrqa0MdQ..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    Mycket fin hyreslägenhet om 3 rum och kök med inglasad balkong i Linköpings nyaste och moderna stadsdel. Lägenheten genomsyras av hög kvalitet och moderna designval av inredningsarkitekten Lukasz Krupinski på ÅWL arkitekter. Genomgående parkettgolv i ljus ask förutom i hallen där det är klinkergolv. I köket finner du induktionshäll med varmluftsugn, diskmaskin, mikrovågsugn,  kyl och frys. Helkaklat badrum, duschplats med duschväggar samt tvättmaskin och torktumlare. Lägenhetsförråd finns i källare. Läs mer om projektet, Ebbepark Lugnet på vår hemsida där du även kan se husen i 3D i vår bostadsväljare. På grund av  rådande omständigheter är visning ej möjlig, vid ett eventuellt erbjudande kommer du att få se lägenheten via bilder. Här finns möjlighet till tidigare inflyttning i samråd med nuvarande hyresgäst och AB Stångåstaden.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Wahlbecksgatan 6 </span>
-                                        <span class="omrade">Östra Valla, Ebbepark Lugnet</span>
-                                        <span class="hyra">11&nbsp;898 kr</span>
-                                        <span class="typ">3 RUM KÖK</span>
-                                        <span class="yta">75 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-05-01</span>
-                                        <span class="poang"></span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Detta objekt har intresseanmälts av 1 personer." data-original-title="" title="">Just nu </span>
-                                        <span>Hyra 11&nbsp;898 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+                            våning 5  Mycket fin hyreslägenhet om 3 rum och kök med inglasad balkong i Linköpings nyaste och moderna stadsdel. Lägenheten genomsyras av hög kvalitet och moderna designval av inredningsarkitekten Lukasz Krupinski på ÅWL arkitekter. Genomgående parkettgolv i ljus ask förutom i hallen där det är klinkergolv. I köket finner du induktionshäll med varmluftsugn, diskmaskin, mikrovågsugn,  kyl och frys. Helkaklat badrum, duschplats med duschväggar samt tvättmaskin och torktumlare. Lägenhetsförråd finns i källare. Läs mer om projektet, Ebbepark Lugnet på vår hemsida där du även kan se husen i 3D i vår bostadsväljare. På grund av  rådande omständigheter är visning ej möjlig, vid ett eventuellt erbjudande kommer du att få se lägenheten via bilder. Här finns möjlighet till tidigare inflyttning i samråd med nuvarande hyresgäst och AB Stångåstaden.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rydsvägen 392 A, 
                                 Ryd]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4a437379376f327864663765764163564a79796f616652354b38636e57753678397878705756643938336f3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4a437379376f327864663765764163564a79796f616652354b38636e57753678397878705756643938336f3d"/>
-        <updated>2022-01-30T17:39:46.213Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
-" title=" Balkong
-">
-        
-        <em class="Egenskap Egenskap-1007"></em>
-        <span> Balkong
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Rydsvägen 392 A, 
-                                Ryd
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=42644a687038356c5a4a6548652f4d3056454d492b6e394557386f4a6950704c58617762652f394e4a57383d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=42644a687038356c5a4a6548652f4d3056454d492b6e394557386f4a6950704c58617762652f394e4a57383d"/>
+        <updated>2022-01-30T23:05:28.815Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
                             80 kvm, 
-                            våning 2
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=iuPKugtWpFlJiRcRiIOmyw..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=iuPKugtWpFlJiRcRiIOmyw..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    TILLFÄLLIGT AVTAL. Tillfälligt avtal innebär att avtalet är tillfälligt fram tills den kommande renoveringen startar. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Preliminär renoveringsstart: Årsskiftet 2022/2023, därefter kan du inte bo kvar i lägenheten längre. 
-I mars kan du flytta in i denna trevliga lägenhet i Ryd. Helkaklat badrum med tvätt- och torktumlare. Diskmaskin finns installerad. Laminat i båda sovrummen, ljusrutigt golv i köket. Generellt är väggarna i lägenheten ljusa. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Rydsvägen 392 A</span>
-                                        <span class="omrade">Ryd</span>
-                                        <span class="hyra">7&nbsp;188 kr</span>
-                                        <span class="typ">3 RUM KÖK</span>
-                                        <span class="yta">80 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-03-01</span>
-                                        <span class="poang">1 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 5 personer. <strong>Just nu krävs  1 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1 poäng</span>
-                                        <span>Hyra 7&nbsp;188 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+                            våning 2  TILLFÄLLIGT AVTAL. Tillfälligt avtal innebär att avtalet är tillfälligt fram tills den kommande renoveringen startar. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Preliminär renoveringsstart: Årsskiftet 2022/2023, därefter kan du inte bo kvar i lägenheten längre. 
+I mars kan du flytta in i denna trevliga lägenhet i Ryd. Helkaklat badrum med tvätt- och torktumlare. Diskmaskin finns installerad. Laminat i båda sovrummen, ljusrutigt golv i köket. Generellt är väggarna i lägenheten ljusa. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Djurgårdsgatan 91, 
                                 Eskadern]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=506539762f4c6f3955365a5474766c6651346475315a58344e48527a4479574c3833553361374e7045484d3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=506539762f4c6f3955365a5474766c6651346475315a58344e48527a4479574c3833553361374e7045484d3d"/>
-        <updated>2022-01-30T17:39:46.215Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
-" title=" Hiss
-">
-        
-        <em class="Egenskap Egenskap-1003"></em>
-        <span> Hiss
-</span></div>
-    
-        
-            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
-" title=" Balkong
-">
-        
-        <em class="Egenskap Egenskap-1007"></em>
-        <span> Balkong
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Djurgårdsgatan 91, 
-                                Eskadern
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=37774945526c5444323356474c3834412b63346c6c6b4e2b6e366b3942774a333651774f4c6e4b6d66636f3d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=37774945526c5444323356474c3834412b63346c6c6b4e2b6e366b3942774a333651774f4c6e4b6d66636f3d"/>
+        <updated>2022-01-30T23:05:28.815Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
                             74.1 kvm, 
-                            våning 1
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=6xIQaItqV2lBc6xLkcu3CA..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=6xIQaItqV2lBc6xLkcu3CA..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    På första våningen finns den här fina trean med balkong.
+                            våning 1  På första våningen finns den här fina trean med balkong.
 Lägenheten stamrenoverades under 2017.
 I det helkaklade badrummet är det dusch.
 Kök med stor kyl- och frys.
-På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att vias via bilder.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Djurgårdsgatan 91</span>
-                                        <span class="omrade">Eskadern</span>
-                                        <span class="hyra">7&nbsp;742 kr</span>
-                                        <span class="typ">3 RUM KÖK</span>
-                                        <span class="yta">74.1 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-03-01</span>
-                                        <span class="poang">2531 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 41 personer. <strong>Just nu krävs  2531 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 2531 poäng</span>
-                                        <span>Hyra 7&nbsp;742 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att vias via bilder.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vädursgatan 2 D, 
                                 Majelden]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4943705641627846326b4251647869504334446e4f73447739736a6f534a4d586763694958776d786a52553d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4943705641627846326b4251647869504334446e4f73447739736a6f534a4d586763694958776d786a52553d"/>
-        <updated>2022-01-30T17:39:46.221Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
-" title=" Balkong
-">
-        
-        <em class="Egenskap Egenskap-1007"></em>
-        <span> Balkong
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Vädursgatan 2 D, 
-                                Majelden
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d4846647575427a5434724644577033627643356a58757831346c4b4937774335364a75344e645734776b3d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d4846647575427a5434724644577033627643356a58757831346c4b4937774335364a75344e645734776b3d"/>
+        <updated>2022-01-30T23:05:28.816Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
                             80.3 kvm, 
-                            våning 1
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=SMFxHR2ilSvkvuvUSxSWtw..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=SMFxHR2ilSvkvuvUSxSWtw..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    Välkommen att söka denna trevliga trea i Majelden. Köket är utrustat med diskmaskin samt spis med varmluftsugn. Lägenheten ligger på första våningen och har balkong samt en eldningsbar öppen spis. Du som ny hyresgäst har möjlighet till fri omtapetsering i hall, vardagsrum och ena sovrummet, efter inflyttning. Här finns möjlighet till tidigare inflyttning efter överenskommelse mellan den avflyttande hyresgästen och AB Stångåstaden. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Vädursgatan 2 D</span>
-                                        <span class="omrade">Majelden</span>
-                                        <span class="hyra">7&nbsp;955 kr</span>
-                                        <span class="typ">3 RUM KÖK</span>
-                                        <span class="yta">80.3 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-04-01</span>
-                                        <span class="poang">1506 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 20 personer. <strong>Just nu krävs  1506 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1506 poäng</span>
-                                        <span>Hyra 7&nbsp;955 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+                            våning 1  Välkommen att söka denna trevliga trea i Majelden. Köket är utrustat med diskmaskin samt spis med varmluftsugn. Lägenheten ligger på första våningen och har balkong samt en eldningsbar öppen spis. Du som ny hyresgäst har möjlighet till fri omtapetsering i hall, vardagsrum och ena sovrummet, efter inflyttning. Här finns möjlighet till tidigare inflyttning efter överenskommelse mellan den avflyttande hyresgästen och AB Stångåstaden. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Prästbolsgatan 15, 
                                 Östra Berga]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=3034774b6e6d53584f47447772314a4874664f5633756772474f53396c62437455503936443338646b44773d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=3034774b6e6d53584f47447772314a4874664f5633756772474f53396c62437455503936443338646b44773d"/>
-        <updated>2022-01-30T17:39:46.222Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-1003" rel="tooltip" data-placement="top" data-title=" Hiss
-" title=" Hiss
-">
-        
-        <em class="Egenskap Egenskap-1003"></em>
-        <span> Hiss
-</span></div>
-    
-        
-            <div class="PropertyItem Egenskap-1007" rel="tooltip" data-placement="top" data-title=" Balkong
-" title=" Balkong
-">
-        
-        <em class="Egenskap Egenskap-1007"></em>
-        <span> Balkong
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Prästbolsgatan 15, 
-                                Östra Berga
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=754d2f484a4d693751596f6f746c69426c73614d4d48346f6f38744c50455877554168674c6b6b424d624d3d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=754d2f484a4d693751596f6f746c69426c73614d4d48346f6f38744c50455877554168674c6b6b424d624d3d"/>
+        <updated>2022-01-30T23:05:28.817Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
                             64.8 kvm, 
-                            våning 7
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=qXjZf4-6C6gAKOWKdn3-Nw..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=qXjZf4-6C6gAKOWKdn3-Nw..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    Högst upp i huset finns denna trea med en härlig utsikt.
+                            våning 7  Högst upp i huset finns denna trea med en härlig utsikt.
 Från vardagsrummet når du balkongen.
 Köket stamrenoverades för några år sedan och är utrustat med diskmaskin.
 Badrum med badkar och tvättmaskin.
 Det finns möjlighet till tidigare inflyttning efter samråd med nuvarande hyresgäst och AB Stångåstaden.
-På grund av rådande omständigheter är det ej möjligt med visning. Vid ett eventuellt erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Prästbolsgatan 15</span>
-                                        <span class="omrade">Östra Berga</span>
-                                        <span class="hyra">6&nbsp;878 kr</span>
-                                        <span class="typ">3 RUM KÖK</span>
-                                        <span class="yta">64.8 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-04-01</span>
-                                        <span class="poang">1088 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 14 personer. <strong>Just nu krävs  1088 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1088 poäng</span>
-                                        <span>Hyra 6&nbsp;878 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+På grund av rådande omständigheter är det ej möjligt med visning. Vid ett eventuellt erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skattegården 39 B, 
                                 Ullevi (Skattegården)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=505667594151552f434251322f4b574f2b545543465374336b7a30666b37344457427a456d6f62556d78733d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=505667594151552f434251322f4b574f2b545543465374336b7a30666b37344457427a456d6f62556d78733d"/>
-        <updated>2022-01-30T17:39:46.223Z</updated>
-        <content type="html"><![CDATA[<div class="objektegenskaper-lista">
-                                
-
-
-
-
-
-    <div class="ObjektEgenskaper">
-    
-        
-            <div class="PropertyItem Egenskap-3136" rel="tooltip" data-placement="top" data-title=" Inglasad balkong/Uterum
-" title=" Inglasad balkong/Uterum
-">
-        
-        <em class="Egenskap Egenskap-3136"></em>
-        <span> Inglasad balkong/Uterum
-</span></div>
-    
-</div>
-
-
-                            </div>
-
-                            <span class="search-display-address hidden-phone">
-                                <span class="list-item-header">Skattegården 39 B, 
-                                Ullevi (Skattegården)
-                                </span>
-                            </span>
-                            <span class="search-display-info hidden-phone">
-                                3 RUM KÖK, 
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=374e4b7853496536664f5645594f7a3037504557512f795976644c7a54454d48574a627353437a6c2f47773d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=374e4b7853496536664f5645594f7a3037504557512f795976644c7a54454d48574a627353437a6c2f47773d"/>
+        <updated>2022-01-30T23:05:28.819Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
                             79.5 kvm, 
-                            våning 2
-                            </span>
-                            <span class="search-left-column">
-                                <img data-src="https://marknad.stangastaden.se/bilder/?fid=n5IO1hLY7DiLI5mVQtGHhQ..&amp;height=350&amp;width=528" alt="" src="https://marknad.stangastaden.se/bilder/?fid=n5IO1hLY7DiLI5mVQtGHhQ..&amp;height=350&amp;width=528"> 
-                            </span>
-                            <span class="search-right-column">
-                                <span class="search-object-text hidden-phone">
-                                    Lägenhet för dig som kan flytta in redan 16 februari. Standard med diskmaskin och tvättmaskin. Inglasad balkong. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.
-                                </span>
-                                <span class="search-anchor-wrap">
-                                    <span class="search-object-info-phone hidden-desktop hidden-tablet">
-                                        <span class="adress">Skattegården 39 B</span>
-                                        <span class="omrade">Ullevi (Skattegården)</span>
-                                        <span class="hyra">6&nbsp;716 kr</span>
-                                        <span class="typ">3 RUM KÖK</span>
-                                        <span class="yta">79.5 m<sup>2</sup></span>
-                                        <span class="inflyttningDatum">2022-02-16</span>
-                                        <span class="poang">1296 poäng</span>
-                                    </span>
-                                </span>
-                                <span class="search-go-to-wrapper clearfix">
-                                    <span class="search-current-status hidden-phone">
-                                        <span data-toggle="popover" data-html="true" data-trigger="hover" data-placement="top" data-content="Denna lägenhet har intresseanmälts av 21 personer. <strong>Just nu krävs  1296 köpoäng</strong> för att vara bland de <strong>fem första med högst köpoäng</strong>." data-original-title="" title="">Just nu 1296 poäng</span>
-                                        <span>Hyra 6&nbsp;716 kr</span>
-                                    </span>
-                                    <span class="search-go-to-object hidden-phone">
-                                        Gå till objekt 
-                                        <img src="/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/pil.png" alt="">
-                                    </span>
-                                </span>
-                            </span>]]></content>
+                            våning 2  Lägenhet för dig som kan flytta in redan 16 februari. Standard med diskmaskin och tvättmaskin. Inglasad balkong. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
     </entry>
 </feed>
