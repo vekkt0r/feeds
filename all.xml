@@ -1,113 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vekkt0r.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-01-30T23:17:39.881Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Nygatan 52 A, 
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 30 Jan 2022 23:24:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nygatan 52 A, 
                                 Innerstaden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=7a45455451754d45394b446851636d4a65695a684a41344263384d71756a6f47704d54726c784b5762726b3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=7a45455451754d45394b446851636d4a65695a684a41344263384d71756a6f47704d54726c784b5762726b3d"/>
-        <updated>2022-01-30T23:17:25.571Z</updated>
-        <content type="html"><![CDATA[ Central fyra med balkong.
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=332b64555851353368424d4951633934306658726578636c50645a49784f4e6f6641324d54476c73746c773d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=332b64555851353368424d4951633934306658726578636c50645a49784f4e6f6641324d54476c73746c773d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[4 RUM KÖK, 
+                            100.3 kvm, 
+                            våning 3 Central fyra med balkong.
 Lägenheten har två sovrum. I anslutning till vardagsrummet finns ett allrum.
 Kök med diskmaskin.
 Badrummet renoverades för bara ett par år sedan med kakel/klinker. Här är det dusch. Det finns även en gästwc.
-På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rekrytgatan 8, 
+På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=kprZIjBnBKb6WbhRwXv1Vw..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Rekrytgatan 8, 
                                 T1 (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4938656d6a537a5a6d63427565547332417951733349767251706544766e2f4f3032314d66717a666537673d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4938656d6a537a5a6d63427565547332417951733349767251706544766e2f4f3032314d66717a666537673d"/>
-        <updated>2022-01-30T23:17:25.573Z</updated>
-        <content type="html"><![CDATA[ I populära T1 finns denna trea med balkong i söderläge.
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=72334c63394e47494f586b4e654b6f4848394a65376644634771786a7a385248346f70664c51335a5462343d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=72334c63394e47494f586b4e654b6f4848394a65376644634771786a7a385248346f70664c51335a5462343d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[3 RUM KÖK, 
+                            77.5 kvm, 
+                            våning 2 I populära T1 finns denna trea med balkong i söderläge.
 Badrum med badkar och en kombinerad tvättmaskin/torktumlare.
 I köket är det luckor i ek. Diskmaskin finns. 
 Till inflyttningen har det lagts nya golv.
-Tapeterna/färgen i hallen, köket och båda sovrummen är från 2021. I vardagsrummet blir det nytapetserat/målat. Nyproduktion pågår i området (Ebbepark). På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vårdkasvägen 2 B, 
+Tapeterna/färgen i hallen, köket och båda sovrummen är från 2021. I vardagsrummet blir det nytapetserat/målat. Nyproduktion pågår i området (Ebbepark). På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att visas via bilder.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=ENzrznZbe-0PwknOxUzZQw..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Vårdkasvägen 2 B, 
                                 Majelden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=44514c334b7039325a555259394b5a432b334d4e2b733146397761697a6741717832654b716f3565694f553d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=44514c334b7039325a555259394b5a432b334d4e2b733146397761697a6741717832654b716f3565694f553d"/>
-        <updated>2022-01-30T23:17:25.576Z</updated>
-        <content type="html"><![CDATA[ Mitten av mars är du välkommen att flytta in i en trea i Majelden. Efter inflyttning kommer det att bytas golv i ena sovrummet och vardagsrumsgolvet kommer att slipas. Du som ny hyresgäst kan även passa på att ta kostnadsfri omtapetsering i dessa rum om man skulle önska det.  I vardagsrummet finns en eldningsbar öppenspis och balkong når du från både vardagsrum och kök. Bra förvaring i båda sovrummet och fönster åt olika väderstreck. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O G Svenssons Väg 11 A, 
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6a7374516b725a38456a2f41736357624244646a646e30584276624f2b66633030304f4c543042374855553d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6a7374516b725a38456a2f41736357624244646a646e30584276624f2b66633030304f4c543042374855553d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[3 RUM KÖK, 
+                            79.8 kvm, 
+                            våning 1 Mitten av mars är du välkommen att flytta in i en trea i Majelden. Efter inflyttning kommer det att bytas golv i ena sovrummet och vardagsrumsgolvet kommer att slipas. Du som ny hyresgäst kan även passa på att ta kostnadsfri omtapetsering i dessa rum om man skulle önska det.  I vardagsrummet finns en eldningsbar öppenspis och balkong når du från både vardagsrum och kök. Bra förvaring i båda sovrummet och fönster åt olika väderstreck. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=oVl9EYoVN-9-ivCBMSID9w..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[O G Svenssons Väg 11 A, 
                                 Ljungsbro (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=53475349684f7a4b57716f68464b3958734d315955517866523774615934385a685179516d306a614e48413d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=53475349684f7a4b57716f68464b3958734d315955517866523774615934385a685179516d306a614e48413d"/>
-        <updated>2022-01-30T23:17:25.581Z</updated>
-        <content type="html"><![CDATA[ Passa på att söka denna välplanerade markplanslägenhet om fyra rum och kök med uteplats i populära Ljungsbro. Endast dusch. Värdesätter du bekvämlighet i vardagen så är detta en lägenhet för dig. Lägenheten är nämligen utrustad med disk-, tvättmaskin, torktumlare samt fullstor kyl och frys. Det finns goda förvaringsmöjligheter med flertal garderober samt tillhörande källarförråd. Perfekt lägenhet för dig med trädgårdsintresse. Du som hyresgäst ansvarar själv för skötsel av din uteplats. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wahlbecksgatan 6 , 
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=476957346176374e36494e4a33454c71355663477976334e2b7043394767412f6c32674641456b363464673d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=476957346176374e36494e4a33454c71355663477976334e2b7043394767412f6c32674641456b363464673d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[4 RUM KÖK, 
+                            96 kvm, 
+                            våning 1 Passa på att söka denna välplanerade markplanslägenhet om fyra rum och kök med uteplats i populära Ljungsbro. Endast dusch. Värdesätter du bekvämlighet i vardagen så är detta en lägenhet för dig. Lägenheten är nämligen utrustad med disk-, tvättmaskin, torktumlare samt fullstor kyl och frys. Det finns goda förvaringsmöjligheter med flertal garderober samt tillhörande källarförråd. Perfekt lägenhet för dig med trädgårdsintresse. Du som hyresgäst ansvarar själv för skötsel av din uteplats. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=di7GC7OaAre8m4J--zB8Ug..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Wahlbecksgatan 6 , 
                                 Östra Valla, Ebbepark Lugnet (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=3864766566686941476b5a2f6c376861773043484c494836597841416f6e68666c6746314d6869644e32733d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=3864766566686941476b5a2f6c376861773043484c494836597841416f6e68666c6746314d6869644e32733d"/>
-        <updated>2022-01-30T23:17:25.588Z</updated>
-        <content type="html"><![CDATA[ Mycket fin hyreslägenhet om 3 rum och kök med inglasad balkong i Linköpings nyaste och moderna stadsdel. Lägenheten genomsyras av hög kvalitet och moderna designval av inredningsarkitekten Lukasz Krupinski på ÅWL arkitekter. Genomgående parkettgolv i ljus ask förutom i hallen där det är klinkergolv. I köket finner du induktionshäll med varmluftsugn, diskmaskin, mikrovågsugn,  kyl och frys. Helkaklat badrum, duschplats med duschväggar samt tvättmaskin och torktumlare. Lägenhetsförråd finns i källare. Läs mer om projektet, Ebbepark Lugnet på vår hemsida där du även kan se husen i 3D i vår bostadsväljare. På grund av  rådande omständigheter är visning ej möjlig, vid ett eventuellt erbjudande kommer du att få se lägenheten via bilder. Här finns möjlighet till tidigare inflyttning i samråd med nuvarande hyresgäst och AB Stångåstaden.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rydsvägen 392 A, 
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=7357487669345153617478723270584d764f64793373767950466b6630636d426269434b73675677454a673d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=7357487669345153617478723270584d764f64793373767950466b6630636d426269434b73675677454a673d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[3 RUM KÖK, 
+                            75 kvm, 
+                            våning 5 Mycket fin hyreslägenhet om 3 rum och kök med inglasad balkong i Linköpings nyaste och moderna stadsdel. Lägenheten genomsyras av hög kvalitet och moderna designval av inredningsarkitekten Lukasz Krupinski på ÅWL arkitekter. Genomgående parkettgolv i ljus ask förutom i hallen där det är klinkergolv. I köket finner du induktionshäll med varmluftsugn, diskmaskin, mikrovågsugn,  kyl och frys. Helkaklat badrum, duschplats med duschväggar samt tvättmaskin och torktumlare. Lägenhetsförråd finns i källare. Läs mer om projektet, Ebbepark Lugnet på vår hemsida där du även kan se husen i 3D i vår bostadsväljare. På grund av  rådande omständigheter är visning ej möjlig, vid ett eventuellt erbjudande kommer du att få se lägenheten via bilder. Här finns möjlighet till tidigare inflyttning i samråd med nuvarande hyresgäst och AB Stångåstaden.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=Xb-65POYevYndMWTmL3bug..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Rydsvägen 392 A, 
                                 Ryd (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=50516a5959436f53514579336e323570524a6d454d645576664c726c674d7a44303861444d3341776257633d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=50516a5959436f53514579336e323570524a6d454d645576664c726c674d7a44303861444d3341776257633d"/>
-        <updated>2022-01-30T23:17:25.589Z</updated>
-        <content type="html"><![CDATA[ TILLFÄLLIGT AVTAL. Tillfälligt avtal innebär att avtalet är tillfälligt fram tills den kommande renoveringen startar. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Preliminär renoveringsstart: Årsskiftet 2022/2023, därefter kan du inte bo kvar i lägenheten längre. 
-I mars kan du flytta in i denna trevliga lägenhet i Ryd. Helkaklat badrum med tvätt- och torktumlare. Diskmaskin finns installerad. Laminat i båda sovrummen, ljusrutigt golv i köket. Generellt är väggarna i lägenheten ljusa. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Djurgårdsgatan 91, 
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d5931496a6e535a336b445231674f52515a50345470664872777a6d4d73577672796975566676347170303d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d5931496a6e535a336b445231674f52515a50345470664872777a6d4d73577672796975566676347170303d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[3 RUM KÖK, 
+                            80 kvm, 
+                            våning 2 TILLFÄLLIGT AVTAL. Tillfälligt avtal innebär att avtalet är tillfälligt fram tills den kommande renoveringen startar. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Preliminär renoveringsstart: Årsskiftet 2022/2023, därefter kan du inte bo kvar i lägenheten längre. 
+I mars kan du flytta in i denna trevliga lägenhet i Ryd. Helkaklat badrum med tvätt- och torktumlare. Diskmaskin finns installerad. Laminat i båda sovrummen, ljusrutigt golv i köket. Generellt är väggarna i lägenheten ljusa. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=iFlRX_9iGkaeFM--BUBkUQ..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Djurgårdsgatan 91, 
                                 Eskadern (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=70627a49686f6f526b786c6b715741545172744b535630502b74725068415636776370527167615a4468413d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=70627a49686f6f526b786c6b715741545172744b535630502b74725068415636776370527167615a4468413d"/>
-        <updated>2022-01-30T23:17:25.589Z</updated>
-        <content type="html"><![CDATA[ På första våningen finns den här fina trean med balkong.
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=71716e766d42476c67516b71526b7668727a6d6d356d7250704c7456314c7156316a45355073726b74486f3d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=71716e766d42476c67516b71526b7668727a6d6d356d7250704c7456314c7156316a45355073726b74486f3d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[3 RUM KÖK, 
+                            74.1 kvm, 
+                            våning 1 På första våningen finns den här fina trean med balkong.
 Lägenheten stamrenoverades under 2017.
 I det helkaklade badrummet är det dusch.
 Kök med stor kyl- och frys.
-På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att vias via bilder.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vädursgatan 2 D, 
+På grund av rådande omständigheter är det ej möjligt med visning. Vid ett erbjudande kommer lägenheten att vias via bilder.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=Cp_ImfzFG0kyotH4ofTgqA..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Vädursgatan 2 D, 
                                 Majelden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d6c70784f4b4c6a3936534e333972445249564f452b636d4863526b766a79434754417544344a507278633d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d6c70784f4b4c6a3936534e333972445249564f452b636d4863526b766a79434754417544344a507278633d"/>
-        <updated>2022-01-30T23:17:25.590Z</updated>
-        <content type="html"><![CDATA[ Välkommen att söka denna trevliga trea i Majelden. Köket är utrustat med diskmaskin samt spis med varmluftsugn. Lägenheten ligger på första våningen och har balkong samt en eldningsbar öppen spis. Du som ny hyresgäst har möjlighet till fri omtapetsering i hall, vardagsrum och ena sovrummet, efter inflyttning. Här finns möjlighet till tidigare inflyttning efter överenskommelse mellan den avflyttande hyresgästen och AB Stångåstaden. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prästbolsgatan 15, 
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=726f35436d752f75716f4933465455317a6f6e524330416a654f7a364f4c724f494b5343696630376d35413d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=726f35436d752f75716f4933465455317a6f6e524330416a654f7a364f4c724f494b5343696630376d35413d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[3 RUM KÖK, 
+                            80.3 kvm, 
+                            våning 1 Välkommen att söka denna trevliga trea i Majelden. Köket är utrustat med diskmaskin samt spis med varmluftsugn. Lägenheten ligger på första våningen och har balkong samt en eldningsbar öppen spis. Du som ny hyresgäst har möjlighet till fri omtapetsering i hall, vardagsrum och ena sovrummet, efter inflyttning. Här finns möjlighet till tidigare inflyttning efter överenskommelse mellan den avflyttande hyresgästen och AB Stångåstaden. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=BsoTHpN8laeXZb6eq5Nwnw..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Prästbolsgatan 15, 
                                 Östra Berga (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4e41484f645a6c66582b54636146764e4d7977424f42672b6351616878774c68712b4665345769644b376b3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4e41484f645a6c66582b54636146764e4d7977424f42672b6351616878774c68712b4665345769644b376b3d"/>
-        <updated>2022-01-30T23:17:25.592Z</updated>
-        <content type="html"><![CDATA[ Högst upp i huset finns denna trea med en härlig utsikt.
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6751303676386d5a364a4c6134634e453251756a4556617056313174365449547657686d796c74333338413d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6751303676386d5a364a4c6134634e453251756a4556617056313174365449547657686d796c74333338413d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[3 RUM KÖK, 
+                            64.8 kvm, 
+                            våning 7 Högst upp i huset finns denna trea med en härlig utsikt.
 Från vardagsrummet når du balkongen.
 Köket stamrenoverades för några år sedan och är utrustat med diskmaskin.
 Badrum med badkar och tvättmaskin.
 Det finns möjlighet till tidigare inflyttning efter samråd med nuvarande hyresgäst och AB Stångåstaden.
-På grund av rådande omständigheter är det ej möjligt med visning. Vid ett eventuellt erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skattegården 39 B, 
+På grund av rådande omständigheter är det ej möjligt med visning. Vid ett eventuellt erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=xXikbcSH8NaTbVR354fuWw..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Skattegården 39 B, 
                                 Ullevi (Skattegården) (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=30425150674944636d675063536247664771596a526e56723363445a5566425a635679694d4e344e4a72733d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=30425150674944636d675063536247664771596a526e56723363445a5566425a635679694d4e344e4a72733d"/>
-        <updated>2022-01-30T23:17:25.592Z</updated>
-        <content type="html"><![CDATA[ Lägenhet för dig som kan flytta in redan 16 februari. Standard med diskmaskin och tvättmaskin. Inglasad balkong. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek crockett 5 Gravel /cx (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-crockett-5-gravel-cx.178193/</id>
-        <link href="https://happyride.se/annonser/trek-crockett-5-gravel-cx.178193/"/>
-        <updated>2022-01-30T23:05:38.410Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+            <link>https://www.stangastaden.se/sokledigt/ledigbostad?refid=306b2b5867545856346b7135656e675576746e42534d654c393652744f596d4f694862456b7546684f796f3d</link>
+            <guid>https://www.stangastaden.se/sokledigt/ledigbostad?refid=306b2b5867545856346b7135656e675576746e42534d654c393652744f596d4f694862456b7546684f796f3d</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[3 RUM KÖK, 
+                            79.5 kvm, 
+                            våning 2 Lägenhet för dig som kan flytta in redan 16 februari. Standard med diskmaskin och tvättmaskin. Inglasad balkong. På grund av rådande omständigheter är det ej möjligt med visning. Vid erbjudande kommer lägenheten att visas via bilder/filmklipp.]]></content:encoded>
+            <enclosure url="https://marknad.stangastaden.se/bilder/?fid=9E35fA4-rnKuC5T7MqpVrg..&height=350&width=528" length="0" type="image//bilder/"/>
+        </item>
+        <item>
+            <title><![CDATA[Trek crockett 5 Gravel /cx (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-crockett-5-gravel-cx.178193/</link>
+            <guid>https://happyride.se/annonser/trek-crockett-5-gravel-cx.178193/</guid>
+            <pubDate>Sun, 30 Jan 2022 23:05:38 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-crockett-5-gravel-cx.178193/">
 					 <div class="image_holder">
@@ -123,14 +156,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Cross / Gravel</td>
 				<td class="col-4 hidden-xs"><nobr>9 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>5 timmar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek fuel ex 8 gx -21 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-fuel-ex-8-gx-21.178163/</id>
-        <link href="https://happyride.se/annonser/trek-fuel-ex-8-gx-21.178163/"/>
-        <updated>2022-01-30T17:39:52.953Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>5 timmar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek fuel ex 8 gx -21 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-fuel-ex-8-gx-21.178163/</link>
+            <guid>https://happyride.se/annonser/trek-fuel-ex-8-gx-21.178163/</guid>
+            <pubDate>Sun, 30 Jan 2022 17:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-fuel-ex-8-gx-21.178163/">
 					 <div class="image_holder">
@@ -141,29 +174,29 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-8-gx-21.178163/">Trek fuel ex 8 gx -21</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 8 timmar</span><span class="visible-xs">32 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-8-gx-21.178163/">Trek fuel ex 8 gx -21</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 9 timmar</span><span class="visible-xs">32 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>32 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>8 timmar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
-        <id>https://vekkt0r.github.io/feeds/all.xml</id>
-        <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-30T23:17:31.907Z</updated>
-        <content type="html"><![CDATA[<td colspan="5">
+				<td class="hidden-xs"><nobr>9 timmar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (Happyride annonser)]]></title>
+            <link>https://vekkt0r.github.io/feeds/all.xml</link>
+            <guid>https://vekkt0r.github.io/feeds/all.xml</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
-	</div>				</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek slash 9,7 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-slash-9-7.175358/</id>
-        <link href="https://happyride.se/annonser/trek-slash-9-7.175358/"/>
-        <updated>2022-01-30T17:39:52.955Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+	</div>				</td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek slash 9,7 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-slash-9-7.175358/</link>
+            <guid>https://happyride.se/annonser/trek-slash-9-7.175358/</guid>
+            <pubDate>Sun, 30 Jan 2022 17:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-slash-9-7.175358/">
 					 <div class="image_holder">
@@ -179,14 +212,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>40 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>12 timmar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREK Domane SL6 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-domane-sl6.177992/</id>
-        <link href="https://happyride.se/annonser/trek-domane-sl6.177992/"/>
-        <updated>2022-01-29T16:14:40.556Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>12 timmar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TREK Domane SL6 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-domane-sl6.177992/</link>
+            <guid>https://happyride.se/annonser/trek-domane-sl6.177992/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-domane-sl6.177992/">
 					 <div class="image_holder">
@@ -202,14 +235,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>35 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Slash 2021 M/L (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-slash-2021-m-l.173963/</id>
-        <link href="https://happyride.se/annonser/trek-slash-2021-m-l.173963/"/>
-        <updated>2022-01-29T16:14:40.571Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Slash 2021 M/L (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-slash-2021-m-l.173963/</link>
+            <guid>https://happyride.se/annonser/trek-slash-2021-m-l.173963/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-slash-2021-m-l.173963/">
 					 <div class="image_holder">
@@ -225,14 +258,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>42 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek crossrip ltd L (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-crossrip-ltd-l.177949/</id>
-        <link href="https://happyride.se/annonser/trek-crossrip-ltd-l.177949/"/>
-        <updated>2022-01-29T16:14:40.575Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek crossrip ltd L (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-crossrip-ltd-l.177949/</link>
+            <guid>https://happyride.se/annonser/trek-crossrip-ltd-l.177949/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-crossrip-ltd-l.177949/">
 					 <div class="image_holder">
@@ -248,14 +281,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Cross / Gravel</td>
 				<td class="col-4 hidden-xs"><nobr>4 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Zektor 3 Skivbromsar Hybrid/Pendling (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-zektor-3-skivbromsar-hybrid-pendling.170080/</id>
-        <link href="https://happyride.se/annonser/trek-zektor-3-skivbromsar-hybrid-pendling.170080/"/>
-        <updated>2022-01-29T16:14:40.583Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Zektor 3 Skivbromsar Hybrid/Pendling (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-zektor-3-skivbromsar-hybrid-pendling.170080/</link>
+            <guid>https://happyride.se/annonser/trek-zektor-3-skivbromsar-hybrid-pendling.170080/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-zektor-3-skivbromsar-hybrid-pendling.170080/">
 					 <div class="image_holder">
@@ -271,14 +304,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Hybrid / Standard</td>
 				<td class="col-4 hidden-xs"><nobr>3 200:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Fuel EX 8 XT -20 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-fuel-ex-8-xt-20.177944/</id>
-        <link href="https://happyride.se/annonser/trek-fuel-ex-8-xt-20.177944/"/>
-        <updated>2022-01-29T16:14:40.587Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Fuel EX 8 XT -20 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-fuel-ex-8-xt-20.177944/</link>
+            <guid>https://happyride.se/annonser/trek-fuel-ex-8-xt-20.177944/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-fuel-ex-8-xt-20.177944/">
 					 <div class="image_holder">
@@ -294,14 +327,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>30 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Madone SLR 9 2019 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-madone-slr-9-2019.177903/</id>
-        <link href="https://happyride.se/annonser/trek-madone-slr-9-2019.177903/"/>
-        <updated>2022-01-29T16:14:40.587Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Madone SLR 9 2019 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-madone-slr-9-2019.177903/</link>
+            <guid>https://happyride.se/annonser/trek-madone-slr-9-2019.177903/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-madone-slr-9-2019.177903/">
 					 <div class="image_holder">
@@ -317,14 +350,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>88 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Xcaliber 9 XT,  2018/2019. (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-xcaliber-9-xt-2018-2019.177899/</id>
-        <link href="https://happyride.se/annonser/trek-xcaliber-9-xt-2018-2019.177899/"/>
-        <updated>2022-01-29T16:14:40.588Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Xcaliber 9 XT,  2018/2019. (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-xcaliber-9-xt-2018-2019.177899/</link>
+            <guid>https://happyride.se/annonser/trek-xcaliber-9-xt-2018-2019.177899/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-xcaliber-9-xt-2018-2019.177899/">
 					 <div class="image_holder">
@@ -340,14 +373,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>11 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mondraker Foxy RR (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/mondraker-foxy-rr.171768/</id>
-        <link href="https://happyride.se/annonser/mondraker-foxy-rr.171768/"/>
-        <updated>2022-01-29T16:14:40.589Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mondraker Foxy RR (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/mondraker-foxy-rr.171768/</link>
+            <guid>https://happyride.se/annonser/mondraker-foxy-rr.171768/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/mondraker-foxy-rr.171768/">
 					 <div class="image_holder">
@@ -363,14 +396,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>54 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Madone 9.9 54cm (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-madone-9-9-54cm.177823/</id>
-        <link href="https://happyride.se/annonser/trek-madone-9-9-54cm.177823/"/>
-        <updated>2022-01-29T16:14:40.594Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Madone 9.9 54cm (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-madone-9-9-54cm.177823/</link>
+            <guid>https://happyride.se/annonser/trek-madone-9-9-54cm.177823/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-madone-9-9-54cm.177823/">
 					 <div class="image_holder">
@@ -386,14 +419,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>30 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREK Top Fuel 9.7 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-top-fuel-9-7.177802/</id>
-        <link href="https://happyride.se/annonser/trek-top-fuel-9-7.177802/"/>
-        <updated>2022-01-29T16:14:40.595Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TREK Top Fuel 9.7 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-top-fuel-9-7.177802/</link>
+            <guid>https://happyride.se/annonser/trek-top-fuel-9-7.177802/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-top-fuel-9-7.177802/">
 					 <div class="image_holder">
@@ -409,14 +442,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>24 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Madone Landsvägsracer (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-madone-landsvagsracer.177674/</id>
-        <link href="https://happyride.se/annonser/trek-madone-landsvagsracer.177674/"/>
-        <updated>2022-01-29T16:14:40.596Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Madone Landsvägsracer (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-madone-landsvagsracer.177674/</link>
+            <guid>https://happyride.se/annonser/trek-madone-landsvagsracer.177674/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-madone-landsvagsracer.177674/">
 					 <div class="image_holder">
@@ -432,14 +465,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>14 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Emonda SL 6 Disc PRO (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-emonda-sl-6-disc-pro.177602/</id>
-        <link href="https://happyride.se/annonser/trek-emonda-sl-6-disc-pro.177602/"/>
-        <updated>2022-01-29T16:14:40.598Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Emonda SL 6 Disc PRO (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-emonda-sl-6-disc-pro.177602/</link>
+            <guid>https://happyride.se/annonser/trek-emonda-sl-6-disc-pro.177602/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-emonda-sl-6-disc-pro.177602/">
 					 <div class="image_holder">
@@ -455,14 +488,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>24 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek 520 Disc. 60 cm. (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-520-disc-60-cm.177579/</id>
-        <link href="https://happyride.se/annonser/trek-520-disc-60-cm.177579/"/>
-        <updated>2022-01-29T16:14:40.599Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek 520 Disc. 60 cm. (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-520-disc-60-cm.177579/</link>
+            <guid>https://happyride.se/annonser/trek-520-disc-60-cm.177579/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-520-disc-60-cm.177579/">
 					 <div class="image_holder">
@@ -478,14 +511,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Övriga</td>
 				<td class="col-4 hidden-xs"><nobr>13 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Emonda SL 6 Disc 2020 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-emonda-sl-6-disc-2020.177512/</id>
-        <link href="https://happyride.se/annonser/trek-emonda-sl-6-disc-2020.177512/"/>
-        <updated>2022-01-29T16:14:40.600Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Emonda SL 6 Disc 2020 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-emonda-sl-6-disc-2020.177512/</link>
+            <guid>https://happyride.se/annonser/trek-emonda-sl-6-disc-2020.177512/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-emonda-sl-6-disc-2020.177512/">
 					 <div class="image_holder">
@@ -501,14 +534,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>20 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek roscoe 8 2020 M/L (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-roscoe-8-2020-m-l.177507/</id>
-        <link href="https://happyride.se/annonser/trek-roscoe-8-2020-m-l.177507/"/>
-        <updated>2022-01-29T16:14:40.602Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek roscoe 8 2020 M/L (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-roscoe-8-2020-m-l.177507/</link>
+            <guid>https://happyride.se/annonser/trek-roscoe-8-2020-m-l.177507/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-roscoe-8-2020-m-l.177507/">
 					 <div class="image_holder">
@@ -524,14 +557,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>15 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Top Fuel 9.8 2020 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-top-fuel-9-8-2020.177506/</id>
-        <link href="https://happyride.se/annonser/trek-top-fuel-9-8-2020.177506/"/>
-        <updated>2022-01-29T16:14:40.603Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Top Fuel 9.8 2020 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-top-fuel-9-8-2020.177506/</link>
+            <guid>https://happyride.se/annonser/trek-top-fuel-9-8-2020.177506/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-top-fuel-9-8-2020.177506/">
 					 <div class="image_holder">
@@ -547,14 +580,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>40 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Superfly 9.6 carbon 29" L (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-superfly-9-6-carbon-29-l.173808/</id>
-        <link href="https://happyride.se/annonser/trek-superfly-9-6-carbon-29-l.173808/"/>
-        <updated>2022-01-29T16:14:40.604Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Superfly 9.6 carbon 29" L (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-superfly-9-6-carbon-29-l.173808/</link>
+            <guid>https://happyride.se/annonser/trek-superfly-9-6-carbon-29-l.173808/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-superfly-9-6-carbon-29-l.173808/">
 					 <div class="image_holder">
@@ -570,14 +603,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>8 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREK BOONE 6 DISC-2021-stl 56 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-boone-6-disc-2021-stl-56.177486/</id>
-        <link href="https://happyride.se/annonser/trek-boone-6-disc-2021-stl-56.177486/"/>
-        <updated>2022-01-29T16:14:40.605Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TREK BOONE 6 DISC-2021-stl 56 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-boone-6-disc-2021-stl-56.177486/</link>
+            <guid>https://happyride.se/annonser/trek-boone-6-disc-2021-stl-56.177486/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-boone-6-disc-2021-stl-56.177486/">
 					 <div class="image_holder">
@@ -593,14 +626,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Cross / Gravel</td>
 				<td class="col-4 hidden-xs"><nobr>25 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Fuel Ex 7 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-fuel-ex-7.173263/</id>
-        <link href="https://happyride.se/annonser/trek-fuel-ex-7.173263/"/>
-        <updated>2022-01-29T16:14:40.607Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Fuel Ex 7 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-fuel-ex-7.173263/</link>
+            <guid>https://happyride.se/annonser/trek-fuel-ex-7.173263/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-fuel-ex-7.173263/">
 					 <div class="image_holder">
@@ -616,14 +649,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>23 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mondraker Foxy XR Mullet (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/mondraker-foxy-xr-mullet.177440/</id>
-        <link href="https://happyride.se/annonser/mondraker-foxy-xr-mullet.177440/"/>
-        <updated>2022-01-29T16:14:40.610Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mondraker Foxy XR Mullet (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/mondraker-foxy-xr-mullet.177440/</link>
+            <guid>https://happyride.se/annonser/mondraker-foxy-xr-mullet.177440/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/mondraker-foxy-xr-mullet.177440/">
 					 <div class="image_holder">
@@ -639,14 +672,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>42 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Farley 9.6 uppgraderad (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-farley-9-6-uppgraderad.177437/</id>
-        <link href="https://happyride.se/annonser/trek-farley-9-6-uppgraderad.177437/"/>
-        <updated>2022-01-29T16:14:40.610Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Farley 9.6 uppgraderad (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-farley-9-6-uppgraderad.177437/</link>
+            <guid>https://happyride.se/annonser/trek-farley-9-6-uppgraderad.177437/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-farley-9-6-uppgraderad.177437/">
 					 <div class="image_holder">
@@ -662,14 +695,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>27 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek procaliber 6 -19. Large 19.5 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-procaliber-6-19-large-19-5.177391/</id>
-        <link href="https://happyride.se/annonser/trek-procaliber-6-19-large-19-5.177391/"/>
-        <updated>2022-01-29T16:14:40.611Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek procaliber 6 -19. Large 19.5 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-procaliber-6-19-large-19-5.177391/</link>
+            <guid>https://happyride.se/annonser/trek-procaliber-6-19-large-19-5.177391/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-procaliber-6-19-large-19-5.177391/">
 					 <div class="image_holder">
@@ -685,14 +718,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>11 400:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Fuel EX7 XL 2018 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-fuel-ex7-xl-2018.177359/</id>
-        <link href="https://happyride.se/annonser/trek-fuel-ex7-xl-2018.177359/"/>
-        <updated>2022-01-29T16:14:40.612Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Fuel EX7 XL 2018 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-fuel-ex7-xl-2018.177359/</link>
+            <guid>https://happyride.se/annonser/trek-fuel-ex7-xl-2018.177359/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-fuel-ex7-xl-2018.177359/">
 					 <div class="image_holder">
@@ -708,14 +741,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>18 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Fuel Ex 8 XT 29 - 2020 - XL (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-fuel-ex-8-xt-29-2020-xl.177331/</id>
-        <link href="https://happyride.se/annonser/trek-fuel-ex-8-xt-29-2020-xl.177331/"/>
-        <updated>2022-01-29T16:14:40.614Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Fuel Ex 8 XT 29 - 2020 - XL (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-fuel-ex-8-xt-29-2020-xl.177331/</link>
+            <guid>https://happyride.se/annonser/trek-fuel-ex-8-xt-29-2020-xl.177331/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-fuel-ex-8-xt-29-2020-xl.177331/">
 					 <div class="image_holder">
@@ -731,14 +764,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>33 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Supercaliber 9.8 GX (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-supercaliber-9-8-gx.169667/</id>
-        <link href="https://happyride.se/annonser/trek-supercaliber-9-8-gx.169667/"/>
-        <updated>2022-01-29T16:14:40.621Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Supercaliber 9.8 GX (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-supercaliber-9-8-gx.169667/</link>
+            <guid>https://happyride.se/annonser/trek-supercaliber-9-8-gx.169667/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-supercaliber-9-8-gx.169667/">
 					 <div class="image_holder">
@@ -754,14 +787,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>43 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek x-caliber 8 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-x-caliber-8.177220/</id>
-        <link href="https://happyride.se/annonser/trek-x-caliber-8.177220/"/>
-        <updated>2022-01-29T16:14:40.634Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek x-caliber 8 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-x-caliber-8.177220/</link>
+            <guid>https://happyride.se/annonser/trek-x-caliber-8.177220/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-x-caliber-8.177220/">
 					 <div class="image_holder">
@@ -777,14 +810,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>10 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek X-Caliber 8 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-x-caliber-8.177111/</id>
-        <link href="https://happyride.se/annonser/trek-x-caliber-8.177111/"/>
-        <updated>2022-01-29T16:14:40.634Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek X-Caliber 8 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-x-caliber-8.177111/</link>
+            <guid>https://happyride.se/annonser/trek-x-caliber-8.177111/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-x-caliber-8.177111/">
 					 <div class="image_holder">
@@ -800,14 +833,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>9 800:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Slash 8 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-slash-8.178067/</id>
-        <link href="https://happyride.se/annonser/trek-slash-8.178067/"/>
-        <updated>2022-01-29T16:14:43.392Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek Slash 8 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-slash-8.178067/</link>
+            <guid>https://happyride.se/annonser/trek-slash-8.178067/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-slash-8.178067/">
 					 <div class="image_holder">
@@ -823,14 +856,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Ramar</td>
 				<td class="col-4 hidden-xs"><nobr>10 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mondraker Raze RR SL - trail - flcycling (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/</id>
-        <link href="https://happyride.se/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/"/>
-        <updated>2022-01-29T16:14:43.396Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Mondraker Raze RR SL - trail - flcycling (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/</link>
+            <guid>https://happyride.se/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/">
 					 <div class="image_holder">
@@ -846,24 +879,24 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Ramar</td>
 				<td class="col-4 hidden-xs"><nobr>-</nobr></td>
-				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
-        <id>https://vekkt0r.github.io/feeds/all.xml</id>
-        <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-30T23:17:35.188Z</updated>
-        <content type="html"><![CDATA[<td colspan="5">
+				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (Happyride annonser)]]></title>
+            <link>https://vekkt0r.github.io/feeds/all.xml</link>
+            <guid>https://vekkt0r.github.io/feeds/all.xml</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:25 GMT</pubDate>
+            <content:encoded><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
-	</div>				</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ny Trek Checkpoint SL 61cm ramset 2021 gravelbike (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/ny-trek-checkpoint-sl-61cm-ramset-2021-gravelbike.174504/</id>
-        <link href="https://happyride.se/annonser/ny-trek-checkpoint-sl-61cm-ramset-2021-gravelbike.174504/"/>
-        <updated>2022-01-29T16:14:43.398Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+	</div>				</td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ny Trek Checkpoint SL 61cm ramset 2021 gravelbike (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/ny-trek-checkpoint-sl-61cm-ramset-2021-gravelbike.174504/</link>
+            <guid>https://happyride.se/annonser/ny-trek-checkpoint-sl-61cm-ramset-2021-gravelbike.174504/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/ny-trek-checkpoint-sl-61cm-ramset-2021-gravelbike.174504/">
 					 <div class="image_holder">
@@ -879,14 +912,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Ramar</td>
 				<td class="col-4 hidden-xs"><nobr>24 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gary Fisher Hifi Pro Carbon ramset (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/gary-fisher-hifi-pro-carbon-ramset.175139/</id>
-        <link href="https://happyride.se/annonser/gary-fisher-hifi-pro-carbon-ramset.175139/"/>
-        <updated>2022-01-29T16:14:43.399Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Gary Fisher Hifi Pro Carbon ramset (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/gary-fisher-hifi-pro-carbon-ramset.175139/</link>
+            <guid>https://happyride.se/annonser/gary-fisher-hifi-pro-carbon-ramset.175139/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/gary-fisher-hifi-pro-carbon-ramset.175139/">
 					 <div class="image_holder">
@@ -902,14 +935,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Ramar</td>
 				<td class="col-4 hidden-xs"><nobr>12 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek 1200 ram och gaffel för Zwift (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-1200-ram-och-gaffel-for-zwift.169168/</id>
-        <link href="https://happyride.se/annonser/trek-1200-ram-och-gaffel-for-zwift.169168/"/>
-        <updated>2022-01-29T16:14:43.399Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Trek 1200 ram och gaffel för Zwift (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/trek-1200-ram-och-gaffel-for-zwift.169168/</link>
+            <guid>https://happyride.se/annonser/trek-1200-ram-och-gaffel-for-zwift.169168/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/trek-1200-ram-och-gaffel-for-zwift.169168/">
 					 <div class="image_holder">
@@ -925,14 +958,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Ramar</td>
 				<td class="col-4 hidden-xs"><nobr>700:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sram XX1 Eagle kedja i rainbow - Helt ny (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-xx1-eagle-kedja-i-rainbow-helt-ny.178122/</id>
-        <link href="https://happyride.se/annonser/sram-xx1-eagle-kedja-i-rainbow-helt-ny.178122/"/>
-        <updated>2022-01-30T05:38:56.522Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sram XX1 Eagle kedja i rainbow - Helt ny (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sram-xx1-eagle-kedja-i-rainbow-helt-ny.178122/</link>
+            <guid>https://happyride.se/annonser/sram-xx1-eagle-kedja-i-rainbow-helt-ny.178122/</guid>
+            <pubDate>Sun, 30 Jan 2022 05:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-xx1-eagle-kedja-i-rainbow-helt-ny.178122/">
 					 <div class="image_holder">
@@ -948,14 +981,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
-				<td class="hidden-xs"><nobr>21 timmar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XX1 Eagle AXS Uppgradering Kit svart (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/xx1-eagle-axs-uppgradering-kit-svart.178079/</id>
-        <link href="https://happyride.se/annonser/xx1-eagle-axs-uppgradering-kit-svart.178079/"/>
-        <updated>2022-01-30T05:38:56.523Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>21 timmar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[XX1 Eagle AXS Uppgradering Kit svart (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/xx1-eagle-axs-uppgradering-kit-svart.178079/</link>
+            <guid>https://happyride.se/annonser/xx1-eagle-axs-uppgradering-kit-svart.178079/</guid>
+            <pubDate>Sun, 30 Jan 2022 05:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/xx1-eagle-axs-uppgradering-kit-svart.178079/">
 					 <div class="image_holder">
@@ -971,24 +1004,24 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>7 999:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
-        <id>https://vekkt0r.github.io/feeds/all.xml</id>
-        <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-01-30T23:17:36.798Z</updated>
-        <content type="html"><![CDATA[<td colspan="5">
+				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[undefined (Happyride annonser)]]></title>
+            <link>https://vekkt0r.github.io/feeds/all.xml</link>
+            <guid>https://vekkt0r.github.io/feeds/all.xml</guid>
+            <pubDate>Sun, 30 Jan 2022 23:24:27 GMT</pubDate>
+            <content:encoded><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
-	</div>				</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope X2 bytes mot fetare broms (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/hope-x2-bytes-mot-fetare-broms.178026/</id>
-        <link href="https://happyride.se/annonser/hope-x2-bytes-mot-fetare-broms.178026/"/>
-        <updated>2022-01-29T16:14:46.634Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+	</div>				</td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hope X2 bytes mot fetare broms (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/hope-x2-bytes-mot-fetare-broms.178026/</link>
+            <guid>https://happyride.se/annonser/hope-x2-bytes-mot-fetare-broms.178026/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-x2-bytes-mot-fetare-broms.178026/">
 					 <div class="image_holder">
@@ -1004,14 +1037,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>2 147 483 647:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRAM X01 XG-1195 Kassett 11-delad, 10-42 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-x01-xg-1195-kassett-11-delad-10-42.177999/</id>
-        <link href="https://happyride.se/annonser/sram-x01-xg-1195-kassett-11-delad-10-42.177999/"/>
-        <updated>2022-01-29T16:14:46.635Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SRAM X01 XG-1195 Kassett 11-delad, 10-42 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sram-x01-xg-1195-kassett-11-delad-10-42.177999/</link>
+            <guid>https://happyride.se/annonser/sram-x01-xg-1195-kassett-11-delad-10-42.177999/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-x01-xg-1195-kassett-11-delad-10-42.177999/">
 					 <div class="image_holder">
@@ -1027,14 +1060,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>2 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope AM/FR 50mm styrstam, Orange (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/hope-am-fr-50mm-styrstam-orange.177896/</id>
-        <link href="https://happyride.se/annonser/hope-am-fr-50mm-styrstam-orange.177896/"/>
-        <updated>2022-01-29T16:14:46.635Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hope AM/FR 50mm styrstam, Orange (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/hope-am-fr-50mm-styrstam-orange.177896/</link>
+            <guid>https://happyride.se/annonser/hope-am-fr-50mm-styrstam-orange.177896/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-am-fr-50mm-styrstam-orange.177896/">
 					 <div class="image_holder">
@@ -1050,14 +1083,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope Hub241 12mm adapter bakhjul (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/hope-hub241-12mm-adapter-bakhjul.149645/</id>
-        <link href="https://happyride.se/annonser/hope-hub241-12mm-adapter-bakhjul.149645/"/>
-        <updated>2022-01-29T16:14:46.636Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hope Hub241 12mm adapter bakhjul (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/hope-hub241-12mm-adapter-bakhjul.149645/</link>
+            <guid>https://happyride.se/annonser/hope-hub241-12mm-adapter-bakhjul.149645/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-hub241-12mm-adapter-bakhjul.149645/">
 					 <div class="image_holder">
@@ -1073,14 +1106,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Hjul &amp; Däck</td>
 				<td class="col-4 hidden-xs"><nobr>150:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tacx Neo T2800 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/tacx-neo-t2800.174042/</id>
-        <link href="https://happyride.se/annonser/tacx-neo-t2800.174042/"/>
-        <updated>2022-01-29T16:14:46.637Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Tacx Neo T2800 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/tacx-neo-t2800.174042/</link>
+            <guid>https://happyride.se/annonser/tacx-neo-t2800.174042/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/tacx-neo-t2800.174042/">
 					 <div class="image_holder">
@@ -1096,14 +1129,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Tillbehör</td>
 				<td class="col-4 hidden-xs"><nobr>7 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fizik Aliante R1 Carbon, Large (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/fizik-aliante-r1-carbon-large.175119/</id>
-        <link href="https://happyride.se/annonser/fizik-aliante-r1-carbon-large.175119/"/>
-        <updated>2022-01-29T16:14:46.638Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fizik Aliante R1 Carbon, Large (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/fizik-aliante-r1-carbon-large.175119/</link>
+            <guid>https://happyride.se/annonser/fizik-aliante-r1-carbon-large.175119/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/fizik-aliante-r1-carbon-large.175119/">
 					 <div class="image_holder">
@@ -1119,14 +1152,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>900:-</nobr></td>
-				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shimano 12s kedjeringar till Hope Evo vevparti (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/shimano-12s-kedjeringar-till-hope-evo-vevparti.177634/</id>
-        <link href="https://happyride.se/annonser/shimano-12s-kedjeringar-till-hope-evo-vevparti.177634/"/>
-        <updated>2022-01-29T16:14:46.639Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Shimano 12s kedjeringar till Hope Evo vevparti (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/shimano-12s-kedjeringar-till-hope-evo-vevparti.177634/</link>
+            <guid>https://happyride.se/annonser/shimano-12s-kedjeringar-till-hope-evo-vevparti.177634/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/shimano-12s-kedjeringar-till-hope-evo-vevparti.177634/">
 					 <div class="image_holder">
@@ -1142,14 +1175,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>300:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diverse Rapha strl M (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/diverse-rapha-strl-m.177243/</id>
-        <link href="https://happyride.se/annonser/diverse-rapha-strl-m.177243/"/>
-        <updated>2022-01-29T16:14:46.640Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Diverse Rapha strl M (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/diverse-rapha-strl-m.177243/</link>
+            <guid>https://happyride.se/annonser/diverse-rapha-strl-m.177243/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/diverse-rapha-strl-m.177243/">
 					 <div class="image_holder">
@@ -1165,14 +1198,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Kläder</td>
 				<td class="col-4 hidden-xs"><nobr>1 234:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRAM  framdrev 28T, Sram Crank Arm Guard For XX1/X01 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-framdrev-28t-sram-crank-arm-guard-for-xx1-x01.177127/</id>
-        <link href="https://happyride.se/annonser/sram-framdrev-28t-sram-crank-arm-guard-for-xx1-x01.177127/"/>
-        <updated>2022-01-29T16:14:46.642Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SRAM  framdrev 28T, Sram Crank Arm Guard For XX1/X01 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sram-framdrev-28t-sram-crank-arm-guard-for-xx1-x01.177127/</link>
+            <guid>https://happyride.se/annonser/sram-framdrev-28t-sram-crank-arm-guard-for-xx1-x01.177127/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-framdrev-28t-sram-crank-arm-guard-for-xx1-x01.177127/">
 					 <div class="image_holder">
@@ -1188,14 +1221,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>-</nobr></td>
-				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRAM XX1 GXP 170 mm vänster vevarm (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-xx1-gxp-170-mm-vanster-vevarm.167718/</id>
-        <link href="https://happyride.se/annonser/sram-xx1-gxp-170-mm-vanster-vevarm.167718/"/>
-        <updated>2022-01-29T16:14:46.644Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SRAM XX1 GXP 170 mm vänster vevarm (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sram-xx1-gxp-170-mm-vanster-vevarm.167718/</link>
+            <guid>https://happyride.se/annonser/sram-xx1-gxp-170-mm-vanster-vevarm.167718/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-xx1-gxp-170-mm-vanster-vevarm.167718/">
 					 <div class="image_holder">
@@ -1211,14 +1244,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sigeyi AXO Effektmätare Sram Mtb (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sigeyi-axo-effektmatare-sram-mtb.176591/</id>
-        <link href="https://happyride.se/annonser/sigeyi-axo-effektmatare-sram-mtb.176591/"/>
-        <updated>2022-01-29T16:14:46.646Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sigeyi AXO Effektmätare Sram Mtb (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sigeyi-axo-effektmatare-sram-mtb.176591/</link>
+            <guid>https://happyride.se/annonser/sigeyi-axo-effektmatare-sram-mtb.176591/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sigeyi-axo-effektmatare-sram-mtb.176591/">
 					 <div class="image_holder">
@@ -1234,14 +1267,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>2 400:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fizik testsadlar (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/fizik-testsadlar.176558/</id>
-        <link href="https://happyride.se/annonser/fizik-testsadlar.176558/"/>
-        <updated>2022-01-29T16:14:46.648Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fizik testsadlar (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/fizik-testsadlar.176558/</link>
+            <guid>https://happyride.se/annonser/fizik-testsadlar.176558/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/fizik-testsadlar.176558/">
 					 <div class="image_holder">
@@ -1257,14 +1290,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>1 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sadel (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sadel.137910/</id>
-        <link href="https://happyride.se/annonser/sadel.137910/"/>
-        <updated>2022-01-29T16:14:46.649Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sadel (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sadel.137910/</link>
+            <guid>https://happyride.se/annonser/sadel.137910/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sadel.137910/">
 					 <div class="image_holder">
@@ -1280,14 +1313,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter och tillbehör</td>
 				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sram red axs etap powermeter (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-red-axs-etap-powermeter.176125/</id>
-        <link href="https://happyride.se/annonser/sram-red-axs-etap-powermeter.176125/"/>
-        <updated>2022-01-29T16:14:46.651Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sram red axs etap powermeter (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sram-red-axs-etap-powermeter.176125/</link>
+            <guid>https://happyride.se/annonser/sram-red-axs-etap-powermeter.176125/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-red-axs-etap-powermeter.176125/">
 					 <div class="image_holder">
@@ -1303,14 +1336,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>6 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quarq Sram XX1 Watt vevparti (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/quarq-sram-xx1-watt-vevparti.169308/</id>
-        <link href="https://happyride.se/annonser/quarq-sram-xx1-watt-vevparti.169308/"/>
-        <updated>2022-01-29T16:14:46.652Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Quarq Sram XX1 Watt vevparti (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/quarq-sram-xx1-watt-vevparti.169308/</link>
+            <guid>https://happyride.se/annonser/quarq-sram-xx1-watt-vevparti.169308/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/quarq-sram-xx1-watt-vevparti.169308/">
 					 <div class="image_holder">
@@ -1326,14 +1359,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>6 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roval Control 29 kolfiberhjul(nya) (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/roval-control-29-kolfiberhjul-nya.172667/</id>
-        <link href="https://happyride.se/annonser/roval-control-29-kolfiberhjul-nya.172667/"/>
-        <updated>2022-01-29T16:14:46.653Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>4 veckor</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Roval Control 29 kolfiberhjul(nya) (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/roval-control-29-kolfiberhjul-nya.172667/</link>
+            <guid>https://happyride.se/annonser/roval-control-29-kolfiberhjul-nya.172667/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/roval-control-29-kolfiberhjul-nya.172667/">
 					 <div class="image_holder">
@@ -1349,14 +1382,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Hjul &amp; Däck</td>
 				<td class="col-4 hidden-xs"><nobr>7 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fizik Aliante R3 VS Evo (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/fizik-aliante-r3-vs-evo.156686/</id>
-        <link href="https://happyride.se/annonser/fizik-aliante-r3-vs-evo.156686/"/>
-        <updated>2022-01-29T16:14:46.653Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fizik Aliante R3 VS Evo (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/fizik-aliante-r3-vs-evo.156686/</link>
+            <guid>https://happyride.se/annonser/fizik-aliante-r3-vs-evo.156686/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/fizik-aliante-r3-vs-evo.156686/">
 					 <div class="image_holder">
@@ -1372,14 +1405,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>450:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kolfiberfälgar 27.5" och 29" (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/kolfiberfalgar-27-5-och-29.140768/</id>
-        <link href="https://happyride.se/annonser/kolfiberfalgar-27-5-och-29.140768/"/>
-        <updated>2022-01-29T16:14:46.655Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Kolfiberfälgar 27.5" och 29" (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/kolfiberfalgar-27-5-och-29.140768/</link>
+            <guid>https://happyride.se/annonser/kolfiberfalgar-27-5-och-29.140768/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/kolfiberfalgar-27-5-och-29.140768/">
 					 <div class="image_holder">
@@ -1395,14 +1428,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>3 200:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navset, I9, Erase, Onyx (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/navset-i9-erase-onyx.159260/</id>
-        <link href="https://happyride.se/annonser/navset-i9-erase-onyx.159260/"/>
-        <updated>2022-01-29T16:14:46.659Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Navset, I9, Erase, Onyx (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/navset-i9-erase-onyx.159260/</link>
+            <guid>https://happyride.se/annonser/navset-i9-erase-onyx.159260/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/navset-i9-erase-onyx.159260/">
 					 <div class="image_holder">
@@ -1418,14 +1451,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fizik Aliante R3 K:ium (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/fizik-aliante-r3-k-ium.165318/</id>
-        <link href="https://happyride.se/annonser/fizik-aliante-r3-k-ium.165318/"/>
-        <updated>2022-01-29T16:14:46.661Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fizik Aliante R3 K:ium (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/fizik-aliante-r3-k-ium.165318/</link>
+            <guid>https://happyride.se/annonser/fizik-aliante-r3-k-ium.165318/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/fizik-aliante-r3-k-ium.165318/">
 					 <div class="image_holder">
@@ -1441,14 +1474,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>700:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ceramic Speed Pulley Wheels for SRAM 1-11 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/ceramic-speed-pulley-wheels-for-sram-1-11.164218/</id>
-        <link href="https://happyride.se/annonser/ceramic-speed-pulley-wheels-for-sram-1-11.164218/"/>
-        <updated>2022-01-29T16:14:46.662Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ceramic Speed Pulley Wheels for SRAM 1-11 (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/ceramic-speed-pulley-wheels-for-sram-1-11.164218/</link>
+            <guid>https://happyride.se/annonser/ceramic-speed-pulley-wheels-for-sram-1-11.164218/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/ceramic-speed-pulley-wheels-for-sram-1-11.164218/">
 					 <div class="image_holder">
@@ -1464,14 +1497,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>1 600:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sram Ratio technology 1×12 Wide Upgrade Kit (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-ratio-technology-1-12-wide-upgrade-kit.170373/</id>
-        <link href="https://happyride.se/annonser/sram-ratio-technology-1-12-wide-upgrade-kit.170373/"/>
-        <updated>2022-01-29T16:14:46.663Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sram Ratio technology 1×12 Wide Upgrade Kit (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sram-ratio-technology-1-12-wide-upgrade-kit.170373/</link>
+            <guid>https://happyride.se/annonser/sram-ratio-technology-1-12-wide-upgrade-kit.170373/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-ratio-technology-1-12-wide-upgrade-kit.170373/">
 					 <div class="image_holder">
@@ -1487,14 +1520,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>1 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bakhjul Hope Fortus 26 - Pro 4 - 27.5" Boost (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/bakhjul-hope-fortus-26-pro-4-27-5-boost.174631/</id>
-        <link href="https://happyride.se/annonser/bakhjul-hope-fortus-26-pro-4-27-5-boost.174631/"/>
-        <updated>2022-01-29T16:14:46.664Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bakhjul Hope Fortus 26 - Pro 4 - 27.5" Boost (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/bakhjul-hope-fortus-26-pro-4-27-5-boost.174631/</link>
+            <guid>https://happyride.se/annonser/bakhjul-hope-fortus-26-pro-4-27-5-boost.174631/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/bakhjul-hope-fortus-26-pro-4-27-5-boost.174631/">
 					 <div class="image_holder">
@@ -1510,14 +1543,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Hjul &amp; Däck</td>
 				<td class="col-4 hidden-xs"><nobr>2 200:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope narrow wide 30T drev (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/hope-narrow-wide-30t-drev.173786/</id>
-        <link href="https://happyride.se/annonser/hope-narrow-wide-30t-drev.173786/"/>
-        <updated>2022-01-29T16:14:46.665Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hope narrow wide 30T drev (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/hope-narrow-wide-30t-drev.173786/</link>
+            <guid>https://happyride.se/annonser/hope-narrow-wide-30t-drev.173786/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-narrow-wide-30t-drev.173786/">
 					 <div class="image_holder">
@@ -1533,14 +1566,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>200:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRAM Red eTap Wifli Grupp (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-red-etap-wifli-grupp.173435/</id>
-        <link href="https://happyride.se/annonser/sram-red-etap-wifli-grupp.173435/"/>
-        <updated>2022-01-29T16:14:46.666Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SRAM Red eTap Wifli Grupp (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sram-red-etap-wifli-grupp.173435/</link>
+            <guid>https://happyride.se/annonser/sram-red-etap-wifli-grupp.173435/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-red-etap-wifli-grupp.173435/">
 					 <div class="image_holder">
@@ -1556,14 +1589,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>15 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Förrådsrensning , Sram, Rockshox, mm.. (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/forradsrensning-sram-rockshox-mm.168366/</id>
-        <link href="https://happyride.se/annonser/forradsrensning-sram-rockshox-mm.168366/"/>
-        <updated>2022-01-29T16:14:46.667Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Förrådsrensning , Sram, Rockshox, mm.. (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/forradsrensning-sram-rockshox-mm.168366/</link>
+            <guid>https://happyride.se/annonser/forradsrensning-sram-rockshox-mm.168366/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/forradsrensning-sram-rockshox-mm.168366/">
 					 <div class="image_holder">
@@ -1579,14 +1612,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>123:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hope Tech 3 V4 bore caps (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/hope-tech-3-v4-bore-caps.156750/</id>
-        <link href="https://happyride.se/annonser/hope-tech-3-v4-bore-caps.156750/"/>
-        <updated>2022-01-29T16:14:46.669Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Hope Tech 3 V4 bore caps (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/hope-tech-3-v4-bore-caps.156750/</link>
+            <guid>https://happyride.se/annonser/hope-tech-3-v4-bore-caps.156750/</guid>
+            <pubDate>Sat, 29 Jan 2022 16:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/hope-tech-3-v4-bore-caps.156750/">
 					 <div class="image_holder">
@@ -1602,14 +1635,14 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>50:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRAM eTap grupp ink BlipBox (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-etap-grupp-ink-blipbox.172239/</id>
-        <link href="https://happyride.se/annonser/sram-etap-grupp-ink-blipbox.172239/"/>
-        <updated>2022-01-30T17:40:02.722Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
+				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SRAM eTap grupp ink BlipBox (Happyride annonser)]]></title>
+            <link>https://happyride.se/annonser/sram-etap-grupp-ink-blipbox.172239/</link>
+            <guid>https://happyride.se/annonser/sram-etap-grupp-ink-blipbox.172239/</guid>
+            <pubDate>Sun, 30 Jan 2022 17:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<td class="col-1">
 
 					<a href="/annonser/sram-etap-grupp-ink-blipbox.172239/">
 					 <div class="image_holder">
@@ -1625,6 +1658,7 @@ På grund av rådande omständigheter är det ej möjligt med visning. Vid ett e
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>15 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
-    </entry>
-</feed>
+				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
