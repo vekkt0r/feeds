@@ -5,8 +5,7 @@ entrySelector = ".search-list-item"
 titleSelector = "a .list-item-header"
 linkSelector = "a"
 contentSelector = [".search-display-info", ".search-object-text"]
-imageSelector = ".search-left-column img"
-#contentSelector = ".search-list-item-anchor"
+#imageSelector = ".search-left-column img"
 waitUntil = "networkidle"
 
 [happyride]
