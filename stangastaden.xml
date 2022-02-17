@@ -2,15 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stangastaden.se/sokledigt/bostad?actionId=&amp;oboTyper%5B%5D=A3&amp;oboTyper%5B%5D=A4&amp;oboTyper%5B%5D=A5&amp;oboTyper%5B%5D=A6&amp;oboTyper%5B%5D=A7&amp;ytaMin=50&amp;ytaMax=300&amp;hyraMax=25000</id>
     <title>Stångåstaden Lägenheter</title>
-    <updated>2022-02-17T05:39:03.278Z</updated>
+    <updated>2022-02-17T17:40:31.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stangastaden.se/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/favicon/favicon-192x192.png</icon>
     <entry>
+        <title type="html"><![CDATA[Trumslagaregatan 6, 
+                                T1]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=76692b57323642694d586451616d50304e58362f6e4a70372b56776258324a5a67453039554c30386b72343d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=76692b57323642694d586451616d50304e58362f6e4a70372b56776258324a5a67453039554c30386b72343d"/>
+        <updated>2022-02-17T17:40:18.536Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            89.9 kvm, 
+                            våning 1 Trevlig lägenhet om tre rum och kök uppdelat i två etage. Härlig planlösning som ger utrymme till fantasifull möblering. Lägenheten är utrustad med bekvämligheter som diskmaskin och en kombinerad tvätt/tork-maskin. Parketten i vardagsrummet ska slipas/lackas det blir efter inflyttning. Du som hyresgäst ansvarar själv för skötsel av din uteplats. Nyproduktion sker en bit bort i området. Vissa störningar kan förekomma under byggnation.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Industrigatan 12, 
                                 Vasastaden Norr]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6c472f72536163556a7564766547486254714b2b7441756b31694a4f54796277616f6a793764564b6d796f3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6c472f72536163556a7564766547486254714b2b7441756b31694a4f54796277616f6a793764564b6d796f3d"/>
-        <updated>2022-02-17T05:38:46.681Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=674a312b37553769553356527965376e714939504163596777544735512f564a4c4e5a4f486a34304756413d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=674a312b37553769553356527965376e714939504163596777544735512f564a4c4e5a4f486a34304756413d"/>
+        <updated>2022-02-17T17:40:18.536Z</updated>
         <content type="html"><![CDATA[4 RUM KÖK, 
                             100 kvm, 
                             våning 5 Hyreslägenhet med högt läge om 4 rum och kök med balkong mot innergården. I köket finns spishäll och inbyggnadsugn med varmluft, diskmaskin, mikrovågsugn samt hel kyl och frys. Helkaklat badrum med badkar, tvättmaskin och torktumlare. Duschrum med wc och duschplats.  Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du får besök av släkt och vänner, med sovplats för upp till 4 personer. Observera att interiörbilderna är från en tidigare visningslägenhet, som inte har samma planlösning. Klicka in på länken "Vasastaden Norr " nedan, här kan du få en överblick om var bostaden är belägen, i vår bostadsväljare för etapp 1.  Observera att nyproduktion pågår i området, viss störning kan förekomma. Här vänder vi oss i första hand till barnfamiljen eller äldre.]]></content>
@@ -18,9 +28,9 @@
     <entry>
         <title type="html"><![CDATA[Knektgatan 38, 
                                 Västra Berga]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=74727555464634653561383373764a384e6b446949382b59644f6c35356b55687870416e6f6642616549553d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=74727555464634653561383373764a384e6b446949382b59644f6c35356b55687870416e6f6642616549553d"/>
-        <updated>2022-02-17T05:38:46.685Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=36496d4d38314e69597962474b394868334e4842364d566f4e495a6d2f686e52366c5135566f33653879733d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=36496d4d38314e69597962474b394868334e4842364d566f4e495a6d2f686e52366c5135566f33653879733d"/>
+        <updated>2022-02-17T17:40:18.539Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             69.7 kvm, 
                             våning 2 I den här trean bor du med hög standard och balkong som har utsikt mot Tinnerbäcken. Modern och öppen planlösning mellan kök och vardagsrum. Helkaklat badrum med duschplats, tvättmaskin och torktumlare installerat. Köket är utrustat med fullstor kyl och frys, diskmaskin och det är här du kommer ut till den trevliga balkongen. Goda förvaringsmöjligheter med flertal garderober samt tillhörande förråd. Som ny hyresgäst finns det möjlighet att beställa kostnadsfri tapetsering/målat i kök och sovrum 2.]]></content>
@@ -28,9 +38,9 @@
     <entry>
         <title type="html"><![CDATA[Industrigatan 8 A, 
                                 Vasastaden Norr]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=523353554b5675352b627a51545068377a302f354741553932656f76757053517a62695738454f79554e633d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=523353554b5675352b627a51545068377a302f354741553932656f76757053517a62695738454f79554e633d"/>
-        <updated>2022-02-17T05:38:46.686Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=5830377935343146396456345355586e594a6b56645649514f38484b3342544b325230486b6a71336261633d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=5830377935343146396456345355586e594a6b56645649514f38484b3342544b325230486b6a71336261633d"/>
+        <updated>2022-02-17T17:40:18.553Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             82 kvm, 
                             våning 2 Modern trea med balkong mot innergården. Genomgående ekparkett. I köket finns spishäll och inbyggnadsugn med varmluft, diskmaskin, mikrovågsugn samt hel kyl- och frys. Helkaklat badrum med duschhörna, tvättmaskin och torktumlare. Det finns en gästlägenhet att hyra om du skulle behöva sovplats till släkt och vänner. Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du får besök av släkt och vänner, med sovplats för upp till 4 personer. Observera att interiörbilderna är från en tidigare visningslägenhet, som inte har samma planlösning. Klicka in på länken "Vasastaden Norr " nedan, här kan du få en överblick om var bostaden är belägen, i vår bostadsväljare för etapp 1.  Observera att nyproduktion pågår i området, viss störning kan förekomma.]]></content>
@@ -38,9 +48,9 @@
     <entry>
         <title type="html"><![CDATA[Stensättaregatan 1 A, 
                                 Åbylund]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=2f4671735a3971456e64517564497466754e7772756936637638364a4c7950444451766a65635268744d633d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=2f4671735a3971456e64517564497466754e7772756936637638364a4c7950444451766a65635268744d633d"/>
-        <updated>2022-02-17T05:38:46.696Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=376d594f48476e6c5035307177786b4844586d6e387a305542774d5857386a65792b5a6b484f692b3952303d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=376d594f48476e6c5035307177786b4844586d6e387a305542774d5857386a65792b5a6b484f692b3952303d"/>
+        <updated>2022-02-17T17:40:18.553Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             70.9 kvm, 
                             våning 3 Redan den 16:e mars står denna välplanerade lägenhet om tre rum och kök med balkong ledig och redo för ny hyresgäst. Goda förvaringsmöjligheter med flertal garderober, klädkammare samt tillhörande förråd. Lägenheten är i gott skick då den totalrenoverades år 2016. Helkaklat badrum med duschplats. Kök utrustat med fullstor kyl och frys, spishäll samt diskmaskin.]]></content>
@@ -48,9 +58,9 @@
     <entry>
         <title type="html"><![CDATA[Utsädesgatan 126, 
                                 Lambohov]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d75466b32306c7164656e664873632f7a6c3868354d3471456b5a494c6a354d567032764e4e634f3847453d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d75466b32306c7164656e664873632f7a6c3868354d3471456b5a494c6a354d567032764e4e634f3847453d"/>
-        <updated>2022-02-17T05:38:46.696Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=792f2f75352f2f7941576f387473596f6f6e71506662487653586b4f6c7a5a7450634c386d6b50382f6d453d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=792f2f75352f2f7941576f387473596f6f6e71506662487653586b4f6c7a5a7450634c386d6b50382f6d453d"/>
+        <updated>2022-02-17T17:40:18.553Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             72 kvm, 
                             våning 1 Här finns nu en ljus och fräsch lägenhet att söka i ett hus uppfört 2015. Lägenheten har en stor och trevlig balkong. I samtliga rum är det ekparkett som golv och vid entré och våtutrymmen finner du grå klinkers.  Badrummet är helkaklat med tvättmaskin och torktumlare. Köket är utrustat med en hel kyl och frys och en diskmaskin. I anslutning till lägenheten finner du en trevlig innergård och närhet till grönområde.]]></content>
@@ -58,9 +68,9 @@
     <entry>
         <title type="html"><![CDATA[Ödegårdsgatan 40, 
                                 Johannelund]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=5659663570712f6a567439436c69643632736246466a5868576535513634454c717569496d734d734978513d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=5659663570712f6a567439436c69643632736246466a5868576535513634454c717569496d734d734978513d"/>
-        <updated>2022-02-17T05:38:46.696Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=337a705459636343316e774855642b427055783178333842447049552b6b624a6d576172706b336b5669303d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=337a705459636343316e774855642b427055783178333842447049552b6b624a6d576172706b336b5669303d"/>
+        <updated>2022-02-17T17:40:18.554Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             66.1 kvm, 
                             våning 3 Har du möjlighet att flytta in i april så finns det en ledig lägenhet om tre rum och kök i Johannelund. Här bor du med när till Johannelund Centrum samt grönområden. Här kommer det att tapetseras om i ett av sovrummen efter att du som ny hyresgäst har flyttat in. Det går även att få omtapetserat i resterande rum utan extra kostnad. Klädkammare finns i lägenheten och tillhörande förråd i källaren. Parkettgolv i vardagsrummet och i anslutning till detta rum finner du en balkong.]]></content>
@@ -68,9 +78,9 @@
     <entry>
         <title type="html"><![CDATA[Utsädesgatan 128, 
                                 Lambohov]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=2b6a317a6254594c65383842766445374a3055676b31657237495841414262684f54344e54756e4d6a59593d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=2b6a317a6254594c65383842766445374a3055676b31657237495841414262684f54344e54756e4d6a59593d"/>
-        <updated>2022-02-17T05:38:46.696Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=70546865386374502f6e767644597267436d6e4e6f513559427768686a39786c37674b317442762f527a303d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=70546865386374502f6e767644597267436d6e4e6f513559427768686a39786c37674b317442762f527a303d"/>
+        <updated>2022-02-17T17:40:18.554Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             72 kvm, 
                             våning BV Välkommen att söka denna härliga trea i Lambohov, lägenheten är ljus och fräsch med genomgående parkettgolv. Perfekt för dig som önskar en uteplats. Du som hyresgäst ansvarar själv för att hålla den välskött. I köket finns det en diskmaskin och en hel kyl och frys. Badrummet är helkaklat och utrustat med tvättmaskin och torktumlare. Här har du även tillgång till en trevlig innergård och närhet till grönområde. Här finns möjlighet till tidigare inflyttning efter överenskommelse mellan den avflyttande hyresgästen och AB Stångåstaden.]]></content>
@@ -78,9 +88,9 @@
     <entry>
         <title type="html"><![CDATA[Prästbolsgatan 21, 
                                 Östra Berga]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4e72454c79704c356675565551466c4f6b79785a6670344f764d774a4c4348687933316d4f6937774c42593d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4e72454c79704c356675565551466c4f6b79785a6670344f764d774a4c4348687933316d4f6937774c42593d"/>
-        <updated>2022-02-17T05:38:46.697Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=526e394e74337165744f424e6161522f526843474f4149692b35516337742f7a794235733873735141336b3d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=526e394e74337165744f424e6161522f526843474f4149692b35516337742f7a794235733873735141336b3d"/>
+        <updated>2022-02-17T17:40:18.554Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             65.4 kvm, 
                             våning 6 Här vänder vi oss till målgrupp äldre sökande eller barnfamiljer. Välkommen till denna ljusa och fräscha trea. Köket med vita luckor har diskmaskin installerad. En kombinerad tvätt och torkmaskin finns i badrummet. Hela lägenheten kommer att vara nytapetserad/målad vid inflyttning. Närhet till grönområde. Härlig utsikt från sjätte våningen.]]></content>
@@ -88,21 +98,11 @@
     <entry>
         <title type="html"><![CDATA[Industrigatan 2, 
                                 Vasastaden (Norr)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=463031496d2b46676639754944467474756d3543794959364f435432626f306255326c6341503050654a513d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=463031496d2b46676639754944467474756d3543794959364f435432626f306255326c6341503050654a513d"/>
-        <updated>2022-02-17T05:38:46.698Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=504c735777586767535457374e71694b4857786b4273644832556479483431663145454b4878446a3664773d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=504c735777586767535457374e71694b4857786b4273644832556479483431663145454b4878446a3664773d"/>
+        <updated>2022-02-17T17:40:18.554Z</updated>
         <content type="html"><![CDATA[4 RUM KÖK, 
                             100 kvm, 
                             våning 1 Modern fyra med balkong mot innergården som stod klar 2018. Kök med spishäll och inbyggnadsugn med varmluft, diskmaskin, mikrovågsugn samt hel kyl och frys. Helkaklat badrum med badkar, tvättmaskin och torktumlare. Duschrum med wc och duschplats. Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du får besök av släkt och vänner, med sovplats för upp till 4 personer. Observera att interiörbilderna är från en tidigare visningslägenhet, som inte har samma planlösning. Klicka in på länken "Vasastaden Norr " nedan, här kan du få en överblick om var bostaden är belägen, i vår bostadsväljare för etapp 1.  Observera att nyproduktion pågår i området, viss störning kan förekomma. Här vänder vi oss i första hand till barnfamiljer eller äldre sökande. Möjlighet till inflyttning 2022-04-01.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sveagatan 11 G, 
-                                Vasastaden Norr]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=304d544a5833636a57456e393470364e356676307971746b6e45485a616f6167422b75445068787a4d66383d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=304d544a5833636a57456e393470364e356676307971746b6e45485a616f6167422b75445068787a4d66383d"/>
-        <updated>2022-02-17T05:38:46.699Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            93 kvm, 
-                            våning 3 Fyra med fint läge i Vasastaden som stod färdigbyggd 2020.  I köket finns glaskeramikhäll, inbyggnadsugn med varmluft, diskmaskin och inbyggd mikrovågsugn. Lägenheten har två badrum som är helkaklade med duschhörna och kommod under tvättställ. Tvättmaskin och torktumlare finns i det större badrummet. Genomgående ekparkett i lägenheten förutom i hall och badrum där det är klinkergolv. Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du får besök av släkt och vänner, med sovplats för upp till 4 personer. Observera att interiörbilderna är från en tidigare visningslägenhet, som inte har samma planlösning. Klicka in på länken "Vasastaden Norr " nedan, här kan du läsa mer om området samt få en överblick om var bostaden är belägen, i vår bostadsväljare för etapp 2.  Observera att nyproduktion pågår i området, viss störning kan förekomma. Här vänder vi oss i första hand till barnfamiljen eller äldre sökande. Möjlighet till inflyttning 2022-03-01.]]></content>
     </entry>
 </feed>
