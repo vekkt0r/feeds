@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
     <title>Happyride annonser</title>
-    <updated>2022-02-25T17:40:37.265Z</updated>
+    <updated>2022-02-26T05:39:05.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://happyride.se/annonser/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Trek Emonda ALR 5 disc - 56]]></title>
+        <id>https://happyride.se/annonser/trek-emonda-alr-5-disc-56.180137/</id>
+        <link href="https://happyride.se/annonser/trek-emonda-alr-5-disc-56.180137/"/>
+        <updated>2022-02-26T05:39:01.234Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/trek-emonda-alr-5-disc-56.180137/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/349192.jpg?1645822510" alt="Trek Emonda ALR 5 disc - 56" loading="lazy" srcset="/img/admarket/small2x/349192.jpg?1645822510 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/trek-emonda-alr-5-disc-56.180137/">Trek Emonda ALR 5 disc - 56</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 8 timmar</span><span class="visible-xs">20 000:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
+				<td class="col-4 hidden-xs"><nobr>20 000:-</nobr></td>
+				<td class="hidden-xs"><nobr>8 timmar</nobr></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trek Fuel EX8 XT. Strl M/L. 2020]]></title>
         <id>https://happyride.se/annonser/trek-fuel-ex8-xt-strl-m-l-2020.180085/</id>
@@ -21,12 +44,22 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex8-xt-strl-m-l-2020.180085/">Trek Fuel EX8 XT. Strl M/L. 2020</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 9 timmar</span><span class="visible-xs">24 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex8-xt-strl-m-l-2020.180085/">Trek Fuel EX8 XT. Strl M/L. 2020</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 21 timmar</span><span class="visible-xs">24 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>24 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>9 timmar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>21 timmar</nobr></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
+        <link href="https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1"/>
+        <updated>2022-02-26T05:39:01.002Z</updated>
+        <content type="html"><![CDATA[<td colspan="5">
+					<div class="anm1-container visible-xs">
+		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
+	</div>				</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Emonda SLR 9 2021 strl.56]]></title>
@@ -44,22 +77,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/emonda-slr-9-2021-strl-56.179609/">Emonda SLR 9 2021 strl.56</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 10 timmar</span><span class="visible-xs">79 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/emonda-slr-9-2021-strl-56.179609/">Emonda SLR 9 2021 strl.56</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 22 timmar</span><span class="visible-xs">79 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>79 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>10 timmar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
-        <link href="https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1"/>
-        <updated>2022-02-25T17:40:33.203Z</updated>
-        <content type="html"><![CDATA[<td colspan="5">
-					<div class="anm1-container visible-xs">
-		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
-	</div>				</td>]]></content>
+				<td class="hidden-xs"><nobr>22 timmar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek X-caliber 8]]></title>
@@ -94,7 +117,7 @@
 					<a href="/annonser/trek-madone-slr7-56cm.179983/">
 					 <div class="image_holder">
 						 <div class="image">
-						 <img src="/img/admarket/small/348837.jpg?1645626622" alt="Trek Madone SLR7 56cm" loading="lazy" srcset="/img/admarket/small2x/348837.jpg?1645626622 2x" border="0">
+						 <img src="/img/admarket/small/348837.jpg?1645815791" alt="Trek Madone SLR7 56cm" loading="lazy" srcset="/img/admarket/small2x/348837.jpg?1645815791 2x" border="0">
 						 						 </div>
 					 </div>
 					</a>
@@ -215,12 +238,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-checkpoint-sl-5.179862/">Trek Checkpoint SL 5</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">22 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-checkpoint-sl-5.179862/">Trek Checkpoint SL 5</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">22 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Cross / Gravel</td>
 				<td class="col-4 hidden-xs"><nobr>22 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Madone 5.9 - Project One – Full Dura Ace – Size 56]]></title>
@@ -683,29 +706,6 @@
 				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trek Fuel Ex 7 Medium]]></title>
-        <id>https://happyride.se/annonser/trek-fuel-ex-7-medium.173263/</id>
-        <link href="https://happyride.se/annonser/trek-fuel-ex-7-medium.173263/"/>
-        <updated>2022-02-08T17:41:19.186Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/trek-fuel-ex-7-medium.173263/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/333842.jpg?1644327576" alt="Trek Fuel Ex 7 Medium" loading="lazy" srcset="/img/admarket/small2x/333842.jpg?1644327576 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-7-medium.173263/">Trek Fuel Ex 7 Medium</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 2 veckor</span><span class="visible-xs">26 000:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Mountainbike</td>
-				<td class="col-4 hidden-xs"><nobr>26 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 veckor</nobr></td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trek ticket 2016]]></title>
         <id>https://happyride.se/annonser/trek-ticket-2016.178881/</id>
         <link href="https://happyride.se/annonser/trek-ticket-2016.178881/"/>
@@ -755,7 +755,7 @@
         <title type="html"><![CDATA[33]]></title>
         <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
         <link href="https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1"/>
-        <updated>2022-02-25T17:40:34.686Z</updated>
+        <updated>2022-02-26T05:39:02.549Z</updated>
         <content type="html"><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
@@ -846,12 +846,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/sram-red-etap-drev-50-34.180078/">Sram Red Etap drev 50-34</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 19 timmar</span><span class="visible-xs">400:-</span>
+				<td class="col-2"><h4><a href="/annonser/sram-red-etap-drev-50-34.180078/">Sram Red Etap drev 50-34</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">400:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>400:-</nobr></td>
-				<td class="hidden-xs"><nobr>19 timmar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Watt-mätare mtb Quark XX1 Dzero BB30]]></title>
@@ -869,18 +869,18 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/watt-matare-mtb-quark-xx1-dzero-bb30.180062/">Watt-mätare mtb Quark XX1 Dzero BB30</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 23 timmar</span><span class="visible-xs">4 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/watt-matare-mtb-quark-xx1-dzero-bb30.180062/">Watt-mätare mtb Quark XX1 Dzero BB30</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">4 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>4 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>23 timmar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[39]]></title>
         <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
         <link href="https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1"/>
-        <updated>2022-02-25T17:40:36.249Z</updated>
+        <updated>2022-02-26T05:39:04.198Z</updated>
         <content type="html"><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
@@ -925,12 +925,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/sram-red-etap-hrd-brake-caliper-post-mount-fw-rw.179926/">SRAM RED eTap HRD Brake Caliper Post Mount | FW/RW</a></h4> Säljes i Skaraborg<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">600:-</span>
+				<td class="col-2"><h4><a href="/annonser/sram-red-etap-hrd-brake-caliper-post-mount-fw-rw.179926/">SRAM RED eTap HRD Brake Caliper Post Mount | FW/RW</a></h4> Säljes i Skaraborg<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">600:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sadlar, fizik, specialized, selle.]]></title>
