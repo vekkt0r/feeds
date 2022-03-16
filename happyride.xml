@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
     <title>Happyride annonser</title>
-    <updated>2022-03-16T05:39:14.970Z</updated>
+    <updated>2022-03-16T17:41:40.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://happyride.se/annonser/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Trek Topfuel 9.8]]></title>
+        <id>https://happyride.se/annonser/trek-topfuel-9-8.181667/</id>
+        <link href="https://happyride.se/annonser/trek-topfuel-9-8.181667/"/>
+        <updated>2022-03-16T17:41:35.654Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/trek-topfuel-9-8.181667/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/352781.jpg?1647443673" alt="Trek Topfuel 9.8" loading="lazy" srcset="/img/admarket/small2x/352781.jpg?1647443673 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/trek-topfuel-9-8.181667/">Trek Topfuel 9.8</a></h4> Säljes i Värmland<span class="visible-xs-inline">, 2 timmar</span><span class="visible-xs">30 000:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Mountainbike</td>
+				<td class="col-4 hidden-xs"><nobr>30 000:-</nobr></td>
+				<td class="hidden-xs"><nobr>2 timmar</nobr></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trek Speed Concept 9.9 XL]]></title>
         <id>https://happyride.se/annonser/trek-speed-concept-9-9-xl.181597/</id>
@@ -21,12 +44,22 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-speed-concept-9-9-xl.181597/">Trek Speed Concept 9.9 XL</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 11 timmar</span><span class="visible-xs">49 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-speed-concept-9-9-xl.181597/">Trek Speed Concept 9.9 XL</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 23 timmar</span><span class="visible-xs">49 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>49 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>11 timmar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>23 timmar</nobr></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
+        <link href="https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1"/>
+        <updated>2022-03-16T17:41:35.402Z</updated>
+        <content type="html"><![CDATA[<td colspan="5">
+					<div class="anm1-container visible-xs">
+		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
+	</div>				</td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Procaliber 9.6 -19]]></title>
@@ -52,16 +85,6 @@
 				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
-        <link href="https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1"/>
-        <updated>2022-03-16T05:39:04.372Z</updated>
-        <content type="html"><![CDATA[<td colspan="5">
-					<div class="anm1-container visible-xs">
-		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
-	</div>				</td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Trek Powerfly 4 årsmodell 2020 storlek XL]]></title>
         <id>https://happyride.se/annonser/trek-powerfly-4-arsmodell-2020-storlek-xl.181498/</id>
         <link href="https://happyride.se/annonser/trek-powerfly-4-arsmodell-2020-storlek-xl.181498/"/>
@@ -77,12 +100,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-powerfly-4-arsmodell-2020-storlek-xl.181498/">Trek Powerfly 4 årsmodell 2020 storlek XL </a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">22 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-powerfly-4-arsmodell-2020-storlek-xl.181498/">Trek Powerfly 4 årsmodell 2020 storlek XL </a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">22 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Elcykel</td>
 				<td class="col-4 hidden-xs"><nobr>22 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek top fuel 9.8 xt (large)]]></title>
@@ -100,12 +123,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-9-8-xt-large.181497/">Trek top fuel 9.8 xt (large) </a></h4> Säljes i Skåne<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">49 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-9-8-xt-large.181497/">Trek top fuel 9.8 xt (large) </a></h4> Säljes i Skåne<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">49 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>49 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Roscoe 8 XS]]></title>
@@ -123,12 +146,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-roscoe-8-xs.181489/">Trek Roscoe 8 XS</a></h4> Säljes i Älvsborg<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">12 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-roscoe-8-xs.181489/">Trek Roscoe 8 XS</a></h4> Säljes i Älvsborg<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">12 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>12 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek slash 8]]></title>
@@ -146,12 +169,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-slash-8.181488/">Trek slash 8 </a></h4> Säljes i Skåne<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">30 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-slash-8.181488/">Trek slash 8 </a></h4> Säljes i Skåne<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">30 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>30 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek CX storlek 52]]></title>
@@ -169,12 +192,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-cx-storlek-52.181479/">Trek CX storlek 52</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">4 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-cx-storlek-52.181479/">Trek CX storlek 52</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">4 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Cross / Gravel</td>
 				<td class="col-4 hidden-xs"><nobr>4 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek 1.5 alpha (2011)]]></title>
@@ -192,12 +215,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-1-5-alpha-2011.181463/">Trek 1.5 alpha (2011)</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">5 400:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-1-5-alpha-2011.181463/">Trek 1.5 alpha (2011)</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">5 400:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>5 400:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek remedy 9.8 2021 large]]></title>
@@ -215,12 +238,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-remedy-9-8-2021-large.181451/">Trek remedy 9.8 2021 large</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">41 995:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-remedy-9-8-2021-large.181451/">Trek remedy 9.8 2021 large</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">41 995:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>41 995:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Niner RIP 9 rdo 29"]]></title>
@@ -261,12 +284,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-5.181406/">Trek Fuel EX 5</a></h4> Säljes i Västerbotten<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">24 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-5.181406/">Trek Fuel EX 5</a></h4> Säljes i Västerbotten<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">24 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>24 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Madone 3.1 Kolfiber Racer]]></title>
@@ -284,12 +307,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-madone-3-1-kolfiber-racer.181398/">Trek Madone 3.1 Kolfiber Racer</a></h4> Säljes i Uppsala<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">7 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-madone-3-1-kolfiber-racer.181398/">Trek Madone 3.1 Kolfiber Racer</a></h4> Säljes i Uppsala<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">7 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>7 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Fuel Ex 5 - 29" strl M 2019]]></title>
@@ -307,12 +330,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-5-29-strl-m-2019.181359/">Trek Fuel Ex 5 - 29" strl M 2019</a></h4> Säljes i Skaraborg<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">20 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-5-29-strl-m-2019.181359/">Trek Fuel Ex 5 - 29" strl M 2019</a></h4> Säljes i Skaraborg<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">20 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>20 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Domane 4.3 strl 54]]></title>
@@ -330,12 +353,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-domane-4-3-strl-54.181357/">Trek Domane 4.3 strl 54</a></h4> Säljes i Skåne<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">13 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-domane-4-3-strl-54.181357/">Trek Domane 4.3 strl 54</a></h4> Säljes i Skåne<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">13 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>13 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Madone 5.0 strl 56]]></title>
@@ -353,12 +376,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-madone-5-0-strl-56.181353/">Trek Madone 5.0 strl 56</a></h4> Säljes i Skåne<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">9 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-madone-5-0-strl-56.181353/">Trek Madone 5.0 strl 56</a></h4> Säljes i Skåne<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">9 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>9 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek]]></title>
@@ -376,12 +399,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek.181254/">Trek </a></h4> Säljes i Skaraborg<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">14 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek.181254/">Trek </a></h4> Säljes i Skaraborg<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">14 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>14 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Slash 9.8 GX Eagle strl.L årsm.2021]]></title>
@@ -422,12 +445,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-speedconcept.181174/">Trek Speedconcept</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">33 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-speedconcept.181174/">Trek Speedconcept</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">33 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>33 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Supercaliber]]></title>
@@ -445,12 +468,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-supercaliber.181167/">Trek Supercaliber</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">55 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-supercaliber.181167/">Trek Supercaliber</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">55 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>55 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mondraker 2022 - flcycling - Trail/Enduro/Downhill]]></title>
@@ -468,12 +491,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/mondraker-2022-flcycling-trail-enduro-downhill.173820/">Mondraker 2022 - flcycling - Trail/Enduro/Downhill</a></h4> <i class="fa fa-building" title="Företagsannons"></i> Säljes i Stockholm<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">-</span>
+				<td class="col-2"><h4><a href="/annonser/mondraker-2022-flcycling-trail-enduro-downhill.173820/">Mondraker 2022 - flcycling - Trail/Enduro/Downhill</a></h4> <i class="fa fa-building" title="Företagsannons"></i> Säljes i Stockholm<span class="visible-xs-inline">, 1 vecka</span><span class="visible-xs">-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>-</nobr></td>
-				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Supercaliber 9.9 XX1 L]]></title>
@@ -491,12 +514,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-supercaliber-9-9-xx1-l.181003/">Trek Supercaliber 9.9 XX1 L</a></h4> Säljes i Jönköping<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">65 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-supercaliber-9-9-xx1-l.181003/">Trek Supercaliber 9.9 XX1 L</a></h4> Säljes i Jönköping<span class="visible-xs-inline">, 1 vecka</span><span class="visible-xs">65 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>65 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TREK Roscoe 8 2020]]></title>
@@ -683,29 +706,6 @@
 				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trek EX8 29tum 2020]]></title>
-        <id>https://happyride.se/annonser/trek-ex8-29tum-2020.180744/</id>
-        <link href="https://happyride.se/annonser/trek-ex8-29tum-2020.180744/"/>
-        <updated>2022-03-06T17:39:35.602Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/trek-ex8-29tum-2020.180744/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/350627.jpg?1646570441" alt="Trek EX8 29tum 2020" loading="lazy" srcset="/img/admarket/small2x/350627.jpg?1646570441 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-ex8-29tum-2020.180744/">Trek EX8 29tum 2020</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 1 vecka</span><span class="visible-xs">20 000:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Mountainbike</td>
-				<td class="col-4 hidden-xs"><nobr>20 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mondraker Raze RR SL - trail - flcycling]]></title>
         <id>https://happyride.se/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/</id>
         <link href="https://happyride.se/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/"/>
@@ -755,7 +755,7 @@
         <title type="html"><![CDATA[33]]></title>
         <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
         <link href="https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1"/>
-        <updated>2022-03-16T05:39:09.312Z</updated>
+        <updated>2022-03-16T17:41:38.452Z</updated>
         <content type="html"><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
@@ -869,45 +869,22 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/sram-red-etap-axs-post-mount-front-rear-disc-brake-calipers.181110/">Sram Red Etap AXS Post Mount Front/Rear Disc Brake Calipers</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">1 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/sram-red-etap-axs-post-mount-front-rear-disc-brake-calipers.181110/">Sram Red Etap AXS Post Mount Front/Rear Disc Brake Calipers</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">1 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>1 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[39]]></title>
         <id>https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1</id>
         <link href="https://happyride.se/annonser/list.php?search=trek+mondraker&amp;category=1&amp;county=&amp;creator=&amp;type=1"/>
-        <updated>2022-03-16T05:39:13.725Z</updated>
+        <updated>2022-03-16T17:41:39.847Z</updated>
         <content type="html"><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
 	</div>				</td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FSA Powerbox effektmätare Vevparti]]></title>
-        <id>https://happyride.se/annonser/fsa-powerbox-effektmatare-vevparti.181012/</id>
-        <link href="https://happyride.se/annonser/fsa-powerbox-effektmatare-vevparti.181012/"/>
-        <updated>2022-03-09T17:41:39.743Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/fsa-powerbox-effektmatare-vevparti.181012/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/351258.jpg?1647201940" alt="FSA Powerbox effektmätare Vevparti" loading="lazy" srcset="/img/admarket/small2x/351258.jpg?1647201940 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/fsa-powerbox-effektmatare-vevparti.181012/">FSA Powerbox effektmätare Vevparti</a></h4> Säljes i Skåne<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">2 900:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Komponenter</td>
-				<td class="col-4 hidden-xs"><nobr>2 900:-</nobr></td>
-				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hope RX4+ Caliper - Post Mount - DOT - silver]]></title>
@@ -925,12 +902,12 @@
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/hope-rx4-caliper-post-mount-dot-silver.181009/">Hope RX4+ Caliper - Post Mount - DOT - silver</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">2 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/hope-rx4-caliper-post-mount-dot-silver.181009/">Hope RX4+ Caliper - Post Mount - DOT - silver</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 1 vecka</span><span class="visible-xs">2 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>2 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>1 vecka</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(S-Works) SRAM Red eTap AXS pulley wheel]]></title>
@@ -1528,6 +1505,29 @@
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>200:-</nobr></td>
+				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quarq Sram XX1 Watt vevparti]]></title>
+        <id>https://happyride.se/annonser/quarq-sram-xx1-watt-vevparti.169308/</id>
+        <link href="https://happyride.se/annonser/quarq-sram-xx1-watt-vevparti.169308/"/>
+        <updated>2022-03-16T17:41:40.140Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/quarq-sram-xx1-watt-vevparti.169308/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/333759.jpg?1641150519" alt="Quarq Sram XX1 Watt vevparti " loading="lazy" srcset="/img/admarket/small2x/333759.jpg?1641150519 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/quarq-sram-xx1-watt-vevparti.169308/">Quarq Sram XX1 Watt vevparti </a></h4> Säljes i Örebro<span class="visible-xs-inline">, 2 mån</span><span class="visible-xs">6 000:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Komponenter</td>
+				<td class="col-4 hidden-xs"><nobr>6 000:-</nobr></td>
 				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
     </entry>
 </feed>
