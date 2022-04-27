@@ -2,117 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stangastaden.se/sokledigt/bostad?actionId=&amp;oboTyper%5B%5D=A3&amp;oboTyper%5B%5D=A4&amp;oboTyper%5B%5D=A5&amp;oboTyper%5B%5D=A6&amp;oboTyper%5B%5D=A7&amp;ytaMin=50&amp;ytaMax=300&amp;hyraMax=25000</id>
     <title>Stångåstaden Lägenheter</title>
-    <updated>2022-04-27T05:47:50.455Z</updated>
+    <updated>2022-04-27T17:48:46.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stangastaden.se/_layouts/15/Stangastaden.Externwebb/Images/Stangastaden/favicon/favicon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[Ödegårdsgatan 14, 
-                                Johannelund]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=784b2b3466497144496b756c514a6978753151373974676f79524c6c2b503378564c4b6e517238776e43593d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=784b2b3466497144496b756c514a6978753151373974676f79524c6c2b503378564c4b6e517238776e43593d"/>
-        <updated>2022-04-27T05:47:39.250Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            90 kvm, 
-                            våning 2 Nu finns det en lägenhet på fyra rum och kök ledig i natursköna Johannelund. Här har det tapetseras om/målats om i samtliga rum 2018. Här skedde en stamrenovering 2008. Badrummet är helkaklat och är utrustat med en  handdukstork. Finns även en extrawc i lägenheten. Köket är utrustat med en bekvämlighetsprodukt i form av en diskmaskin. Balkong i anslutning till vardagsrummet.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skomakaregatan 6 C, 
-                                Åbylund]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6b492b4c586b75796e615158633775327835487062342f392f794e76706c6b412b6d6c627650336e7675413d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6b492b4c586b75796e615158633775327835487062342f392f794e76706c6b412b6d6c627650336e7675413d"/>
-        <updated>2022-04-27T05:47:39.250Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
-                            73.1 kvm, 
-                            våning 4 Här finner du en välplanerad lägenheten om tre rum och kök med balkong på fjärde våningen i hemtrevliga Åbylund. Lägenheten erbjuder goda förvaringsmöjligheter och i anslutning till hallen finner du en stor klädkammare. Lägenheten är utrustad med bekvämligheter såsom tvättmaskin och diskmaskin för att underlätta vardagslivet. Som ny hyresgäst finns det möjlighet att beställa kostnadsfri omtapetsering/målat i hall samt bägge sovrum. Separat beställning behöver signeras och arbetet genomförs efter inflyttning.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Norgegatan 6, 
-                                Abisko/Övre Vasastaden]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=35364c4c5a472b6f456f794156335357473735765a48745448556374447975574977344f2f43715a6675413d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=35364c4c5a472b6f456f794156335357473735765a48745448556374447975574977344f2f43715a6675413d"/>
-        <updated>2022-04-27T05:47:39.251Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            107.1 kvm, 
-                            våning 3 Rymlig gavellägenhet med en rundad balkong i söderläge.
-I vardagsrummet finns en snedvägg.
-Lägenheten har både ett badrum och ett duschrum.
-Kök med diskmaskin.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rydsvägen 394 B, 
+        <title type="html"><![CDATA[Rydsvägen 298 B, 
                                 Ryd]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=73714a47436e4c6f51542f6c546164716844313156752f46483962573355644c47353774394e6e745434773d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=73714a47436e4c6f51542f6c546164716844313156752f46483962573355644c47353774394e6e745434773d"/>
-        <updated>2022-04-27T05:47:39.253Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6c364236664e3731374664646a62314a643445333331664966526d43776a4449496d783948686d6762354d3d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6c364236664e3731374664646a62314a643445333331664966526d43776a4449496d783948686d6762354d3d"/>
+        <updated>2022-04-27T17:48:36.133Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             80 kvm, 
-                            våning 1 TILLFÄLLIGT AVTAL. Rivningsavtal innebär att avtalet är tillfälligt fram tills den kommande renoveringen startar. Tack vare det behåller du dina kö poäng. Vid rivningsavtal kan man inte göra några tillval eller om tapetsering. Preliminär renoveringsstart är kvartal Q1 2023, men när renoveringen börjar kan du inte bo kvar i lägenheten och avtalet upphör. Trevlig välplanerad trea med två uteplatser åt två olika väderstreck. Helkaklat badrum med badkar och separat wc. I lägenheten finns bekvämligheter så som tvätt- och torkmaskin och diskmaskin.]]></content>
+                            våning 1 I juli kan du flytta in i en bra planerad trea med uteplats åt två olika väderstreck. Kök med matplats och diskmaskin. Kaklade väggar i badrummet med badkar och bekvämligheter som tvätt- och torktumlare. Till inflyttning kommer det vara ommålat och nya golv i samtliga rum. Det kommer målas tak, fönster och element i badrummet och extra toaletten och nytt tvättställ i badrummet. Här bor du i naturnära Ryd.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Platensgatan 33, 
-                                Vasastaden (Norr)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=55336c725456703069747543526a6177456a35345756654f434b684652527575494f4e73576b754c72446b3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=55336c725456703069747543526a6177456a35345756654f434b684652527575494f4e73576b754c72446b3d"/>
-        <updated>2022-04-27T05:47:39.255Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
-                            79.8 kvm, 
-                            våning 4 Välplanerad trea med balkong.
-Kök med diskmaskin.
-Det helkaklade badrummet är utrustat med duschväggar i klarglas och en kombinerad tvättmaskin/torktumlare.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arrendegatan 59 B, 
-                                Lambohov]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4739712f53776f75347a576739773572317650616c63727336686f664b794737777670766e445a7075394d3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4739712f53776f75347a576739773572317650616c63727336686f664b794737777670766e445a7075394d3d"/>
-        <updated>2022-04-27T05:47:39.256Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            88.4 kvm, 
-                            våning 1 På populära Arrendegatan finner du nu en lägenhet om fyra rum och kök ledig att söka. Lägenheten är perfekt för dig som önskar en trädgård och du som hyresgäst ansvarar själv för att hålla den välskött. Trädgården ligger i söderläge och den når du från lägenhetens stora vardagsrum. I köket finner du bekvämligheter som diskmaskin och en hel kyl och frys. Lägenhetens badrum är utrustat med kakel och klinkers. Du som ny hyresgäst har möjlighet att kostnadsfritt få det omtapetserat/målat i hall och sovrum 1.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drottninggatan 43 M, 
-                                Innerstaden]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=666c6d6f564a6e2f753835566e764b7350307437774c46375577452b6552717143617161343979526379493d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=666c6d6f564a6e2f753835566e764b7350307437774c46375577452b6552717143617161343979526379493d"/>
-        <updated>2022-04-27T05:47:39.260Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            94 kvm, 
-                            våning 5 Central och modern fyra med inglasad balkong. Det finns även tillgång till en trevlig innergård.
-Rymligt vardagsrum och kök med fint ljusinsläpp från stora fönsterpartier. Kök med energisnåla vitvaror som kyl och frys, induktionshäll, inbyggnadsugn, mikro och diskmaskin. Samtliga vitvaror i rostfritt utförande.
-Helkaklat badrum med badkar och helkaklat duschrum med wc och duschplats.
-Genomgående ekparkett i lägenheten förutom i hall och badrum där det är klinkergolv.
-I lägenheten finns tvättrum med tvättmaskin och torktumlare.
-Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du får besök av släkt och vänner, med sovplats för upp till 4 personer. Observera att interiörbilderna är från en tidigare visningslägenhet, som inte har samma planlösning.  Klicka in på länken "Innerstaden" nedan, här kan du få en överblick om var bostaden är belägen i huset, i vår bostadsväljare för Eddan, etapp 1. Här vänder vi oss till barnfamiljer eller äldre sökande.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drottninggatan 43 I, 
-                                Innerstaden]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=2b58737561775368477331506d4b7174687372756d5952356f5238762b67415a696a504d48746c724572773d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=2b58737561775368477331506d4b7174687372756d5952356f5238762b67415a696a504d48746c724572773d"/>
-        <updated>2022-04-27T05:47:39.271Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            95 kvm, 
-                            våning 4 Fin och central fyra med en stor balkong mot innergården. Lägenheten nyproducerades 2020. Kök med energisnåla vitvaror såsom kyl, frys, induktionshäll, inbyggnadsugn, mikro samt diskmaskin. Helkaklat badrum med badkar samt helkaklat duschrum med duschplats och wc. Lägenheten har även ett tvättrum med tvättmaskin samt torktumlare. Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du får besök av släkt och vänner, med sovplats för upp till 4 personer. Observera att interiörbilderna är från en tidigare visningslägenhet, som inte har samma planlösning.  Klicka in på länken "Innerstaden" nedan, här kan du få en överblick om var bostaden är belägen i huset, i vår bostadsväljare för Eddan, etapp 1. Här vänder vi oss till barnfamiljer eller äldre sökande.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rydsvägen 378 A, 
+        <title type="html"><![CDATA[Rydsvägen 366 B, 
                                 Ryd]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6d495a7341555752785854452b674e335476745278516e4b5377646545307175684e506676657566796f633d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6d495a7341555752785854452b674e335476745278516e4b5377646545307175684e506676657566796f633d"/>
-        <updated>2022-04-27T05:47:39.276Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=65416c55697835593132786837554777656f6438774d396e4b6f6c525a51393469315856437362467656593d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=65416c55697835593132786837554777656f6438774d396e4b6f6c525a51393469315856437362467656593d"/>
+        <updated>2022-04-27T17:48:36.133Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             80 kvm, 
-                            våning 2 TILLFÄLLIGT AVTAL med preliminär boendetid fram till Q 1/2 2023, därefter kan du inte bo kvar i lägenheten längre. Här finner du en välplanerad trea i naturnära Ryd. Möblerbart kök med diskmaskin. Badrum med badkar och gäst WC finns. Bra förvaring med garderober och möblerbar hall. Vid tillfälligt avtal behåller du dina kö-poäng. Det kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering]]></content>
+                            våning 1 Välkommen att söka denna trea som ligger i naturnära Ryd. Lägenheten ligger i markplan och har två uteplatser i olika väderstreck. Helkaklat badrum med tvättmaskin. Lägenheten har ett tillhörande förråd som ligger i anslutning till trapphuset. Rymligt, möblerbart kök som är utrustat med diskmaskin.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hunnebergsgatan 11 A, 
-                                Vasastaden (Söder)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4447325634565a4a363571694c4d70443472425830676971504e44534d7a725a56723561705855664334303d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4447325634565a4a363571694c4d70443472425830676971504e44534d7a725a56723561705855664334303d"/>
-        <updated>2022-04-27T05:47:39.276Z</updated>
+        <title type="html"><![CDATA[Alsättersgatan 16 A, 
+                                Ryd]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=58596f7373716c7068686a444a59623739327163562b484653595079643930596359454e2f654e782b57733d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=58596f7373716c7068686a444a59623739327163562b484653595079643930596359454e2f654e782b57733d"/>
+        <updated>2022-04-27T17:48:36.136Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            80 kvm, 
+                            våning 1 TILLFÄLLIGT AVTAL med preliminär boendetid fram till Q1 2023, därefter kan du inte bo kvar i lägenheten längre. Perfekt lägenhet för dig med trädgårdsintresse. Du som hyresgäst ansvarar själv för skötsel av din uteplats. Det är en stor rymlig trea med bra förvaring i anslutning till hallen. Badrum med badkar och toppmatad tvättmaskin finns installerad. I samråd med AB Stångåstaden och nuvarande hyresgäst finns det möjlighet till tidigare inflyttning. Vid tillfälligt avtal behåller du dina kö-poäng. Det kan förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alsättersgatan 10 B, 
+                                Ryd]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=45763139354f2f50384141733144793245474c54574339664f5a32746c4466315a424a666a5342667657733d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=45763139354f2f50384141733144793245474c54574339664f5a32746c4466315a424a666a5342667657733d"/>
+        <updated>2022-04-27T17:48:36.136Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            80 kvm, 
+                            våning 2 TILLFÄLLIGT AVTAL med preliminär boendetid fram till Q1 2023, därefter kan du inte bo kvar i lägenheten längre. Här finner du en ledig trea i naturnära Ryd. Möblerbart kök där det finns diskmaskin installerat.  Badrum med badkar och en kombinerad tvätt/tork. Extra WC. Balkong som du når från ena sovrummet. Bra förvaringsytor i hallen med garderober och klädkammare. Tack vare att det är ett tillfälligt avtal behåller du dina kö-poäng. Vid tillfälligt avtal kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar och du kan inte göra några tillval eller beställa tapetsering.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rydsvägen 384 B, 
+                                Ryd]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6d515969775274304a59597378782f42794a725658446d7059394e42452f637948573057526459335047633d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6d515969775274304a59597378782f42794a725658446d7059394e42452f637948573057526459335047633d"/>
+        <updated>2022-04-27T17:48:36.136Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            80 kvm, 
+                            våning 2 TILLFÄLLIGT AVTAL med preliminär boendetid fram till Q1/2023, därefter kan du inte bo kvar i lägenheten längre. I sommar du flytta in i denna ljusa trea i Ryd med närhet till Rydsskogen. Bra förvaring i ena sovrummet och förråd finns. Badrum med badkar och tvättmaskin. Extra wc. Diskmaskin i köket. Balkong som du når från ena sovrummet. Tack vare att det är ett tillfälligt avtal behåller du dina kö-poäng. Vid tillfälligt avtal kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar och du kan inte göra några tillval eller beställa tapetsering.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pionjärgatan 11, 
+                                Västra Berga]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4e636e45492f7a6242685649506979755834396e6b3961322f4733686b3545712b77396c724f4471414c633d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4e636e45492f7a6242685649506979755834396e6b3961322f4733686b3545712b77396c724f4471414c633d"/>
+        <updated>2022-04-27T17:48:36.148Z</updated>
         <content type="html"><![CDATA[4 RUM KÖK, 
-                            94 kvm, 
-                            våning 2 Här finner du en mycket fin och trevlig lägenhet på andra våningen i populära Vasastaden. Här har du ett stort vardagsrum med en eldningsbar öppen spis. Helkaklat badrum med dusch, ej möjlighet att installera tvättmaskin tyvärr. Stort möblerbart kök med separat matrum, diskmaskin finns installerat. Bra med förvaring i sovrummen och från ena sovrummet når du balkongen.]]></content>
+                            102.1 kvm, 
+                            våning 3 TILLFÄLLIGT AVTAL med preliminär boendetid fram till augusti 2022, därefter kan du inte bo kvar i lägenheten längre. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. För dig som kan flytta in redan 16 maj. Välkommen att söka denna trevliga fyra på Pionjärgatan 11 i västra Berga. Lägenheten ligger på 3:e våningen och har en härlig balkong som man når från vardagsrummet. Badrum med badkar samt tvättmaskin.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skattegården 116 B, 
+                                Ullevi (Skattegården)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=554f38394952584c473055545933546f6f7a6f484b673856772b4a52704c736553384176546d446c4544773d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=554f38394952584c473055545933546f6f7a6f484b673856772b4a52704c736553384176546d446c4544773d"/>
+        <updated>2022-04-27T17:48:36.148Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            79.5 kvm, 
+                            våning 2 TILLFÄLLIGT AVTAL. Preliminär renoveringsstart: Hösten 2023, därefter kan du inte bo kvar i lägenheten längre. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Välkommen att söka en lägenhet på tre rum och kök. Lägenheten har badrum och det finns en även en separat WC. Här har det tapetserats om/ målats om i samtliga rum 2022. Inglasad balkong i anslutning till hallen.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plutonsgatan 5, 
+                                Kv. Vingården (Södra Ekkällan)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=3661776956574b755a4b755241427a7a737042513835752b316d3476326577666b54585854597a6645706b3d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=3661776956574b755a4b755241427a7a737042513835752b316d3476326577666b54585854597a6645706b3d"/>
+        <updated>2022-04-27T17:48:36.148Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            92 kvm, 
+                            våning 3 Den här fina 55+ lägenheten hittar du i Södra Ekkällan. Lägenheten har hög standard med ekparkett i samtliga rum samt klinker i hallen och badrummet/WC. Från vardagsrummet når du den mysiga inglasade balkongen. Köket är utrustat med diskmaskin. I det rymliga badrummet finns det duschhörna med glasväggar, tvättmaskin och torktumlare. Det finns även en separat WC. Fina förvaringsmöjligheter med klädkammare i lägenheten och ett separat förråd finns i källaren.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prästbolsgatan 11, 
+                                Östra Berga]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=725264634d7a377046502b71333675564e613264685364767a782b52754b66666337535057476c754334513d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=725264634d7a377046502b71333675564e613264685364767a782b52754b66666337535057476c754334513d"/>
+        <updated>2022-04-27T17:48:36.148Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            65.7 kvm, 
+                            våning 1 Här vänder vi oss till äldre eller vuxna med barn.
+På kort cykelavstånd till city bor du här i tre rum och kök på första våningen. Kök med kyl/frys, frysskåp samt diskmaskin, och här kommer nya köksluckor att monteras. Badrum med dusch. Klädkammare. Lägenheten har en stor och trevlig balkong.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prästbolsgatan 21, 
+                                Östra Berga]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=514331657468576979314f5453782b42516f485672486f774334674f48514c5a666b6d2b4268566e7065413d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=514331657468576979314f5453782b42516f485672486f774334674f48514c5a666b6d2b4268566e7065413d"/>
+        <updated>2022-04-27T17:48:36.148Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            65.4 kvm, 
+                            våning 5 Här vänder vi oss till äldre eller vuxna med barn. Fin och välplanerad trea på våning fem. Gott om förvaringsutrymme i klädkammaren som ligger i anslutning till hallen. Här finns möjlighet att installera diskmaskin som tillval. Badrum med badkar, balkong mot Söderleden. Till lägenheten hör ett förråd som ligger på vinden, tvättstuga i källaren. Tillgång till trevlig innergård och närhet till grönområde. Nyproduktion sker i närområde, viss störning kan förekomma.]]></content>
     </entry>
 </feed>
