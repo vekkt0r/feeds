@@ -2,118 +2,190 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vekkt0r.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-11T05:48:31.804Z</updated>
+    <updated>2022-05-11T17:51:31.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Knektgatan 29, 
-                                Västra Berga (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=62654c48544931562f555032574c6947766d6436656d486a63456d7143786f6b69437171657655615a4e733d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=62654c48544931562f555032574c6947766d6436656d486a63456d7143786f6b69437171657655615a4e733d"/>
-        <updated>2022-05-11T05:48:10.374Z</updated>
+        <title type="html"><![CDATA[Vasavägen 22, 
+                                Vasastaden (Söder) (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=535a6d2b7a373749763874427a4556394e38776a5a586349753850726d796152312f6b302f57362f6f78733d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=535a6d2b7a373749763874427a4556394e38776a5a586349753850726d796152312f6b302f57362f6f78733d"/>
+        <updated>2022-05-11T17:51:13.171Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
-                            82 kvm, 
-                            våning 3 Söker du efter en lägenhet med inflyttningsdatum 1/6–2022? Då kan denna lägenhet vara något just för dig. Här finner du en trea med separat matrum och balkong, där du som inflyttande hyresgäst har möjlighet att få välja omtapetserat-/målat i samtliga rum. Efter inflyttningen ska golv i hall och kök bytas. Lägenheten har ett badrum med badkar, men även en mindre toalett. Goda förvaringsmöjligheter med klädkammare och garderober i hallen samt två-stycken tillhörande förråd i källaren.]]></content>
+                            87.5 kvm, 
+                            våning 4 Mitten på sommaren kan du flytta in i en härlig tvåa i två etage. På bottenplan finner du två stora sovrum där det är en balkong till varje sovrum. Möblerbart kök och en rymlig hall. Helkaklat badrum men duschplats. Efter inflyttning kommer det målas i kök, hall och i WC, det kommer bytas golv i sovrum 2. I köket byts det köksluckor och bänkskiva och du som ny hyresgäst kan välja kostnadsfri ommålning i de andra rummen om man skulle önska det.  Det är en halvtrappa upp till hissen.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skattegården 113 C, 
+                                Ullevi (Skattegården) (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=5058425a317656336b6d53534175766b362b625233305847554f4c387161314b67323253586355334474773d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=5058425a317656336b6d53534175766b362b625233305847554f4c387161314b67323253586355334474773d"/>
+        <updated>2022-05-11T17:51:13.178Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            79.5 kvm, 
+                            våning 1 Välkommen att söka en välplanerad lägenhet på tre rum och kök i Skattegården. Badrum med badkar och det är dessutom utrustat med en tvättmaskin och det finns en separat WC i lägenheten. Efter att du som ny hyresgäst har flyttat in så kommer det att tapetseras om i samtliga rum och du kommer kunna välja tapeter. Det finns gott om förvaringsmöjligheter och på baksidan av lägenheten så finns det en trevlig uteplats. Här kommer det att stamrenoveras det innebär att man inte kan göra några tillval eller beställa tapetsering.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skräddaregatan 8, 
+                                Kv. Skräddaren (Åbylund) (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=79596645304a576f7a32396646534876703759302b722f664d764b456966725033736e4e763549433533593d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=79596645304a576f7a32396646534876703759302b722f664d764b456966725033736e4e763549433533593d"/>
+        <updated>2022-05-11T17:51:13.178Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            65.9 kvm, 
+                            våning 2 Nu finns det en fin trea ledig i vårt populära seniorkvarter Skräddaren. När du som ny hyresgäst flyttar in så har hela lägenheten målats/tapetserat om. I köket kommer bänkskivan att bytas. Badrummet har kakel/klinkers och är utrustat med dusch istället för badkar som ritningen visar. Som hyresgäst får du tillgång till den kombinerade gemensamhetslokalen/övernattningsrummet.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hemmansgatan 80, 
+                                Lambohov (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6353672b6e4242394b33334a66736f6833494e4e6c64533243734849396151774d63664431734e6e4445303d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6353672b6e4242394b33334a66736f6833494e4e6c64533243734849396151774d63664431734e6e4445303d"/>
+        <updated>2022-05-11T17:51:13.178Z</updated>
+        <content type="html"><![CDATA[4 RUM KÖK, 
+                            107.9 kvm, 
+                            våning Radhus Om du har möjlighet att flytta in redan första juni passar det här radhuset perfekt för dig. Radhuset har en tillhörande uteplats som du som hyresgäst ansvarar för att ta hand om. Här bor du med närhet till både Lambohov centrum och grönområden. Genomgående i radhuset finner du trägolv och samtliga rum blev målade i april 2022. På bottenplan finner du ett tvättrum utrustat med tvättmaskin och torktumlare. Både WC/duschrum på bottenplan och badrummet på ovanvåning är inredda med kakel/klinkers. I köket finner du vita köksluckor, en hel kyl och frys och en diskmaskin. Garage i länga ingår. Observera att det är kallhyra och det tillkommer därför en kostnad för värme och vatten varje månad.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skräddaregatan 3 B, 
+                                Åbylund (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6a507947345944436e68764b68536933666c676d33786d3953635a7a657634736c6f4c45414870397256343d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6a507947345944436e68764b68536933666c676d33786d3953635a7a657634736c6f4c45414870397256343d"/>
+        <updated>2022-05-11T17:51:13.178Z</updated>
+        <content type="html"><![CDATA[4 RUM KÖK, 
+                            87.3 kvm, 
+                            våning 3 Här finner du en välplanerad lägenhet om fyra rum och kök med balkong på tredje våningen i hemtrevliga Åbylund. Lägenheten är i gott skick då den genomgick en omfattande stamrenovering år 2019. Goda förvaringsmöjligheter med flertal garderober, klädkammare samt tillhörande källarförråd. Helkaklat badrum med glasade duschväggar, tvättmaskin och torktumlare. Kök utrustat med fullstor kyl och frys samt en spis med keramikhäll.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Danmarksgatan 4 E, 
+                                Abisko/Övre Vasastaden (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=77536f4c3845645263534871306863574a77502b305337353832484a2b79375270654f5478734d664f63773d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=77536f4c3845645263534871306863574a77502b305337353832484a2b79375270654f5478734d664f63773d"/>
+        <updated>2022-05-11T17:51:13.178Z</updated>
+        <content type="html"><![CDATA[4 RUM KÖK, 
+                            107.2 kvm, 
+                            våning 2 I augusti finns chansen att flytta in i den här trevliga fyran.
+Lägenheten har en balkong som nås via både vardagsrummet och ena sovrummet.
+Helkaklat badrum med badkar. Det finns även en extra WC.
+Som boende här har man tillgång till en gemensam bastu i området.
+Här finns det möjlighet att beställa kostnadsfri omtapetsering av alla rum (utförs efter inflyttningen).]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bobergsgatan 4, 
+                                Valla/Fridhem (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d684d6d35596a417070616b52786b535369683334746b3568444a6866353238596b4159367670377841673d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4d684d6d35596a417070616b52786b535369683334746b3568444a6866353238596b4159367670377841673d"/>
+        <updated>2022-05-11T17:51:13.178Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            82.2 kvm, 
+                            våning 1 Här hittar du en fin trea som stamrenoverades under 2017. Under renoveringen byttes golven i hallen, köket och sovrummet. Parkettgolvet i vardagsrummet slipades och lackades. Köket blev renoverat med nya vitvaror, ny bänkskiva, stänkskydd och vita skåpsluckor. Badrummet fick kakel/klinkers, duschväggar, tvättmaskin och torktumlare. Det sattes även in ny ventilation, nya fönster och säkerhetsdörr. Här finns det möjlighet för tidigare inflytt efter överenskommelse mellan nuvarande hyresgäst och AB Stångåstaden.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaptensgatan 19 A, 
+                                T1 (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=655a3754396a352b515653537777684e686a67592f674444797a3034554d7a575135496d546743796d70413d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=655a3754396a352b515653537777684e686a67592f674444797a3034554d7a575135496d546743796d70413d"/>
+        <updated>2022-05-11T17:51:13.186Z</updated>
+        <content type="html"><![CDATA[3 RUM KÖK, 
+                            133.6 kvm, 
+                            våning 4 I populär T1 hittar du den här charmiga trean. Lägenheten har högt i tak med synliga takbjälkar. Parkettgolvet i vardagsrum kommer att slipas och lackas efter att du som ny hyresgäst har flyttat in. Det finns möjlighet att få ommålat/omtapetserat i hallen och köket utan extra kostnad. Från lägenheten når du ett rymligt förråd. Nyproduktion sker en bit bort i området, vissa störningar kan förekomma.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knektgatan 37, 
+                                Västra Berga (Stångåstaden Lägenheter)]]></title>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=79465777386939614a35337277726669376f383748695030553550706e682f6d52546371764669504965303d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=79465777386939614a35337277726669376f383748695030553550706e682f6d52546371764669504965303d"/>
+        <updated>2022-05-11T17:51:13.193Z</updated>
+        <content type="html"><![CDATA[4 RUM KÖK, 
+                            97.2 kvm, 
+                            våning 1 Här har du möjlighet att söka en ljus och fräsch lägenhet om fyra rum och kök i Västra Berga. Lägenheten ligger på första våningen och har en balkong som man når från vardagsrummet. Badrum med badkar samt en separat WC. Till lägenheten hör ett förråd som finns i källaren där också den gemensamma tvättstugan finns. Du som nästkommande hyresgäst har möjlighet att få samtliga rum omtapetserade/ommålade.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Skattegården 116 B, 
                                 Ullevi (Skattegården) (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=456d4a394d7954494f4c4a6a6f5858394b53704366485970506771622f4b5074476f306137777a69586f4d3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=456d4a394d7954494f4c4a6a6f5858394b53704366485970506771622f4b5074476f306137777a69586f4d3d"/>
-        <updated>2022-05-11T05:48:10.375Z</updated>
+        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=426b4f56445839494634717870555966466133716a504d4362563831746851495734467741556554717a733d</id>
+        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=426b4f56445839494634717870555966466133716a504d4362563831746851495734467741556554717a733d"/>
+        <updated>2022-05-11T17:51:13.193Z</updated>
         <content type="html"><![CDATA[3 RUM KÖK, 
                             79.5 kvm, 
                             våning 2 Välkommen att söka en lägenhet på tre rum och kök. Lägenheten har badrum och det finns en även en separat WC. Här har det tapetserats om/ målats om i samtliga rum 2022. Inglasad balkong i anslutning till hallen. Här kommer det att stamrenoveras det innebär att man inte kan göra några tillval eller beställa tapetsering.]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pionjärgatan 11, 
-                                Västra Berga (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=5264346758666c774f7a59702f4869304f656d507033784244796c49426e4b35766432647531474f6932513d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=5264346758666c774f7a59702f4869304f656d507033784244796c49426e4b35766432647531474f6932513d"/>
-        <updated>2022-05-11T05:48:10.377Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            102.1 kvm, 
-                            våning 3 Fram till den 12/5/2022 kan du anmäla ditt intresse för detta TILLFÄLLIGA AVTAL med inflyttning den 16 maj på Pionjärgatan 11. Lägenheten fördelas efter kö-poäng. Vi kommer att ringa ut erbjudande. Om vi inte når dig på telefon dagen efter publiceringen går vi vidare till nästa sökande. När du fått ett erbjudande och blivit godkänd ska hyresavtalet skrivas på samma dag. Tänk på att förbereda intyg på inkomst och en hyresreferens. Det krävs för att du snabbt ska kunna teckna kontrakt. Tänk på att du enbart kan anmäla ditt intresse via vår hemsida.  TILLFÄLLIGT AVTAL med preliminär boendetid fram till augusti 2022, därefter kan du inte bo kvar i lägenheten längre. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering.]]></content>
+        <title type="html"><![CDATA[Trek Speedconcept, Large (Happyride annonser)]]></title>
+        <id>https://happyride.se/annonser/trek-speedconcept-large.187763/</id>
+        <link href="https://happyride.se/annonser/trek-speedconcept-large.187763/"/>
+        <updated>2022-05-11T17:51:22.733Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/trek-speedconcept-large.187763/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/367384.jpg?1652280055" alt="Trek Speedconcept, Large" loading="lazy" srcset="/img/admarket/small2x/367384.jpg?1652280055 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/trek-speedconcept-large.187763/">Trek Speedconcept, Large</a></h4> Säljes i Gävleborg<span class="visible-xs-inline">, 3 timmar</span><span class="visible-xs">20 000:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
+				<td class="col-4 hidden-xs"><nobr>20 000:-</nobr></td>
+				<td class="hidden-xs"><nobr>3 timmar</nobr></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drottninggatan 43 P, 
-                                Innerstaden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6a64346f797a5a35577a575844517266446169487a58746e5676584c2b796550726a585447613046325a593d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6a64346f797a5a35577a575844517266446169487a58746e5676584c2b796550726a585447613046325a593d"/>
-        <updated>2022-05-11T05:48:10.378Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
-                            74 kvm, 
-                            våning 7 Modern trea med attraktivt läge i Linköping. 
-Hallen välkomnar med garderober och förvaring och här fördelas den privata delen med sovrummen mot gården och den sociala delen med vy mot inglasad balkong mot Drottninggatan. Kök med energisnåla vitvaror som kyl och frys, induktionshäll, inbyggnadsugn, mikrovågsugn och diskmaskin. Helkaklat badrum med duschplats och extra wc.
-Genomgående ekparkett i lägenheten förutom i hall och badrum där det är klinkergolv.
-Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du får besök av släkt och vänner, med sovplats för upp till 4 personer. Observera att interiörbilderna är från en tidigare visningslägenhet, som inte har samma planlösning.  Klicka in på länken "Innerstaden" nedan, här kan du få en överblick om var bostaden är belägen i huset, i vår bostadsväljare för Eddan, etapp 1. Möjlighet till tidigare inflyttning efter samråd med nuvarande hyresgäst och AB Stångåstaden.]]></content>
+        <title type="html"><![CDATA[Specialized Stumpjumper Alloy 2021 29" S4 Large (Happyride annonser)]]></title>
+        <id>https://happyride.se/annonser/specialized-stumpjumper-alloy-2021-29-s4-large.187748/</id>
+        <link href="https://happyride.se/annonser/specialized-stumpjumper-alloy-2021-29-s4-large.187748/"/>
+        <updated>2022-05-11T17:51:22.739Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/specialized-stumpjumper-alloy-2021-29-s4-large.187748/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/367347.jpg?1652273077" alt="Specialized Stumpjumper Alloy 2021 29&quot; S4 Large" loading="lazy" srcset="/img/admarket/small2x/367347.jpg?1652273077 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/specialized-stumpjumper-alloy-2021-29-s4-large.187748/">Specialized Stumpjumper Alloy 2021 29" S4 Large</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 6 timmar</span><span class="visible-xs">24 000:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Mountainbike</td>
+				<td class="col-4 hidden-xs"><nobr>24 000:-</nobr></td>
+				<td class="hidden-xs"><nobr>6 timmar</nobr></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snickaregatan 4 A, 
-                                Kungsgateområdet (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=49504e51566c61766d526753463157764e6e495a72615a3533632f4c71496446632f484e2b48686d6d52303d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=49504e51566c61766d526753463157764e6e495a72615a3533632f4c71496446632f484e2b48686d6d52303d"/>
-        <updated>2022-05-11T05:48:10.380Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
-                            114 kvm, 
-                            våning 2 Central trea med rymliga rum.
-I lägenheten finns en kakelugn (ej eldningsbar).
-Kök med diskmaskin, vita köksluckor samt stor kyl- och frys.
-Kaklat badrum med badkar och tvättmaskin.]]></content>
+        <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
+        <id>https://vekkt0r.github.io/feeds/all.xml</id>
+        <link href="https://vekkt0r.github.io/feeds/all.xml"/>
+        <updated>2022-05-11T17:51:21.834Z</updated>
+        <content type="html"><![CDATA[<td colspan="5">
+					<div class="anm1-container visible-xs">
+		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
+	</div>				</td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Drottninggatan 27 A, 
-                                Innerstaden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=49523463693776485175336534686975506f763245384b5759476e71537a7756747539614c30515a6c4a593d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=49523463693776485175336534686975506f763245384b5759476e71537a7756747539614c30515a6c4a593d"/>
-        <updated>2022-05-11T05:48:10.387Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            140 kvm, 
-                            våning 1 TILLFÄLLIGT AVTAL med preliminär boendetid fram till någon gång under 2023, därefter kan du inte bo kvar i lägenheten längre. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Central fyra med kakelugn i vardagsrummet och allrummet (ej eldningsbara).  Kök med stor kyl-och frys. Helkaklat badrum.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pionjärgatan 13, 
-                                Västra Berga (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=4e647632554a64455830754c6c38654848634636744b6e4b454c3475596b30725a6e5a7139374e4d6a65383d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=4e647632554a64455830754c6c38654848634636744b6e4b454c3475596b30725a6e5a7139374e4d6a65383d"/>
-        <updated>2022-05-11T05:48:10.387Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
-                            81.8 kvm, 
-                            våning 3 TILLFÄLLIGT AVTAL med preliminär boendetid fram till vintern, 2022, därefter kan du inte bo kvar i lägenheten längre. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Passa på att söka denna trea med kök med inflyttningsdatum första juli. Lägenheten har goda förvaringsmöjligheter med flertal garderober samt tillhörande källarförråd. Badrum med duschplats och som dessutom är utrustat med en tvätt/tork. Det finns även en separat gäst-WC. På grund av rådande omständigheter är alla visningar inställda. Vid ett erbjudande kommer lägenheten att visas via bilder.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pionjärgatan 15, 
-                                Västra Berga (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6c4f6b72726278314c734f5a6f4f7a416c584e4e6f6c524362706d415334325973417a554b75717455456b3d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6c4f6b72726278314c734f5a6f4f7a416c584e4e6f6c524362706d415334325973417a554b75717455456b3d"/>
-        <updated>2022-05-11T05:48:10.388Z</updated>
-        <content type="html"><![CDATA[3 RUM KÖK, 
-                            81.5 kvm, 
-                            våning 1 TILLFÄLLIGT AVTAL med preliminär boendetid fram till vintern 2023, därefter kan du inte bo kvar i lägenheten längre. Tack vare det behåller du dina kö-poäng. Vid tillfälligt avtal kan det förekomma slitage eller skador, så som t.ex. märken på väggar/golv eller tryckskador på dörrar. Vid tillfälligt avtal kan man inte göra några tillval eller beställa tapetsering. Stor trea med balkong på första våningen i Västra Berga. Badrum med badkar och det finns även en separat WC i lägenheten. Här bor du med cykelavstånd till Universitetssjukhuset och nära den vackra Tinnerbäcken. Till lägenheten hör ett förråd som ligger i källaren. På grund av rådande omständigheter är alla visningar inställda. Vid eventuellt erbjudande visas lägenheten genom bilder.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wahlbecksgatan 6 , 
-                                Östra Valla, Ebbepark Lugnet (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=6f7045456550495a746172414236684e5954794f51696b3934666537656f346569484d664c5756533735413d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=6f7045456550495a746172414236684e5954794f51696b3934666537656f346569484d664c5756533735413d"/>
-        <updated>2022-05-11T05:48:10.388Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            110 kvm, 
-                            våning 3 Nyproducerad (2021) hyreslägenhet om 4 rum och kök med balkong i Linköpings nyaste och moderna stadsdel. Lägenheten genomsyras av hög kvalitet och moderna designval av inredningsarkitekten Lukasz Krupinski på ÅWL arkitekter. Genomgående parkettgolv i ljus ask förutom i hallen där det är klinkergolv. I köket finner du induktionshäll med varmluftsugn, diskmaskin, mikrovågsugn,  kyl och frys. Helkaklat badrum, duschplats med duschväggar samt tvättmaskin och torktumlare. Lägenhetsförråd finns i källare. Läs mer om projektet, Ebbepark Lugnet på vår hemsida där du även kan se husen i 3D i vår bostadsväljare. Bilderna i annonsen är från Stångåstadens visningslägenhet.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drottninggatan 43 M, 
-                                Innerstaden (Stångåstaden Lägenheter)]]></title>
-        <id>https://www.stangastaden.se/sokledigt/ledigbostad?refid=345167702f2b5937642f706271655a784b3032776650353570636577416b7347477058596f35372f3173593d</id>
-        <link href="https://www.stangastaden.se/sokledigt/ledigbostad?refid=345167702f2b5937642f706271655a784b3032776650353570636577416b7347477058596f35372f3173593d"/>
-        <updated>2022-05-11T05:48:10.393Z</updated>
-        <content type="html"><![CDATA[4 RUM KÖK, 
-                            94 kvm, 
-                            våning 4 Modern och central fyra med en inglasad balkong mot Drottninggatan.
-Rymligt vardagsrum och kök med fint ljusinsläpp från stora fönsterpartier. Kök med vita köksluckor med mörkgrå bänkskiva. Energisnåla vitvaror som kyl och frys, induktionshäll, inbyggnadsugn, mikro och diskmaskin.
-Helkaklat badrum med badkar och helkaklat duschrum med wc och duschplats.
-Genomgående ekparkett i lägenheten förutom i hallen och badrummet där det är klinkergolv.
-I lägenheten finns tvättrum med tvättmaskin och torktumlare.
-Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du får besök av släkt och vänner, med sovplats för upp till 4 personer. Observera att interiörbilderna är från en tidigare visningslägenhet, som inte har samma planlösning.  Klicka in på länken "Innerstaden" nedan, här kan du få en överblick om var bostaden är belägen i huset, i vår bostadsväljare för Eddan, etapp 1. Här vänder vi oss till äldre sökande eller barnfamiljer.]]></content>
+        <title type="html"><![CDATA[Trek Remedy 9 18.5" (Happyride annonser)]]></title>
+        <id>https://happyride.se/annonser/trek-remedy-9-18-5.187735/</id>
+        <link href="https://happyride.se/annonser/trek-remedy-9-18-5.187735/"/>
+        <updated>2022-05-11T17:51:22.741Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/trek-remedy-9-18-5.187735/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/367315.jpg?1652262479" alt="Trek Remedy 9 18.5&quot;" loading="lazy" srcset="/img/admarket/small2x/367315.jpg?1652262479 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/trek-remedy-9-18-5.187735/">Trek Remedy 9 18.5"</a></h4> Säljes i Värmland<span class="visible-xs-inline">, 8 timmar</span><span class="visible-xs">23 000:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Mountainbike</td>
+				<td class="col-4 hidden-xs"><nobr>23 000:-</nobr></td>
+				<td class="hidden-xs"><nobr>8 timmar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Fuel Ex 8 Plus 19,5” (Happyride annonser)]]></title>
@@ -131,12 +203,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-8-plus-19-5.187700/">Trek Fuel Ex 8 Plus 19,5”</a></h4> Säljes i Kalmar<span class="visible-xs-inline">, 1 timme</span><span class="visible-xs">22 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-8-plus-19-5.187700/">Trek Fuel Ex 8 Plus 19,5”</a></h4> Säljes i Kalmar<span class="visible-xs-inline">, 13 timmar</span><span class="visible-xs">22 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>22 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 timme</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>13 timmar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TREK crockett 4 ultegra cx / gravel (Happyride annonser)]]></title>
@@ -154,22 +226,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-crockett-4-ultegra-cx-gravel.187673/">TREK crockett 4 ultegra cx / gravel</a></h4> Säljes i Jönköping<span class="visible-xs-inline">, 11 timmar</span><span class="visible-xs">14 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-crockett-4-ultegra-cx-gravel.187673/">TREK crockett 4 ultegra cx / gravel</a></h4> Säljes i Jönköping<span class="visible-xs-inline">, 23 timmar</span><span class="visible-xs">14 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Cross / Gravel</td>
 				<td class="col-4 hidden-xs"><nobr>14 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>11 timmar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
-        <id>https://vekkt0r.github.io/feeds/all.xml</id>
-        <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-05-11T05:48:21.597Z</updated>
-        <content type="html"><![CDATA[<td colspan="5">
-					<div class="anm1-container visible-xs">
-		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
-	</div>				</td>]]></content>
+				<td class="hidden-xs"><nobr>23 timmar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek domane SL 6 eTap XL (Happyride annonser)]]></title>
@@ -181,18 +243,18 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					<a href="/annonser/trek-domane-sl-6-etap-xl.187630/">
 					 <div class="image_holder">
 						 <div class="image">
-						 <img src="/img/admarket/small/367082.jpg?1652185461" alt="Trek domane SL 6 eTap XL" loading="lazy" srcset="/img/admarket/small2x/367082.jpg?1652185461 2x" border="0">
+						 <img src="/img/admarket/small/367082.jpg?1652269631" alt="Trek domane SL 6 eTap XL" loading="lazy" srcset="/img/admarket/small2x/367082.jpg?1652269631 2x" border="0">
 						 						 </div>
 					 </div>
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-domane-sl-6-etap-xl.187630/">Trek domane SL 6 eTap XL</a></h4> Säljes i Skåne<span class="visible-xs-inline">, 17 timmar</span><span class="visible-xs">46 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-domane-sl-6-etap-xl.187630/">Trek domane SL 6 eTap XL</a></h4> Säljes i Skåne<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">45 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
-				<td class="col-4 hidden-xs"><nobr>46 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>17 timmar</nobr></td>]]></content>
+				<td class="col-4 hidden-xs"><nobr>45 000:-</nobr></td>
+				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Top Fuel 9.9 2020 Medium 18.5" (Happyride annonser)]]></title>
@@ -210,12 +272,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-9-9-2020-medium-18-5.187629/">Trek Top Fuel 9.9 2020 Medium 18.5"</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 17 timmar</span><span class="visible-xs">43 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-9-9-2020-medium-18-5.187629/">Trek Top Fuel 9.9 2020 Medium 18.5"</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">43 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>43 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>17 timmar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Top Fuel 97 (Happyride annonser)]]></title>
@@ -233,30 +295,30 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-97.187613/">Trek Top Fuel 97</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 20 timmar</span><span class="visible-xs">37 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-97.187613/">Trek Top Fuel 97</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">37 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>37 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>20 timmar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trek Domane SLR 2021 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-domane-slr-2021.183573/</id>
-        <link href="https://happyride.se/annonser/trek-domane-slr-2021.183573/"/>
-        <updated>2022-05-10T05:42:14.860Z</updated>
+        <title type="html"><![CDATA[Trek Domane SLR 2021 - sänkt pris (Happyride annonser)]]></title>
+        <id>https://happyride.se/annonser/trek-domane-slr-2021-sankt-pris.183573/</id>
+        <link href="https://happyride.se/annonser/trek-domane-slr-2021-sankt-pris.183573/"/>
+        <updated>2022-05-11T17:51:22.756Z</updated>
         <content type="html"><![CDATA[<td class="col-1">
 
-					<a href="/annonser/trek-domane-slr-2021.183573/">
+					<a href="/annonser/trek-domane-slr-2021-sankt-pris.183573/">
 					 <div class="image_holder">
 						 <div class="image">
-						 <img src="/img/admarket/small/357443.jpg?1652122404" alt="Trek Domane SLR 2021" loading="lazy" srcset="/img/admarket/small2x/357443.jpg?1652122404 2x" border="0">
+						 <img src="/img/admarket/small/357443.jpg?1652271240" alt="Trek Domane SLR 2021 - sänkt pris" loading="lazy" srcset="/img/admarket/small2x/357443.jpg?1652271240 2x" border="0">
 						 						 </div>
 					 </div>
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-domane-slr-2021.183573/">Trek Domane SLR 2021</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">55 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-domane-slr-2021-sankt-pris.183573/">Trek Domane SLR 2021 - sänkt pris</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">55 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
@@ -302,12 +364,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-8-2007-21-5.187536/">Trek Fuel EX 8 2007 21,5"</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">7 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-8-2007-21-5.187536/">Trek Fuel EX 8 2007 21,5"</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">7 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>7 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Niner RIP 9 rdo 29" large (Happyride annonser)]]></title>
@@ -325,12 +387,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/niner-rip-9-rdo-29-large.180809/">Niner RIP 9 rdo 29" large</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">34 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/niner-rip-9-rdo-29-large.180809/">Niner RIP 9 rdo 29" large</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">34 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>34 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek checkpoint 3 (Happyride annonser)]]></title>
@@ -348,12 +410,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-checkpoint-3.187492/">Trek checkpoint 3 </a></h4> Säljes i Halland<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">12 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-checkpoint-3.187492/">Trek checkpoint 3 </a></h4> Säljes i Halland<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">12 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Cross / Gravel</td>
 				<td class="col-4 hidden-xs"><nobr>12 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Top fuel 2022 (Happyride annonser)]]></title>
@@ -371,12 +433,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-2022.187490/">Trek Top fuel 2022</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">39 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-2022.187490/">Trek Top fuel 2022</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">39 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>39 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TREK Emonda ALR 5 Disc 2020 (Happyride annonser)]]></title>
@@ -394,12 +456,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-emonda-alr-5-disc-2020.187480/">TREK Emonda ALR 5 Disc 2020</a></h4> Säljes i Västmanland<span class="visible-xs-inline">, 1 dag</span><span class="visible-xs">12 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-emonda-alr-5-disc-2020.187480/">TREK Emonda ALR 5 Disc 2020</a></h4> Säljes i Västmanland<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">12 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>12 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 dag</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Lexa SL för små personer (Happyride annonser)]]></title>
@@ -486,12 +548,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/mondraker-2022-flcycling-trail-enduro-downhill.173820/">Mondraker 2022 - flcycling - Trail/Enduro/Downhill</a></h4> <i class="fa fa-building" title="Företagsannons"></i> Säljes i Stockholm<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">-</span>
+				<td class="col-2"><h4><a href="/annonser/mondraker-2022-flcycling-trail-enduro-downhill.173820/">Mondraker 2022 - flcycling - Trail/Enduro/Downhill</a></h4> <i class="fa fa-building" title="Företagsannons"></i> Säljes i Stockholm<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek session 8 (Happyride annonser)]]></title>
@@ -532,12 +594,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-9-9-2020.167186/">Trek Top fuel 9.9 2020</a></h4> Säljes i Älvsborg<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">53 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-top-fuel-9-9-2020.167186/">Trek Top fuel 9.9 2020</a></h4> Säljes i Älvsborg<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">53 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>53 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Madone SL 6 (Happyride annonser)]]></title>
@@ -578,12 +640,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-madone-full-carbon-landsvag-storlek-56.187167/">Trek Madone, full Carbon, Landsväg, Storlek 56</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">31 500:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-madone-full-carbon-landsvag-storlek-56.187167/">Trek Madone, full Carbon, Landsväg, Storlek 56</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">31 500:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>31 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek 2020 Emonda SL6 Disc Pro (Happyride annonser)]]></title>
@@ -601,12 +663,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-2020-emonda-sl6-disc-pro.187152/">Trek 2020 Emonda SL6 Disc Pro</a></h4> Säljes i Uppsala<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">30 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-2020-emonda-sl6-disc-pro.187152/">Trek 2020 Emonda SL6 Disc Pro</a></h4> Säljes i Uppsala<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">30 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>30 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kona Hei Hei CR 2021 (Happyride annonser)]]></title>
@@ -618,17 +680,17 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					<a href="/annonser/kona-hei-hei-cr-2021.187100/">
 					 <div class="image_holder">
 						 <div class="image">
-						 <img src="/img/admarket/small/365810.jpg?1652073904" alt="Kona Hei Hei CR 2021" loading="lazy" srcset="/img/admarket/small2x/365810.jpg?1652073904 2x" border="0">
+						 <img src="/img/admarket/small/365810.jpg?1652257699" alt="Kona Hei Hei CR 2021" loading="lazy" srcset="/img/admarket/small2x/365810.jpg?1652257699 2x" border="0">
 						 						 </div>
 					 </div>
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/kona-hei-hei-cr-2021.187100/">Kona Hei Hei CR 2021</a></h4> Säljes i Gävleborg<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">2 800:-</span>
+				<td class="col-2"><h4><a href="/annonser/kona-hei-hei-cr-2021.187100/">Kona Hei Hei CR 2021</a></h4> Säljes i Gävleborg<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">28 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
-				<td class="col-4 hidden-xs"><nobr>2 800:-</nobr></td>
+				<td class="col-4 hidden-xs"><nobr>28 000:-</nobr></td>
 				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
     </entry>
     <entry>
@@ -647,12 +709,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-9-8-xt.184264/">Trek fuel ex 9.8 XT</a></h4> Säljes i Älvsborg<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">43 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-9-8-xt.184264/">Trek fuel ex 9.8 XT</a></h4> Säljes i Älvsborg<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">43 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>43 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Madone 3.1 (Happyride annonser)]]></title>
@@ -670,12 +732,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-madone-3-1.187063/">Trek Madone 3.1</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">8 900:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-madone-3-1.187063/">Trek Madone 3.1</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">8 900:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
 				<td class="col-4 hidden-xs"><nobr>8 900:-</nobr></td>
-				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trek Checkpoint ALR4 Gravelbike (Happyride annonser)]]></title>
@@ -693,12 +755,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-checkpoint-alr4-gravelbike.187061/">Trek Checkpoint ALR4 Gravelbike</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">19 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/trek-checkpoint-alr4-gravelbike.187061/">Trek Checkpoint ALR4 Gravelbike</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">19 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Cross / Gravel</td>
 				<td class="col-4 hidden-xs"><nobr>19 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mondraker Foxy XR (Happyride annonser)]]></title>
@@ -716,12 +778,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/mondraker-foxy-xr.187039/">Mondraker Foxy XR</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">23 000:-</span>
+				<td class="col-2"><h4><a href="/annonser/mondraker-foxy-xr.187039/">Mondraker Foxy XR</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">23 000:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>23 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mondraker Raze RR SL - trail - flcycling (Happyride annonser)]]></title>
@@ -739,80 +801,11 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/">Mondraker Raze RR SL - trail - flcycling</a></h4> <i class="fa fa-building" title="Företagsannons"></i> Säljes i Stockholm<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">39 999:-</span>
+				<td class="col-2"><h4><a href="/annonser/mondraker-raze-rr-sl-trail-flcycling.176778/">Mondraker Raze RR SL - trail - flcycling</a></h4> <i class="fa fa-building" title="Företagsannons"></i> Säljes i Stockholm<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">39 999:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Mountainbike</td>
 				<td class="col-4 hidden-xs"><nobr>39 999:-</nobr></td>
-				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Fuel EX 8 [Final sale!] (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-fuel-ex-8-final-sale.173737/</id>
-        <link href="https://happyride.se/annonser/trek-fuel-ex-8-final-sale.173737/"/>
-        <updated>2022-05-07T05:40:51.556Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/trek-fuel-ex-8-final-sale.173737/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/334859.jpg?1651863961" alt="Trek Fuel EX 8 [Final sale!]" loading="lazy" srcset="/img/admarket/small2x/334859.jpg?1651863961 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-fuel-ex-8-final-sale.173737/">Trek Fuel EX 8 [Final sale!]</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">8 499:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Mountainbike</td>
-				<td class="col-4 hidden-xs"><nobr>8 499:-</nobr></td>
-				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Wahoo 24" (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-wahoo-24.187003/</id>
-        <link href="https://happyride.se/annonser/trek-wahoo-24.187003/"/>
-        <updated>2022-05-05T05:44:18.923Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/trek-wahoo-24.187003/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/365599.jpg?1651697738" alt="Trek Wahoo 24&quot;" loading="lazy" srcset="/img/admarket/small2x/365599.jpg?1651697738 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-wahoo-24.187003/">Trek Wahoo 24"</a></h4> Säljes i Gävleborg<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">4 200:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Barncykel</td>
-				<td class="col-4 hidden-xs"><nobr>4 200:-</nobr></td>
-				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek Madone 2.5 (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/trek-madone-2-5.186956/</id>
-        <link href="https://happyride.se/annonser/trek-madone-2-5.186956/"/>
-        <updated>2022-05-04T17:49:08.879Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/trek-madone-2-5.186956/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/365474.jpg?1651677239" alt="Trek Madone 2.5" loading="lazy" srcset="/img/admarket/small2x/365474.jpg?1651677239 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/trek-madone-2-5.186956/">Trek Madone 2.5</a></h4> Säljes i Halland<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">5 700:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Racercykel / Landsväg</td>
-				<td class="col-4 hidden-xs"><nobr>5 700:-</nobr></td>
 				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
@@ -865,7 +858,7 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
         <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
         <id>https://vekkt0r.github.io/feeds/all.xml</id>
         <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-05-11T05:48:27.666Z</updated>
+        <updated>2022-05-11T17:51:28.218Z</updated>
         <content type="html"><![CDATA[<td colspan="5">
 					<div class="anm1-container visible-xs">
 		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
@@ -918,6 +911,85 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 				<td class="hidden-xs"><nobr>3 veckor</nobr></td>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Såld (Happyride annonser)]]></title>
+        <id>https://happyride.se/annonser/sald.187764/</id>
+        <link href="https://happyride.se/annonser/sald.187764/"/>
+        <updated>2022-05-11T17:51:30.427Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/sald.187764/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/367387.jpg?1652286291" alt="Såld" loading="lazy" srcset="/img/admarket/small2x/367387.jpg?1652286291 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/sald.187764/">Såld</a></h4> Säljes i Östergötland<span class="visible-xs-inline">, 3 timmar</span><span class="visible-xs">600:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Komponenter</td>
+				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
+				<td class="hidden-xs"><nobr>3 timmar</nobr></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nytt Sram xx1 34t framdrev 3mm offset (Happyride annonser)]]></title>
+        <id>https://happyride.se/annonser/nytt-sram-xx1-34t-framdrev-3mm-offset.187706/</id>
+        <link href="https://happyride.se/annonser/nytt-sram-xx1-34t-framdrev-3mm-offset.187706/"/>
+        <updated>2022-05-11T17:51:30.428Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/nytt-sram-xx1-34t-framdrev-3mm-offset.187706/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/367247.jpg?1652250655" alt="Nytt Sram xx1 34t framdrev 3mm offset" loading="lazy" srcset="/img/admarket/small2x/367247.jpg?1652250655 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/nytt-sram-xx1-34t-framdrev-3mm-offset.187706/">Nytt Sram xx1 34t framdrev 3mm offset</a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 11 timmar</span><span class="visible-xs">600:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Komponenter</td>
+				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
+				<td class="hidden-xs"><nobr>11 timmar</nobr></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
+        <id>https://vekkt0r.github.io/feeds/all.xml</id>
+        <link href="https://vekkt0r.github.io/feeds/all.xml"/>
+        <updated>2022-05-11T17:51:30.048Z</updated>
+        <content type="html"><![CDATA[<td colspan="5">
+					<div class="anm1-container visible-xs">
+		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
+	</div>				</td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stages carbon xx1 dub 175mm (Happyride annonser)]]></title>
+        <id>https://happyride.se/annonser/stages-carbon-xx1-dub-175mm.187704/</id>
+        <link href="https://happyride.se/annonser/stages-carbon-xx1-dub-175mm.187704/"/>
+        <updated>2022-05-11T17:51:30.439Z</updated>
+        <content type="html"><![CDATA[<td class="col-1">
+
+					<a href="/annonser/stages-carbon-xx1-dub-175mm.187704/">
+					 <div class="image_holder">
+						 <div class="image">
+						 <img src="/img/admarket/small/367243.jpg?1652250457" alt="Stages carbon xx1 dub 175mm " loading="lazy" srcset="/img/admarket/small2x/367243.jpg?1652250457 2x" border="0">
+						 						 </div>
+					 </div>
+					</a>
+
+				</td>
+				<td class="col-2"><h4><a href="/annonser/stages-carbon-xx1-dub-175mm.187704/">Stages carbon xx1 dub 175mm </a></h4> Säljes i Dalarna<span class="visible-xs-inline">, 11 timmar</span><span class="visible-xs">3 500:-</span>
+				
+								</td>
+				<td class="col-3 hidden-xs">Komponenter</td>
+				<td class="col-4 hidden-xs"><nobr>3 500:-</nobr></td>
+				<td class="hidden-xs"><nobr>11 timmar</nobr></td>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SRAM Force eTap AXS Bromsok (Happyride annonser)]]></title>
         <id>https://happyride.se/annonser/sram-force-etap-axs-bromsok.187569/</id>
         <link href="https://happyride.se/annonser/sram-force-etap-axs-bromsok.187569/"/>
@@ -964,16 +1036,6 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (Happyride annonser)]]></title>
-        <id>https://vekkt0r.github.io/feeds/all.xml</id>
-        <link href="https://vekkt0r.github.io/feeds/all.xml"/>
-        <updated>2022-05-11T05:48:29.922Z</updated>
-        <content type="html"><![CDATA[<td colspan="5">
-					<div class="anm1-container visible-xs">
-		<div class="anm1" id="a-mobile1"><script>if(window.show_for_small) { googletag.cmd.push(function() { googletag.display('a-mobile1'); }); }</script></div>
-	</div>				</td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SRAM XX1 bakväxel och reglage (Happyride annonser)]]></title>
         <id>https://happyride.se/annonser/sram-xx1-bakvaxel-och-reglage.187392/</id>
         <link href="https://happyride.se/annonser/sram-xx1-bakvaxel-och-reglage.187392/"/>
@@ -989,12 +1051,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/sram-xx1-bakvaxel-och-reglage.187392/">SRAM XX1 bakväxel och reglage</a></h4> Säljes i Västmanland<span class="visible-xs-inline">, 2 dagar</span><span class="visible-xs">2 300:-</span>
+				<td class="col-2"><h4><a href="/annonser/sram-xx1-bakvaxel-och-reglage.187392/">SRAM XX1 bakväxel och reglage</a></h4> Säljes i Västmanland<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">2 300:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>2 300:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sram XX1 12s bakväxel + Sram XX1 12s trigger växelreglage (Happyride annonser)]]></title>
@@ -1012,12 +1074,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/sram-xx1-12s-bakvaxel-sram-xx1-12s-trigger-vaxelreglage.187266/">Sram XX1 12s bakväxel + Sram XX1 12s trigger växelreglage</a></h4> Säljes i Älvsborg<span class="visible-xs-inline">, 3 dagar</span><span class="visible-xs">1 800:-</span>
+				<td class="col-2"><h4><a href="/annonser/sram-xx1-12s-bakvaxel-sram-xx1-12s-trigger-vaxelreglage.187266/">Sram XX1 12s bakväxel + Sram XX1 12s trigger växelreglage</a></h4> Säljes i Älvsborg<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">1 800:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>1 800:-</nobr></td>
-				<td class="hidden-xs"><nobr>3 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sadel (Happyride annonser)]]></title>
@@ -1035,12 +1097,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/sadel.137910/">Sadel</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 4 dagar</span><span class="visible-xs">600:-</span>
+				<td class="col-2"><h4><a href="/annonser/sadel.137910/">Sadel</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">600:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter och tillbehör</td>
 				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SRAM  framdrev 28T, Sram Crank Arm Guard For XX1/X01 (Happyride annonser)]]></title>
@@ -1058,12 +1120,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/sram-framdrev-28t-sram-crank-arm-guard-for-xx1-x01.177127/">SRAM  framdrev 28T, Sram Crank Arm Guard For XX1/X01 </a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">-</span>
+				<td class="col-2"><h4><a href="/annonser/sram-framdrev-28t-sram-crank-arm-guard-for-xx1-x01.177127/">SRAM  framdrev 28T, Sram Crank Arm Guard For XX1/X01 </a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>-</nobr></td>
-				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sram X7 2x10 Speed Framväxel Direct Mount (Happyride annonser)]]></title>
@@ -1081,12 +1143,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/sram-x7-2x10-speed-framvaxel-direct-mount.180748/">Sram X7 2x10 Speed Framväxel Direct Mount</a></h4> Säljes i Södermanland<span class="visible-xs-inline">, 5 dagar</span><span class="visible-xs">129:-</span>
+				<td class="col-2"><h4><a href="/annonser/sram-x7-2x10-speed-framvaxel-direct-mount.180748/">Sram X7 2x10 Speed Framväxel Direct Mount</a></h4> Säljes i Södermanland<span class="visible-xs-inline">, 6 dagar</span><span class="visible-xs">129:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>129:-</nobr></td>
-				<td class="hidden-xs"><nobr>5 dagar</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>6 dagar</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hope AM/FR 50mm styrstam, Orange (Happyride annonser)]]></title>
@@ -1311,12 +1373,12 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 					</a>
 
 				</td>
-				<td class="col-2"><h4><a href="/annonser/ceramic-speed-pulley-wheels-for-sram-1-11.164218/">Ceramic Speed Pulley Wheels for SRAM 1-11</a></h4> Säljes i Jämtland<span class="visible-xs-inline">, 4 veckor</span><span class="visible-xs">1 600:-</span>
+				<td class="col-2"><h4><a href="/annonser/ceramic-speed-pulley-wheels-for-sram-1-11.164218/">Ceramic Speed Pulley Wheels for SRAM 1-11</a></h4> Säljes i Jämtland<span class="visible-xs-inline">, 1 månad</span><span class="visible-xs">1 600:-</span>
 				
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>1 600:-</nobr></td>
-				<td class="hidden-xs"><nobr>4 veckor</nobr></td>]]></content>
+				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sram Ratio technology 1×12 Wide Upgrade Kit (Happyride annonser)]]></title>
@@ -1457,29 +1519,6 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hope Tech 3 E4/X2 + Kit/Tillbehör (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/hope-tech-3-e4-x2-kit-tillbehor.182801/</id>
-        <link href="https://happyride.se/annonser/hope-tech-3-e4-x2-kit-tillbehor.182801/"/>
-        <updated>2022-03-27T17:40:55.803Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/hope-tech-3-e4-x2-kit-tillbehor.182801/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/355530.jpg?1648390072" alt="Hope Tech 3 E4/X2 + Kit/Tillbehör" loading="lazy" srcset="/img/admarket/small2x/355530.jpg?1648390072 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/hope-tech-3-e4-x2-kit-tillbehor.182801/">Hope Tech 3 E4/X2 + Kit/Tillbehör</a></h4> Säljes i Göteborg<span class="visible-xs-inline">, 1 månad</span><span class="visible-xs">5 500:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Komponenter</td>
-				<td class="col-4 hidden-xs"><nobr>5 500:-</nobr></td>
-				<td class="hidden-xs"><nobr>1 månad</nobr></td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tacx Neo T2800 (Happyride annonser)]]></title>
         <id>https://happyride.se/annonser/tacx-neo-t2800.174042/</id>
         <link href="https://happyride.se/annonser/tacx-neo-t2800.174042/"/>
@@ -1569,52 +1608,6 @@ Som hyresgäst kan du hyra en gästlägenhet som är fullt möblerad när du få
 								</td>
 				<td class="col-3 hidden-xs">Komponenter</td>
 				<td class="col-4 hidden-xs"><nobr>1 000:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRAM RED eTap HRD Brake Caliper Post Mount | FW/RW (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/sram-red-etap-hrd-brake-caliper-post-mount-fw-rw.179926/</id>
-        <link href="https://happyride.se/annonser/sram-red-etap-hrd-brake-caliper-post-mount-fw-rw.179926/"/>
-        <updated>2022-04-30T05:41:05.376Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/sram-red-etap-hrd-brake-caliper-post-mount-fw-rw.179926/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/348686.jpg?1645557235" alt="SRAM RED eTap HRD Brake Caliper Post Mount | FW/RW" loading="lazy" srcset="/img/admarket/small2x/348686.jpg?1645557235 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/sram-red-etap-hrd-brake-caliper-post-mount-fw-rw.179926/">SRAM RED eTap HRD Brake Caliper Post Mount | FW/RW</a></h4> Säljes i Skaraborg<span class="visible-xs-inline">, 2 mån</span><span class="visible-xs">600:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Komponenter</td>
-				<td class="col-4 hidden-xs"><nobr>600:-</nobr></td>
-				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framdrev MTB (Happyride annonser)]]></title>
-        <id>https://happyride.se/annonser/framdrev-mtb.179663/</id>
-        <link href="https://happyride.se/annonser/framdrev-mtb.179663/"/>
-        <updated>2022-05-11T05:48:30.767Z</updated>
-        <content type="html"><![CDATA[<td class="col-1">
-
-					<a href="/annonser/framdrev-mtb.179663/">
-					 <div class="image_holder">
-						 <div class="image">
-						 <img src="/img/admarket/small/348034.jpg?1645289521" alt="Framdrev MTB" loading="lazy" srcset="/img/admarket/small2x/348034.jpg?1645289521 2x" border="0">
-						 						 </div>
-					 </div>
-					</a>
-
-				</td>
-				<td class="col-2"><h4><a href="/annonser/framdrev-mtb.179663/">Framdrev MTB</a></h4> Säljes i Stockholm<span class="visible-xs-inline">, 2 mån</span><span class="visible-xs">100:-</span>
-				
-								</td>
-				<td class="col-3 hidden-xs">Komponenter</td>
-				<td class="col-4 hidden-xs"><nobr>100:-</nobr></td>
 				<td class="hidden-xs"><nobr>2 mån</nobr></td>]]></content>
     </entry>
 </feed>
